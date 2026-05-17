@@ -1,0 +1,49 @@
+啟動方式：
+cd ~\主動ETF\public
+python -m http.server 8000
+
+網址:
+http://127.0.0.1:8000
+
+
+手動
+python scripts/run_daily_auto.py
+
+安裝每日 18:30 自動更新：
+powershell -ExecutionPolicy Bypass -File scripts/install_daily_task.ps1 -Time "22:00"
+
+
+自動搜尋主動 ETF：
+scripts/etfinfo_source.py
+
+live crawler：
+抓 ETFInfo 的 Nuxt _payload.json。
+抓取路徑為 https://www.etfinfo.tw/etf/{ETF_CODE}/holdings。
+ETFInfo 頁面本身也標示完整持股明細與快照日期，例如 00995A holdings 頁有「完整持股明細」與快照日期資訊。
+
+新增歷史快照累積與重建：
+scripts/run_daily_auto.py
+scripts/rebuild_history.py
+每天跑會累積 data/normalized/{data_date}/，再和上一個有效日期比較。
+
+
+新增每日排程安裝腳本：
+scripts/install_daily_task.ps1
+
+說明文件：docs/automation.md
+
+
+前端首頁 ETF 快速入口已改成動態清單，只顯示 latest 目前有資料的 ETF。
+新增 crawler / diff 測試，目前測試通過：11 passed。
+
+live fetch 結果：
+
+自動發現 25 檔主動 ETF。
+
+成功抓到 20 檔持股快照。
+
+latest 2026-05-15 矩陣目前含 18 檔 ETF。
+
+另有 2 檔最新快照仍停在 2026-05-14。
+
+5 檔目前無可解析持股，已寫入 data/errors/，不會中斷每日流程。

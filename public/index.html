@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>主動式 ETF 籌碼觀測站</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="sticky-console" id="search">
+        <div class="nav-shell">
+          <div class="control-row">
+            <div class="row-label">追蹤 ETF</div>
+            <div class="etf-grid sticky-grid" id="etfGrid"></div>
+          </div>
+
+          <div class="control-row">
+            <div class="row-label">排行榜</div>
+            <div class="rank-tabs sticky-tabs" id="rankTabs"></div>
+          </div>
+
+          <div class="search-line">
+            <div class="update-date">更新日期：<span id="dataDate">讀取中</span></div>
+            <div class="search-row">
+              <select id="stockSelect" aria-label="熱門個股"></select>
+              <input id="stockInput" type="search" placeholder="輸入代號..." />
+              <button class="primary-button" id="searchButton" type="button">查詢個股</button>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <section class="hero-panel">
+        <div class="hero-title-row">
+          <div class="hero-bulb">💡</div>
+          <div>
+            <h1>主動式 ETF 籌碼觀測站</h1>
+            <p class="subtitle">本系統監測 <span id="etfCount">讀取中</span> 檔台股主動式 ETF 作為核心數據來源。</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-panel">
+        <div class="summary-grid">
+          <div class="stat"><strong id="stockCount">0</strong><span>索引個股</span></div>
+          <div class="stat"><strong id="addCount">0</strong><span>加碼榜筆數</span></div>
+          <div class="stat"><strong id="newCount">0</strong><span>新增榜筆數</span></div>
+          <div class="stat"><strong id="crowdedCount">0</strong><span>擁擠持股</span></div>
+        </div>
+        <div class="section-head" id="rankings">
+          <div>
+            <h2 id="contentTitle">今日排行榜</h2>
+            <p class="muted" id="contentHint">點選上方 ETF、排行榜或查詢個股後，結果會顯示在這裡。</p>
+          </div>
+        </div>
+        <div id="rankingTable"></div>
+      </section>
+
+      <section class="disclaimer">
+        <h2>⚠️ 免責聲明</h2>
+        <p>本網站所提供之投資資訊僅供個人研究及參考，不構成任何形式的投資建議、要約或承諾。數據內容主要根據第三方公開資訊整理，本站不保證其即時性與準確性，讀者應審慎評估。</p>
+      </section>
+    </main>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

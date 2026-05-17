@@ -1,0 +1,19 @@
+{
+  "change_rules": {
+    "primary_basis": "shares_change",
+    "use_weight_change_as_secondary": true
+  },
+  "ranking_rules": {
+    "strong_add_lot_threshold": 500,
+    "strong_new_lot_threshold": 500,
+    "dump_warning_lot_threshold": 300,
+    "core_weight_pct_threshold": 3,
+    "crowded_holding_etf_count_threshold": 7,
+    "consensus_add_etf_count_threshold": 3
+  },
+  "display_rules": {
+    "decimal_places_weight": 2,
+    "decimal_places_lot": 1,
+    "show_inconsistent_warning": true
+  }
+}

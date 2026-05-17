@@ -1,0 +1,4843 @@
+{
+  "meta": {
+    "data_date": "2026-05-14",
+    "history_days": 5,
+    "stored_dates": [
+      "2026-05-14",
+      "2026-05-15",
+      "2026-05-16"
+    ],
+    "available_dates": [
+      "2026-05-14",
+      "2026-05-15"
+    ],
+    "dates": [
+      "2026-05-14"
+    ],
+    "compare_start_date": "2026-05-14",
+    "compare_end_date": "2026-05-15",
+    "stock_count": 200
+  },
+  "stocks": {
+    "2330": {
+      "stock_id": "2330",
+      "stock_name": "台積電",
+      "stock_display": "台積電(2330)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 5.2,
+          "total_shares": 12458000,
+          "total_lots": 12458,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 10.26,
+              "shares": 11657000,
+              "shares_lot": 11657
+            },
+            "00988A": {
+              "weight_pct": 1.7,
+              "shares": 270000,
+              "shares_lot": 270
+            },
+            "00990A": {
+              "weight_pct": 3.64,
+              "shares": 531000,
+              "shares_lot": 531
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 12458000,
+        "end_total_shares": 36358999,
+        "shares_change": 23900999,
+        "start_total_lots": 12458,
+        "end_total_lots": 36359.0,
+        "lots_change": 23901.0,
+        "start_avg_weight_pct": 5.2,
+        "end_avg_weight_pct": 10.27,
+        "weight_change_pct": 5.07,
+        "held_etf_count_change": 15
+      }
+    },
+    "2383": {
+      "stock_id": "2383",
+      "stock_name": "台光電",
+      "stock_display": "台光電(2383)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 4.55,
+          "total_shares": 5084000,
+          "total_lots": 5084,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 8.47,
+              "shares": 4723000,
+              "shares_lot": 4723
+            },
+            "00988A": {
+              "weight_pct": 3.03,
+              "shares": 217000,
+              "shares_lot": 217
+            },
+            "00990A": {
+              "weight_pct": 2.14,
+              "shares": 144000,
+              "shares_lot": 144
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 5084000,
+        "end_total_shares": 8826803,
+        "shares_change": 3742803,
+        "start_total_lots": 5084,
+        "end_total_lots": 8826.8,
+        "lots_change": 3742.8,
+        "start_avg_weight_pct": 4.55,
+        "end_avg_weight_pct": 5.26,
+        "weight_change_pct": 0.71,
+        "held_etf_count_change": 12
+      }
+    },
+    "2345": {
+      "stock_id": "2345",
+      "stock_name": "智邦",
+      "stock_display": "智邦(2345)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 6.07,
+          "total_shares": 6231000,
+          "total_lots": 6231,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 6.07,
+              "shares": 6231000,
+              "shares_lot": 6231
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 6231000,
+        "end_total_shares": 11643000,
+        "shares_change": 5412000,
+        "start_total_lots": 6231,
+        "end_total_lots": 11643,
+        "lots_change": 5412,
+        "start_avg_weight_pct": 6.07,
+        "end_avg_weight_pct": 3.39,
+        "weight_change_pct": -2.68,
+        "held_etf_count_change": 16
+      }
+    },
+    "2454": {
+      "stock_id": "2454",
+      "stock_name": "聯發科",
+      "stock_display": "聯發科(2454)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 3.01,
+          "total_shares": 4628000,
+          "total_lots": 4628,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 5.4,
+              "shares": 4263000,
+              "shares_lot": 4263
+            },
+            "00988A": {
+              "weight_pct": 3.12,
+              "shares": 315000,
+              "shares_lot": 315
+            },
+            "00990A": {
+              "weight_pct": 0.51,
+              "shares": 50000,
+              "shares_lot": 50
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 4628000,
+        "end_total_shares": 6763000,
+        "shares_change": 2135000,
+        "start_total_lots": 4628,
+        "end_total_lots": 6763,
+        "lots_change": 2135,
+        "start_avg_weight_pct": 3.01,
+        "end_avg_weight_pct": 3.55,
+        "weight_change_pct": 0.54,
+        "held_etf_count_change": 11
+      }
+    },
+    "2308": {
+      "stock_id": "2308",
+      "stock_name": "台達電",
+      "stock_display": "台達電(2308)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 3.76,
+          "total_shares": 7507000,
+          "total_lots": 7507,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 5.3,
+              "shares": 6572000,
+              "shares_lot": 6572
+            },
+            "00988A": {
+              "weight_pct": 1.89,
+              "shares": 307000,
+              "shares_lot": 307
+            },
+            "00990A": {
+              "weight_pct": 4.09,
+              "shares": 628000,
+              "shares_lot": 628
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 7507000,
+        "end_total_shares": 12880499,
+        "shares_change": 5373499,
+        "start_total_lots": 7507,
+        "end_total_lots": 12880.5,
+        "lots_change": 5373.5,
+        "start_avg_weight_pct": 3.76,
+        "end_avg_weight_pct": 3.93,
+        "weight_change_pct": 0.17,
+        "held_etf_count_change": 14
+      }
+    },
+    "6223": {
+      "stock_id": "6223",
+      "stock_name": "旺矽",
+      "stock_display": "旺矽(6223)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 2,
+          "avg_weight_pct": 3.21,
+          "total_shares": 2259000,
+          "total_lots": 2259,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 4.97,
+              "shares": 2169000,
+              "shares_lot": 2169
+            },
+            "00988A": {
+              "weight_pct": 1.46,
+              "shares": 90000,
+              "shares_lot": 90
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 2259000,
+        "end_total_shares": 4022901,
+        "shares_change": 1763901,
+        "start_total_lots": 2259,
+        "end_total_lots": 4022.9,
+        "lots_change": 1763.9,
+        "start_avg_weight_pct": 3.21,
+        "end_avg_weight_pct": 3.28,
+        "weight_change_pct": 0.07,
+        "held_etf_count_change": 14
+      }
+    },
+    "3017": {
+      "stock_id": "3017",
+      "stock_name": "奇鋐",
+      "stock_display": "奇鋐(3017)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 2.43,
+          "total_shares": 5270000,
+          "total_lots": 5270,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 4.7,
+              "shares": 4925000,
+              "shares_lot": 4925
+            },
+            "00988A": {
+              "weight_pct": 1.58,
+              "shares": 215000,
+              "shares_lot": 215
+            },
+            "00990A": {
+              "weight_pct": 1.0,
+              "shares": 130000,
+              "shares_lot": 130
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 5270000,
+        "end_total_shares": 10203500,
+        "shares_change": 4933500,
+        "start_total_lots": 5270,
+        "end_total_lots": 10203.5,
+        "lots_change": 4933.5,
+        "start_avg_weight_pct": 2.43,
+        "end_avg_weight_pct": 3.15,
+        "weight_change_pct": 0.72,
+        "held_etf_count_change": 11
+      }
+    },
+    "6669": {
+      "stock_id": "6669",
+      "stock_name": "緯穎",
+      "stock_display": "緯穎(6669)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 4.56,
+          "total_shares": 2294000,
+          "total_lots": 2294,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 4.56,
+              "shares": 2294000,
+              "shares_lot": 2294
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 2294000,
+        "end_total_shares": 4637000,
+        "shares_change": 2343000,
+        "start_total_lots": 2294,
+        "end_total_lots": 4637,
+        "lots_change": 2343,
+        "start_avg_weight_pct": 4.56,
+        "end_avg_weight_pct": 3.27,
+        "weight_change_pct": -1.29,
+        "held_etf_count_change": 12
+      }
+    },
+    "8046": {
+      "stock_id": "8046",
+      "stock_name": "南電",
+      "stock_display": "南電(8046)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 3.87,
+          "total_shares": 12658000,
+          "total_lots": 12658,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.87,
+              "shares": 12658000,
+              "shares_lot": 12658
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 12658000,
+        "end_total_shares": 19462000,
+        "shares_change": 6804000,
+        "start_total_lots": 12658,
+        "end_total_lots": 19462,
+        "lots_change": 6804,
+        "start_avg_weight_pct": 3.87,
+        "end_avg_weight_pct": 2.0,
+        "weight_change_pct": -1.87,
+        "held_etf_count_change": 9
+      }
+    },
+    "3665": {
+      "stock_id": "3665",
+      "stock_name": "貿聯-KY",
+      "stock_display": "貿聯-KY(3665)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 3.83,
+          "total_shares": 4703848,
+          "total_lots": 4703.8,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.83,
+              "shares": 4703848,
+              "shares_lot": 4703.8
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 4703848,
+        "end_total_shares": 7458320,
+        "shares_change": 2754472,
+        "start_total_lots": 4703.8,
+        "end_total_lots": 7458.2,
+        "lots_change": 2754.4,
+        "start_avg_weight_pct": 3.83,
+        "end_avg_weight_pct": 2.12,
+        "weight_change_pct": -1.71,
+        "held_etf_count_change": 12
+      }
+    },
+    "2368": {
+      "stock_id": "2368",
+      "stock_name": "金像電",
+      "stock_display": "金像電(2368)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 3.52,
+          "total_shares": 7018000,
+          "total_lots": 7018,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.52,
+              "shares": 7018000,
+              "shares_lot": 7018
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 7018000,
+        "end_total_shares": 14962000,
+        "shares_change": 7944000,
+        "start_total_lots": 7018,
+        "end_total_lots": 14962,
+        "lots_change": 7944,
+        "start_avg_weight_pct": 3.52,
+        "end_avg_weight_pct": 2.44,
+        "weight_change_pct": -1.08,
+        "held_etf_count_change": 15
+      }
+    },
+    "3037": {
+      "stock_id": "3037",
+      "stock_name": "欣興",
+      "stock_display": "欣興(3037)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 2.47,
+          "total_shares": 12353000,
+          "total_lots": 12353,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.45,
+              "shares": 10822000,
+              "shares_lot": 10822
+            },
+            "00988A": {
+              "weight_pct": 2.27,
+              "shares": 897000,
+              "shares_lot": 897
+            },
+            "00990A": {
+              "weight_pct": 1.69,
+              "shares": 634000,
+              "shares_lot": 634
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 12353000,
+        "end_total_shares": 26064000,
+        "shares_change": 13711000,
+        "start_total_lots": 12353,
+        "end_total_lots": 26064,
+        "lots_change": 13711,
+        "start_avg_weight_pct": 2.47,
+        "end_avg_weight_pct": 3.44,
+        "weight_change_pct": 0.97,
+        "held_etf_count_change": 8
+      }
+    },
+    "2327": {
+      "stock_id": "2327",
+      "stock_name": "國巨*",
+      "stock_display": "國巨*(2327)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 3.24,
+          "total_shares": 18313000,
+          "total_lots": 18313,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.24,
+              "shares": 18313000,
+              "shares_lot": 18313
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 18313000,
+        "end_total_shares": 29953000,
+        "shares_change": 11640000,
+        "start_total_lots": 18313,
+        "end_total_lots": 29953,
+        "lots_change": 11640,
+        "start_avg_weight_pct": 3.24,
+        "end_avg_weight_pct": 2.22,
+        "weight_change_pct": -1.02,
+        "held_etf_count_change": 7
+      }
+    },
+    "5274": {
+      "stock_id": "5274",
+      "stock_name": "信驊",
+      "stock_display": "信驊(5274)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 1.76,
+          "total_shares": 523000,
+          "total_lots": 523,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.23,
+              "shares": 483000,
+              "shares_lot": 483
+            },
+            "00988A": {
+              "weight_pct": 1.52,
+              "shares": 30000,
+              "shares_lot": 30
+            },
+            "00990A": {
+              "weight_pct": 0.54,
+              "shares": 10000,
+              "shares_lot": 10
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 523000,
+        "end_total_shares": 907700,
+        "shares_change": 384700,
+        "start_total_lots": 523,
+        "end_total_lots": 907.7,
+        "lots_change": 384.7,
+        "start_avg_weight_pct": 1.76,
+        "end_avg_weight_pct": 2.69,
+        "weight_change_pct": 0.93,
+        "held_etf_count_change": 8
+      }
+    },
+    "3711": {
+      "stock_id": "3711",
+      "stock_name": "日月光投控",
+      "stock_display": "日月光投控(3711)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 2,
+          "avg_weight_pct": 2.45,
+          "total_shares": 16098000,
+          "total_lots": 16098,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.19,
+              "shares": 14998000,
+              "shares_lot": 14998
+            },
+            "00988A": {
+              "weight_pct": 1.71,
+              "shares": 1100000,
+              "shares_lot": 1100
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 16098000,
+        "end_total_shares": 27394002,
+        "shares_change": 11296002,
+        "start_total_lots": 16098,
+        "end_total_lots": 27394.0,
+        "lots_change": 11296.0,
+        "start_avg_weight_pct": 2.45,
+        "end_avg_weight_pct": 1.73,
+        "weight_change_pct": -0.72,
+        "held_etf_count_change": 11
+      }
+    },
+    "3653": {
+      "stock_id": "3653",
+      "stock_name": "健策",
+      "stock_display": "健策(3653)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 2,
+          "avg_weight_pct": 2.08,
+          "total_shares": 2377000,
+          "total_lots": 2377,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.05,
+              "shares": 2267000,
+              "shares_lot": 2267
+            },
+            "00990A": {
+              "weight_pct": 1.12,
+              "shares": 110000,
+              "shares_lot": 110
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 2377000,
+        "end_total_shares": 3153501,
+        "shares_change": 776501,
+        "start_total_lots": 2377,
+        "end_total_lots": 3153.5,
+        "lots_change": 776.5,
+        "start_avg_weight_pct": 2.08,
+        "end_avg_weight_pct": 1.34,
+        "weight_change_pct": -0.74,
+        "held_etf_count_change": 10
+      }
+    },
+    "2303": {
+      "stock_id": "2303",
+      "stock_name": "聯電",
+      "stock_display": "聯電(2303)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 2.4,
+          "total_shares": 56167000,
+          "total_lots": 56167,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 2.4,
+              "shares": 56167000,
+              "shares_lot": 56167
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 56167000,
+        "end_total_shares": 128532000,
+        "shares_change": 72365000,
+        "start_total_lots": 56167,
+        "end_total_lots": 128532,
+        "lots_change": 72365,
+        "start_avg_weight_pct": 2.4,
+        "end_avg_weight_pct": 2.43,
+        "weight_change_pct": 0.03,
+        "held_etf_count_change": 6
+      }
+    },
+    "6274": {
+      "stock_id": "6274",
+      "stock_name": "台燿",
+      "stock_display": "台燿(6274)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 1.41,
+          "total_shares": 4649000,
+          "total_lots": 4649,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 2.11,
+              "shares": 4151000,
+              "shares_lot": 4151
+            },
+            "00988A": {
+              "weight_pct": 0.95,
+              "shares": 230000,
+              "shares_lot": 230
+            },
+            "00990A": {
+              "weight_pct": 1.18,
+              "shares": 268000,
+              "shares_lot": 268
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 4649000,
+        "end_total_shares": 6534000,
+        "shares_change": 1885000,
+        "start_total_lots": 4649,
+        "end_total_lots": 6534,
+        "lots_change": 1885,
+        "start_avg_weight_pct": 1.41,
+        "end_avg_weight_pct": 2.0,
+        "weight_change_pct": 0.59,
+        "held_etf_count_change": 8
+      }
+    },
+    "6515": {
+      "stock_id": "6515",
+      "stock_name": "穎崴",
+      "stock_display": "穎崴(6515)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 2,
+          "avg_weight_pct": 1.78,
+          "total_shares": 509000,
+          "total_lots": 509,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 1.68,
+              "shares": 442000,
+              "shares_lot": 442
+            },
+            "00988A": {
+              "weight_pct": 1.88,
+              "shares": 67000,
+              "shares_lot": 67
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 509000,
+        "end_total_shares": 972000,
+        "shares_change": 463000,
+        "start_total_lots": 509,
+        "end_total_lots": 972,
+        "lots_change": 463,
+        "start_avg_weight_pct": 1.78,
+        "end_avg_weight_pct": 2.08,
+        "weight_change_pct": 0.3,
+        "held_etf_count_change": 10
+      }
+    },
+    "2449": {
+      "stock_id": "2449",
+      "stock_name": "京元電子",
+      "stock_display": "京元電子(2449)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.5,
+          "total_shares": 12919000,
+          "total_lots": 12919,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 1.5,
+              "shares": 12919000,
+              "shares_lot": 12919
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 12919000,
+        "end_total_shares": 14413500,
+        "shares_change": 1494500,
+        "start_total_lots": 12919,
+        "end_total_lots": 14413.5,
+        "lots_change": 1494.5,
+        "start_avg_weight_pct": 1.5,
+        "end_avg_weight_pct": 1.49,
+        "weight_change_pct": -0.01,
+        "held_etf_count_change": 4
+      }
+    },
+    "6510": {
+      "stock_id": "6510",
+      "stock_name": "精測",
+      "stock_display": "精測(6510)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.35,
+          "total_shares": 930000,
+          "total_lots": 930,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 1.35,
+              "shares": 930000,
+              "shares_lot": 930
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 930000,
+        "end_total_shares": 1552000,
+        "shares_change": 622000,
+        "start_total_lots": 930,
+        "end_total_lots": 1552,
+        "lots_change": 622,
+        "start_avg_weight_pct": 1.35,
+        "end_avg_weight_pct": 1.68,
+        "weight_change_pct": 0.33,
+        "held_etf_count_change": 6
+      }
+    },
+    "6805": {
+      "stock_id": "6805",
+      "stock_name": "富世達",
+      "stock_display": "富世達(6805)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.19,
+          "total_shares": 1761000,
+          "total_lots": 1761,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 1.19,
+              "shares": 1761000,
+              "shares_lot": 1761
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 1761000,
+        "end_total_shares": 2390000,
+        "shares_change": 629000,
+        "start_total_lots": 1761,
+        "end_total_lots": 2390,
+        "lots_change": 629,
+        "start_avg_weight_pct": 1.19,
+        "end_avg_weight_pct": 1.2,
+        "weight_change_pct": 0.01,
+        "held_etf_count_change": 7
+      }
+    },
+    "8210": {
+      "stock_id": "8210",
+      "stock_name": "勤誠",
+      "stock_display": "勤誠(8210)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.08,
+          "total_shares": 1967000,
+          "total_lots": 1967,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 1.08,
+              "shares": 1967000,
+              "shares_lot": 1967
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 1967000,
+        "end_total_shares": 4010000,
+        "shares_change": 2043000,
+        "start_total_lots": 1967,
+        "end_total_lots": 4010,
+        "lots_change": 2043,
+        "start_avg_weight_pct": 1.08,
+        "end_avg_weight_pct": 1.35,
+        "weight_change_pct": 0.27,
+        "held_etf_count_change": 9
+      }
+    },
+    "3264": {
+      "stock_id": "3264",
+      "stock_name": "欣銓",
+      "stock_display": "欣銓(3264)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.79,
+          "total_shares": 9030000,
+          "total_lots": 9030,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.79,
+              "shares": 9030000,
+              "shares_lot": 9030
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 9030000,
+        "end_total_shares": 19567200,
+        "shares_change": 10537200,
+        "start_total_lots": 9030,
+        "end_total_lots": 19567.2,
+        "lots_change": 10537.2,
+        "start_avg_weight_pct": 0.79,
+        "end_avg_weight_pct": 1.21,
+        "weight_change_pct": 0.42,
+        "held_etf_count_change": 6
+      }
+    },
+    "6187": {
+      "stock_id": "6187",
+      "stock_name": "萬潤",
+      "stock_display": "萬潤(6187)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.54,
+          "total_shares": 1224000,
+          "total_lots": 1224,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.54,
+              "shares": 1224000,
+              "shares_lot": 1224
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 1224000,
+        "end_total_shares": 1548000,
+        "shares_change": 324000,
+        "start_total_lots": 1224,
+        "end_total_lots": 1548,
+        "lots_change": 324,
+        "start_avg_weight_pct": 0.54,
+        "end_avg_weight_pct": 1.76,
+        "weight_change_pct": 1.22,
+        "held_etf_count_change": 3
+      }
+    },
+    "2404": {
+      "stock_id": "2404",
+      "stock_name": "漢唐",
+      "stock_display": "漢唐(2404)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.54,
+          "total_shares": 1394000,
+          "total_lots": 1394,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.54,
+              "shares": 1394000,
+              "shares_lot": 1394
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 1394000,
+        "end_total_shares": 510000,
+        "shares_change": -884000,
+        "start_total_lots": 1394,
+        "end_total_lots": 510,
+        "lots_change": -884,
+        "start_avg_weight_pct": 0.54,
+        "end_avg_weight_pct": 0.46,
+        "weight_change_pct": -0.08,
+        "held_etf_count_change": 2
+      }
+    },
+    "5439": {
+      "stock_id": "5439",
+      "stock_name": "高技",
+      "stock_display": "高技(5439)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.54,
+          "total_shares": 3528000,
+          "total_lots": 3528,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.54,
+              "shares": 3528000,
+              "shares_lot": 3528
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 3528000,
+        "end_total_shares": 65180,
+        "shares_change": -3462820,
+        "start_total_lots": 3528,
+        "end_total_lots": 65.2,
+        "lots_change": -3462.8,
+        "start_avg_weight_pct": 0.54,
+        "end_avg_weight_pct": 0.24,
+        "weight_change_pct": -0.3,
+        "held_etf_count_change": 1
+      }
+    },
+    "3008": {
+      "stock_id": "3008",
+      "stock_name": "大立光",
+      "stock_display": "大立光(3008)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.44,
+          "total_shares": 329000,
+          "total_lots": 329,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.44,
+              "shares": 329000,
+              "shares_lot": 329
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 329000,
+        "end_total_shares": 330000,
+        "shares_change": 1000,
+        "start_total_lots": 329,
+        "end_total_lots": 330,
+        "lots_change": 1,
+        "start_avg_weight_pct": 0.44,
+        "end_avg_weight_pct": 0.27,
+        "weight_change_pct": -0.17,
+        "held_etf_count_change": 1
+      }
+    },
+    "8996": {
+      "stock_id": "8996",
+      "stock_name": "高力",
+      "stock_display": "高力(8996)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.42,
+          "total_shares": 1034000,
+          "total_lots": 1034,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.42,
+              "shares": 1034000,
+              "shares_lot": 1034
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 1034000,
+        "end_total_shares": 3831000,
+        "shares_change": 2797000,
+        "start_total_lots": 1034,
+        "end_total_lots": 3831,
+        "lots_change": 2797,
+        "start_avg_weight_pct": 0.42,
+        "end_avg_weight_pct": 1.23,
+        "weight_change_pct": 0.81,
+        "held_etf_count_change": 7
+      }
+    },
+    "2357": {
+      "stock_id": "2357",
+      "stock_name": "華碩",
+      "stock_display": "華碩(2357)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.42,
+          "total_shares": 1703000,
+          "total_lots": 1703,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.42,
+              "shares": 1703000,
+              "shares_lot": 1703
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 1703000,
+        "end_total_shares": 3115000,
+        "shares_change": 1412000,
+        "start_total_lots": 1703,
+        "end_total_lots": 3115,
+        "lots_change": 1412,
+        "start_avg_weight_pct": 0.42,
+        "end_avg_weight_pct": 1.44,
+        "weight_change_pct": 1.02,
+        "held_etf_count_change": 4
+      }
+    },
+    "2313": {
+      "stock_id": "2313",
+      "stock_name": "華通",
+      "stock_display": "華通(2313)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.38,
+          "total_shares": 4124000,
+          "total_lots": 4124,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.38,
+              "shares": 4124000,
+              "shares_lot": 4124
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 4124000,
+        "end_total_shares": 6380000,
+        "shares_change": 2256000,
+        "start_total_lots": 4124,
+        "end_total_lots": 6380,
+        "lots_change": 2256,
+        "start_avg_weight_pct": 0.38,
+        "end_avg_weight_pct": 0.65,
+        "weight_change_pct": 0.27,
+        "held_etf_count_change": 5
+      }
+    },
+    "8150": {
+      "stock_id": "8150",
+      "stock_name": "南茂",
+      "stock_display": "南茂(8150)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.36,
+          "total_shares": 11334000,
+          "total_lots": 11334,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.36,
+              "shares": 11334000,
+              "shares_lot": 11334
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 11334000,
+        "end_total_shares": 11334000,
+        "shares_change": 0,
+        "start_total_lots": 11334,
+        "end_total_lots": 11334,
+        "lots_change": 0,
+        "start_avg_weight_pct": 0.36,
+        "end_avg_weight_pct": 0.36,
+        "weight_change_pct": 0.0,
+        "held_etf_count_change": 0
+      }
+    },
+    "4966": {
+      "stock_id": "4966",
+      "stock_name": "譜瑞-KY",
+      "stock_display": "譜瑞-KY(4966)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.32,
+          "total_shares": 1036000,
+          "total_lots": 1036,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.32,
+              "shares": 1036000,
+              "shares_lot": 1036
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 1036000,
+        "end_total_shares": 1820000,
+        "shares_change": 784000,
+        "start_total_lots": 1036,
+        "end_total_lots": 1820,
+        "lots_change": 784,
+        "start_avg_weight_pct": 0.32,
+        "end_avg_weight_pct": 0.36,
+        "weight_change_pct": 0.04,
+        "held_etf_count_change": 1
+      }
+    },
+    "8358": {
+      "stock_id": "8358",
+      "stock_name": "金居",
+      "stock_display": "金居(8358)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.3,
+          "total_shares": 1980000,
+          "total_lots": 1980,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.3,
+              "shares": 1980000,
+              "shares_lot": 1980
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 1980000,
+        "end_total_shares": 3977000,
+        "shares_change": 1997000,
+        "start_total_lots": 1980,
+        "end_total_lots": 3977,
+        "lots_change": 1997,
+        "start_avg_weight_pct": 0.3,
+        "end_avg_weight_pct": 0.97,
+        "weight_change_pct": 0.67,
+        "held_etf_count_change": 3
+      }
+    },
+    "1590": {
+      "stock_id": "1590",
+      "stock_name": "亞德客-KY",
+      "stock_display": "亞德客-KY(1590)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.3,
+          "total_shares": 530000,
+          "total_lots": 530,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.3,
+              "shares": 530000,
+              "shares_lot": 530
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 530000,
+        "end_total_shares": 225000,
+        "shares_change": -305000,
+        "start_total_lots": 530,
+        "end_total_lots": 225,
+        "lots_change": -305,
+        "start_avg_weight_pct": 0.3,
+        "end_avg_weight_pct": 0.59,
+        "weight_change_pct": 0.29,
+        "held_etf_count_change": 2
+      }
+    },
+    "6278": {
+      "stock_id": "6278",
+      "stock_name": "台表科",
+      "stock_display": "台表科(6278)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.21,
+          "total_shares": 2500000,
+          "total_lots": 2500,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.21,
+              "shares": 2500000,
+              "shares_lot": 2500
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 2500000,
+        "end_total_shares": 2976000,
+        "shares_change": 476000,
+        "start_total_lots": 2500,
+        "end_total_lots": 2976,
+        "lots_change": 476,
+        "start_avg_weight_pct": 0.21,
+        "end_avg_weight_pct": 0.36,
+        "weight_change_pct": 0.15,
+        "held_etf_count_change": 1
+      }
+    },
+    "3443": {
+      "stock_id": "3443",
+      "stock_name": "創意",
+      "stock_display": "創意(3443)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.2,
+          "total_shares": 107000,
+          "total_lots": 107,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.2,
+              "shares": 107000,
+              "shares_lot": 107
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 107000,
+        "end_total_shares": 841050,
+        "shares_change": 734050,
+        "start_total_lots": 107,
+        "end_total_lots": 841.1,
+        "lots_change": 734.1,
+        "start_avg_weight_pct": 0.2,
+        "end_avg_weight_pct": 1.82,
+        "weight_change_pct": 1.62,
+        "held_etf_count_change": 8
+      }
+    },
+    "6415": {
+      "stock_id": "6415",
+      "stock_name": "矽力*-KY",
+      "stock_display": "矽力*-KY(6415)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.17,
+          "total_shares": 940000,
+          "total_lots": 940,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.17,
+              "shares": 940000,
+              "shares_lot": 940
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 940000,
+        "end_total_shares": 1196000,
+        "shares_change": 256000,
+        "start_total_lots": 940,
+        "end_total_lots": 1196,
+        "lots_change": 256,
+        "start_avg_weight_pct": 0.17,
+        "end_avg_weight_pct": 0.66,
+        "weight_change_pct": 0.49,
+        "held_etf_count_change": 1
+      }
+    },
+    "2481": {
+      "stock_id": "2481",
+      "stock_name": "強茂",
+      "stock_display": "強茂(2481)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.17,
+          "total_shares": 3654000,
+          "total_lots": 3654,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.17,
+              "shares": 3654000,
+              "shares_lot": 3654
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 3654000,
+        "end_total_shares": 2510000,
+        "shares_change": -1144000,
+        "start_total_lots": 3654,
+        "end_total_lots": 2510,
+        "lots_change": -1144,
+        "start_avg_weight_pct": 0.17,
+        "end_avg_weight_pct": 0.1,
+        "weight_change_pct": -0.07,
+        "held_etf_count_change": 1
+      }
+    },
+    "6191": {
+      "stock_id": "6191",
+      "stock_name": "精成科",
+      "stock_display": "精成科(6191)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.14,
+          "total_shares": 3988000,
+          "total_lots": 3988,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.14,
+              "shares": 3988000,
+              "shares_lot": 3988
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 3988000,
+        "end_total_shares": 3988000,
+        "shares_change": 0,
+        "start_total_lots": 3988,
+        "end_total_lots": 3988,
+        "lots_change": 0,
+        "start_avg_weight_pct": 0.14,
+        "end_avg_weight_pct": 0.14,
+        "weight_change_pct": 0.0,
+        "held_etf_count_change": 0
+      }
+    },
+    "3036": {
+      "stock_id": "3036",
+      "stock_name": "文曄",
+      "stock_display": "文曄(3036)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.13,
+          "total_shares": 1200000,
+          "total_lots": 1200,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.13,
+              "shares": 1200000,
+              "shares_lot": 1200
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 1200000,
+        "end_total_shares": 5511000,
+        "shares_change": 4311000,
+        "start_total_lots": 1200,
+        "end_total_lots": 5511,
+        "lots_change": 4311,
+        "start_avg_weight_pct": 0.13,
+        "end_avg_weight_pct": 1.04,
+        "weight_change_pct": 0.91,
+        "held_etf_count_change": 6
+      }
+    },
+    "3376": {
+      "stock_id": "3376",
+      "stock_name": "新日興",
+      "stock_display": "新日興(3376)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.13,
+          "total_shares": 1741000,
+          "total_lots": 1741,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.13,
+              "shares": 1741000,
+              "shares_lot": 1741
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 1741000,
+        "end_total_shares": 371000,
+        "shares_change": -1370000,
+        "start_total_lots": 1741,
+        "end_total_lots": 371,
+        "lots_change": -1370,
+        "start_avg_weight_pct": 0.13,
+        "end_avg_weight_pct": 0.07,
+        "weight_change_pct": -0.06,
+        "held_etf_count_change": 1
+      }
+    },
+    "3217": {
+      "stock_id": "3217",
+      "stock_name": "優群",
+      "stock_display": "優群(3217)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.06,
+          "total_shares": 874000,
+          "total_lots": 874,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.06,
+              "shares": 874000,
+              "shares_lot": 874
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 874000,
+        "end_total_shares": 874000,
+        "shares_change": 0,
+        "start_total_lots": 874,
+        "end_total_lots": 874,
+        "lots_change": 0,
+        "start_avg_weight_pct": 0.06,
+        "end_avg_weight_pct": 0.06,
+        "weight_change_pct": 0.0,
+        "held_etf_count_change": 0
+      }
+    },
+    "2002": {
+      "stock_id": "2002",
+      "stock_name": "中鋼",
+      "stock_display": "中鋼(2002)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.04,
+          "total_shares": 5163000,
+          "total_lots": 5163,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.04,
+              "shares": 5163000,
+              "shares_lot": 5163
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 5163000,
+        "end_total_shares": 5163000,
+        "shares_change": 0,
+        "start_total_lots": 5163,
+        "end_total_lots": 5163,
+        "lots_change": 0,
+        "start_avg_weight_pct": 0.04,
+        "end_avg_weight_pct": 0.04,
+        "weight_change_pct": 0.0,
+        "held_etf_count_change": 0
+      }
+    },
+    "1319": {
+      "stock_id": "1319",
+      "stock_name": "東陽",
+      "stock_display": "東陽(1319)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.02,
+          "total_shares": 511000,
+          "total_lots": 511,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.02,
+              "shares": 511000,
+              "shares_lot": 511
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 511000,
+        "end_total_shares": 4619000,
+        "shares_change": 4108000,
+        "start_total_lots": 511,
+        "end_total_lots": 4619,
+        "lots_change": 4108,
+        "start_avg_weight_pct": 0.02,
+        "end_avg_weight_pct": 0.61,
+        "weight_change_pct": 0.59,
+        "held_etf_count_change": 2
+      }
+    },
+    "1815": {
+      "stock_id": "1815",
+      "stock_name": "富喬",
+      "stock_display": "富喬(1815)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 107000,
+          "total_lots": 107,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 0.0,
+              "shares": 107000,
+              "shares_lot": 107
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 107000,
+        "end_total_shares": 293000,
+        "shares_change": 186000,
+        "start_total_lots": 107,
+        "end_total_lots": 293,
+        "lots_change": 186,
+        "start_avg_weight_pct": 0.0,
+        "end_avg_weight_pct": 0.13,
+        "weight_change_pct": 0.13,
+        "held_etf_count_change": 1
+      }
+    },
+    "7769": {
+      "stock_id": "7769",
+      "stock_name": "鴻勁",
+      "stock_display": "鴻勁(7769)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.76,
+          "total_shares": 36000,
+          "total_lots": 36,
+          "etfs": {
+            "00988A": {
+              "weight_pct": 0.76,
+              "shares": 36000,
+              "shares_lot": 36
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 36000,
+        "end_total_shares": 818000,
+        "shares_change": 782000,
+        "start_total_lots": 36,
+        "end_total_lots": 818,
+        "lots_change": 782,
+        "start_avg_weight_pct": 0.76,
+        "end_avg_weight_pct": 2.53,
+        "weight_change_pct": 1.77,
+        "held_etf_count_change": 8
+      }
+    },
+    "5347": {
+      "stock_id": "5347",
+      "stock_name": "世界",
+      "stock_display": "世界(5347)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.32,
+          "total_shares": 2498000,
+          "total_lots": 2498,
+          "etfs": {
+            "00990A": {
+              "weight_pct": 1.32,
+              "shares": 2498000,
+              "shares_lot": 2498
+            }
+          }
+        }
+      ],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 2498000,
+        "end_total_shares": 10131000,
+        "shares_change": 7633000,
+        "start_total_lots": 2498,
+        "end_total_lots": 10131,
+        "lots_change": 7633,
+        "start_avg_weight_pct": 1.32,
+        "end_avg_weight_pct": 1.17,
+        "weight_change_pct": -0.15,
+        "held_etf_count_change": 1
+      }
+    },
+    "2609": {
+      "stock_id": "2609",
+      "stock_name": "YANG MING MARINE TRANSPORT",
+      "stock_display": "YANG MING MARINE TRANSPORT(2609)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 14000,
+        "shares_change": 14000,
+        "start_total_lots": 0,
+        "end_total_lots": 14,
+        "lots_change": 14,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.02,
+        "weight_change_pct": 0.02,
+        "held_etf_count_change": 1
+      }
+    },
+    "5269": {
+      "stock_id": "5269",
+      "stock_name": "祥碩科技",
+      "stock_display": "祥碩科技(5269)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 22000,
+        "shares_change": 22000,
+        "start_total_lots": 0,
+        "end_total_lots": 22,
+        "lots_change": 22,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.69,
+        "weight_change_pct": 0.69,
+        "held_etf_count_change": 1
+      }
+    },
+    "3529": {
+      "stock_id": "3529",
+      "stock_name": "EMEMORY TECHNOLOGY INC",
+      "stock_display": "EMEMORY TECHNOLOGY INC(3529)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 20000,
+        "shares_change": 20000,
+        "start_total_lots": 0,
+        "end_total_lots": 20,
+        "lots_change": 20,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.96,
+        "weight_change_pct": 0.96,
+        "held_etf_count_change": 2
+      }
+    },
+    "3706": {
+      "stock_id": "3706",
+      "stock_name": "神達",
+      "stock_display": "神達(3706)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 356400,
+        "shares_change": 356400,
+        "start_total_lots": 0,
+        "end_total_lots": 356.4,
+        "lots_change": 356.4,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.21,
+        "weight_change_pct": 0.21,
+        "held_etf_count_change": 2
+      }
+    },
+    "6213": {
+      "stock_id": "6213",
+      "stock_name": "聯茂",
+      "stock_display": "聯茂(6213)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 277000,
+        "shares_change": 277000,
+        "start_total_lots": 0,
+        "end_total_lots": 277,
+        "lots_change": 277,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.52,
+        "weight_change_pct": 1.52,
+        "held_etf_count_change": 1
+      }
+    },
+    "2820": {
+      "stock_id": "2820",
+      "stock_name": "華票",
+      "stock_display": "華票(2820)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1041000,
+        "shares_change": 1041000,
+        "start_total_lots": 0,
+        "end_total_lots": 1041,
+        "lots_change": 1041,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.25,
+        "weight_change_pct": 0.25,
+        "held_etf_count_change": 1
+      }
+    },
+    "2377": {
+      "stock_id": "2377",
+      "stock_name": "微星",
+      "stock_display": "微星(2377)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 74000,
+        "shares_change": 74000,
+        "start_total_lots": 0,
+        "end_total_lots": 74,
+        "lots_change": 74,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.13,
+        "weight_change_pct": 0.13,
+        "held_etf_count_change": 1
+      }
+    },
+    "8155": {
+      "stock_id": "8155",
+      "stock_name": "博智電子",
+      "stock_display": "博智電子(8155)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 335000,
+        "shares_change": 335000,
+        "start_total_lots": 0,
+        "end_total_lots": 335,
+        "lots_change": 335,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.8,
+        "weight_change_pct": 1.8,
+        "held_etf_count_change": 2
+      }
+    },
+    "6257": {
+      "stock_id": "6257",
+      "stock_name": "矽格",
+      "stock_display": "矽格(6257)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 7516000,
+        "shares_change": 7516000,
+        "start_total_lots": 0,
+        "end_total_lots": 7516,
+        "lots_change": 7516,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.74,
+        "weight_change_pct": 1.74,
+        "held_etf_count_change": 2
+      }
+    },
+    "7750": {
+      "stock_id": "7750",
+      "stock_name": "新  代",
+      "stock_display": "新  代(7750)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 67000,
+        "shares_change": 67000,
+        "start_total_lots": 0,
+        "end_total_lots": 67,
+        "lots_change": 67,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.58,
+        "weight_change_pct": 0.58,
+        "held_etf_count_change": 2
+      }
+    },
+    "2324": {
+      "stock_id": "2324",
+      "stock_name": "仁寶",
+      "stock_display": "仁寶(2324)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3062000,
+        "shares_change": 3062000,
+        "start_total_lots": 0,
+        "end_total_lots": 3062,
+        "lots_change": 3062,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.35,
+        "weight_change_pct": 1.35,
+        "held_etf_count_change": 1
+      }
+    },
+    "2855": {
+      "stock_id": "2855",
+      "stock_name": "統一證券",
+      "stock_display": "統一證券(2855)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 550000,
+        "shares_change": 550000,
+        "start_total_lots": 0,
+        "end_total_lots": 550,
+        "lots_change": 550,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.32,
+        "weight_change_pct": 0.32,
+        "held_etf_count_change": 1
+      }
+    },
+    "3583": {
+      "stock_id": "3583",
+      "stock_name": "辛耘",
+      "stock_display": "辛耘(3583)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1921000,
+        "shares_change": 1921000,
+        "start_total_lots": 0,
+        "end_total_lots": 1921,
+        "lots_change": 1921,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.81,
+        "weight_change_pct": 0.81,
+        "held_etf_count_change": 3
+      }
+    },
+    "2379": {
+      "stock_id": "2379",
+      "stock_name": "REALTEK SEMICONDUCTOR CORP",
+      "stock_display": "REALTEK SEMICONDUCTOR CORP(2379)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 307000,
+        "shares_change": 307000,
+        "start_total_lots": 0,
+        "end_total_lots": 307,
+        "lots_change": 307,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.65,
+        "weight_change_pct": 1.65,
+        "held_etf_count_change": 2
+      }
+    },
+    "9938": {
+      "stock_id": "9938",
+      "stock_name": "台灣百和工業",
+      "stock_display": "台灣百和工業(9938)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3590000,
+        "shares_change": 3590000,
+        "start_total_lots": 0,
+        "end_total_lots": 3590,
+        "lots_change": 3590,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.94,
+        "weight_change_pct": 0.94,
+        "held_etf_count_change": 1
+      }
+    },
+    "2548": {
+      "stock_id": "2548",
+      "stock_name": "華固建設",
+      "stock_display": "華固建設(2548)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2627000,
+        "shares_change": 2627000,
+        "start_total_lots": 0,
+        "end_total_lots": 2627,
+        "lots_change": 2627,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.65,
+        "weight_change_pct": 0.65,
+        "held_etf_count_change": 3
+      }
+    },
+    "6177": {
+      "stock_id": "6177",
+      "stock_name": "達麗",
+      "stock_display": "達麗(6177)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1862350,
+        "shares_change": 1862350,
+        "start_total_lots": 0,
+        "end_total_lots": 1862.3,
+        "lots_change": 1862.3,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.17,
+        "weight_change_pct": 0.17,
+        "held_etf_count_change": 1
+      }
+    },
+    "5434": {
+      "stock_id": "5434",
+      "stock_name": "崇越",
+      "stock_display": "崇越(5434)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 200000,
+        "shares_change": 200000,
+        "start_total_lots": 0,
+        "end_total_lots": 200,
+        "lots_change": 200,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.39,
+        "weight_change_pct": 0.39,
+        "held_etf_count_change": 1
+      }
+    },
+    "6584": {
+      "stock_id": "6584",
+      "stock_name": "南俊國際",
+      "stock_display": "南俊國際(6584)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1597000,
+        "shares_change": 1597000,
+        "start_total_lots": 0,
+        "end_total_lots": 1597,
+        "lots_change": 1597,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.38,
+        "weight_change_pct": 1.38,
+        "held_etf_count_change": 2
+      }
+    },
+    "1326": {
+      "stock_id": "1326",
+      "stock_name": "台化",
+      "stock_display": "台化(1326)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 554000,
+        "shares_change": 554000,
+        "start_total_lots": 0,
+        "end_total_lots": 554,
+        "lots_change": 554,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.36,
+        "weight_change_pct": 0.36,
+        "held_etf_count_change": 1
+      }
+    },
+    "1785": {
+      "stock_id": "1785",
+      "stock_name": "光洋科",
+      "stock_display": "光洋科(1785)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 5835000,
+        "shares_change": 5835000,
+        "start_total_lots": 0,
+        "end_total_lots": 5835,
+        "lots_change": 5835,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.23,
+        "weight_change_pct": 1.23,
+        "held_etf_count_change": 2
+      }
+    },
+    "1560": {
+      "stock_id": "1560",
+      "stock_name": "中砂",
+      "stock_display": "中砂(1560)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 851000,
+        "shares_change": 851000,
+        "start_total_lots": 0,
+        "end_total_lots": 851,
+        "lots_change": 851,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.35,
+        "weight_change_pct": 0.35,
+        "held_etf_count_change": 1
+      }
+    },
+    "2455": {
+      "stock_id": "2455",
+      "stock_name": "全新",
+      "stock_display": "全新(2455)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2646000,
+        "shares_change": 2646000,
+        "start_total_lots": 0,
+        "end_total_lots": 2646,
+        "lots_change": 2646,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.39,
+        "weight_change_pct": 1.39,
+        "held_etf_count_change": 5
+      }
+    },
+    "6442": {
+      "stock_id": "6442",
+      "stock_name": "光聖",
+      "stock_display": "光聖(6442)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 582000,
+        "shares_change": 582000,
+        "start_total_lots": 0,
+        "end_total_lots": 582,
+        "lots_change": 582,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.73,
+        "weight_change_pct": 0.73,
+        "held_etf_count_change": 3
+      }
+    },
+    "2393": {
+      "stock_id": "2393",
+      "stock_name": "億光電子工業",
+      "stock_display": "億光電子工業(2393)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3826000,
+        "shares_change": 3826000,
+        "start_total_lots": 0,
+        "end_total_lots": 3826,
+        "lots_change": 3826,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.48,
+        "weight_change_pct": 1.48,
+        "held_etf_count_change": 1
+      }
+    },
+    "6146": {
+      "stock_id": "6146",
+      "stock_name": "耕興",
+      "stock_display": "耕興(6146)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 144000,
+        "shares_change": 144000,
+        "start_total_lots": 0,
+        "end_total_lots": 144,
+        "lots_change": 144,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.19,
+        "weight_change_pct": 0.19,
+        "held_etf_count_change": 1
+      }
+    },
+    "3661": {
+      "stock_id": "3661",
+      "stock_name": "世芯-KY",
+      "stock_display": "世芯-KY(3661)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 415000,
+        "shares_change": 415000,
+        "start_total_lots": 0,
+        "end_total_lots": 415,
+        "lots_change": 415,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.83,
+        "weight_change_pct": 1.83,
+        "held_etf_count_change": 3
+      }
+    },
+    "1215": {
+      "stock_id": "1215",
+      "stock_name": "台灣卜蜂企業",
+      "stock_display": "台灣卜蜂企業(1215)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 256000,
+        "shares_change": 256000,
+        "start_total_lots": 0,
+        "end_total_lots": 256,
+        "lots_change": 256,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.21,
+        "weight_change_pct": 0.21,
+        "held_etf_count_change": 1
+      }
+    },
+    "3167": {
+      "stock_id": "3167",
+      "stock_name": "TA LIANG TECHNOLOGY CO LTD",
+      "stock_display": "TA LIANG TECHNOLOGY CO LTD(3167)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 99000,
+        "shares_change": 99000,
+        "start_total_lots": 0,
+        "end_total_lots": 99,
+        "lots_change": 99,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.97,
+        "weight_change_pct": 0.97,
+        "held_etf_count_change": 2
+      }
+    },
+    "1802": {
+      "stock_id": "1802",
+      "stock_name": "台玻",
+      "stock_display": "台玻(1802)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 90000,
+        "shares_change": 90000,
+        "start_total_lots": 0,
+        "end_total_lots": 90,
+        "lots_change": 90,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.13,
+        "weight_change_pct": 0.13,
+        "held_etf_count_change": 1
+      }
+    },
+    "6285": {
+      "stock_id": "6285",
+      "stock_name": "WISTRON NEWEB CORP",
+      "stock_display": "WISTRON NEWEB CORP(6285)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 4516000,
+        "shares_change": 4516000,
+        "start_total_lots": 0,
+        "end_total_lots": 4516,
+        "lots_change": 4516,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.61,
+        "weight_change_pct": 1.61,
+        "held_etf_count_change": 3
+      }
+    },
+    "3045": {
+      "stock_id": "3045",
+      "stock_name": "台灣大",
+      "stock_display": "台灣大(3045)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2974000,
+        "shares_change": 2974000,
+        "start_total_lots": 0,
+        "end_total_lots": 2974,
+        "lots_change": 2974,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.94,
+        "weight_change_pct": 1.94,
+        "held_etf_count_change": 2
+      }
+    },
+    "4915": {
+      "stock_id": "4915",
+      "stock_name": "致伸科技",
+      "stock_display": "致伸科技(4915)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 4206000,
+        "shares_change": 4206000,
+        "start_total_lots": 0,
+        "end_total_lots": 4206,
+        "lots_change": 4206,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.6,
+        "weight_change_pct": 0.6,
+        "held_etf_count_change": 3
+      }
+    },
+    "3491": {
+      "stock_id": "3491",
+      "stock_name": "UNIVERSAL MICROWAVE TECH",
+      "stock_display": "UNIVERSAL MICROWAVE TECH(3491)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1105000,
+        "shares_change": 1105000,
+        "start_total_lots": 0,
+        "end_total_lots": 1105,
+        "lots_change": 1105,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.68,
+        "weight_change_pct": 1.68,
+        "held_etf_count_change": 3
+      }
+    },
+    "2472": {
+      "stock_id": "2472",
+      "stock_name": "立隆電",
+      "stock_display": "立隆電(2472)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3809000,
+        "shares_change": 3809000,
+        "start_total_lots": 0,
+        "end_total_lots": 3809,
+        "lots_change": 3809,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.39,
+        "weight_change_pct": 1.39,
+        "held_etf_count_change": 3
+      }
+    },
+    "6789": {
+      "stock_id": "6789",
+      "stock_name": "采鈺科技",
+      "stock_display": "采鈺科技(6789)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 378000,
+        "shares_change": 378000,
+        "start_total_lots": 0,
+        "end_total_lots": 378,
+        "lots_change": 378,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.94,
+        "weight_change_pct": 1.94,
+        "held_etf_count_change": 1
+      }
+    },
+    "2890": {
+      "stock_id": "2890",
+      "stock_name": "SINOPAC FINANCIAL HOLDINGS",
+      "stock_display": "SINOPAC FINANCIAL HOLDINGS(2890)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 277000,
+        "shares_change": 277000,
+        "start_total_lots": 0,
+        "end_total_lots": 277,
+        "lots_change": 277,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.25,
+        "weight_change_pct": 0.25,
+        "held_etf_count_change": 1
+      }
+    },
+    "2441": {
+      "stock_id": "2441",
+      "stock_name": "超豐",
+      "stock_display": "超豐(2441)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 232000,
+        "shares_change": 232000,
+        "start_total_lots": 0,
+        "end_total_lots": 232,
+        "lots_change": 232,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.34,
+        "weight_change_pct": 0.34,
+        "held_etf_count_change": 1
+      }
+    },
+    "2337": {
+      "stock_id": "2337",
+      "stock_name": "旺宏",
+      "stock_display": "旺宏(2337)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 15692000,
+        "shares_change": 15692000,
+        "start_total_lots": 0,
+        "end_total_lots": 15692,
+        "lots_change": 15692,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.31,
+        "weight_change_pct": 1.31,
+        "held_etf_count_change": 3
+      }
+    },
+    "3592": {
+      "stock_id": "3592",
+      "stock_name": "瑞鼎科技",
+      "stock_display": "瑞鼎科技(3592)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1094000,
+        "shares_change": 1094000,
+        "start_total_lots": 0,
+        "end_total_lots": 1094,
+        "lots_change": 1094,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.69,
+        "weight_change_pct": 1.69,
+        "held_etf_count_change": 1
+      }
+    },
+    "3693": {
+      "stock_id": "3693",
+      "stock_name": "營邦",
+      "stock_display": "營邦(3693)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 60000,
+        "shares_change": 60000,
+        "start_total_lots": 0,
+        "end_total_lots": 60,
+        "lots_change": 60,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.71,
+        "weight_change_pct": 0.71,
+        "held_etf_count_change": 1
+      }
+    },
+    "6683": {
+      "stock_id": "6683",
+      "stock_name": "雍智科技",
+      "stock_display": "雍智科技(6683)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 65000,
+        "shares_change": 65000,
+        "start_total_lots": 0,
+        "end_total_lots": 65,
+        "lots_change": 65,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.62,
+        "weight_change_pct": 1.62,
+        "held_etf_count_change": 2
+      }
+    },
+    "3044": {
+      "stock_id": "3044",
+      "stock_name": "健鼎",
+      "stock_display": "健鼎(3044)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3225000,
+        "shares_change": 3225000,
+        "start_total_lots": 0,
+        "end_total_lots": 3225,
+        "lots_change": 3225,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.13,
+        "weight_change_pct": 1.13,
+        "held_etf_count_change": 5
+      }
+    },
+    "2467": {
+      "stock_id": "2467",
+      "stock_name": "C SUN MANUFACTURING LTD",
+      "stock_display": "C SUN MANUFACTURING LTD(2467)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1623000,
+        "shares_change": 1623000,
+        "start_total_lots": 0,
+        "end_total_lots": 1623,
+        "lots_change": 1623,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.97,
+        "weight_change_pct": 0.97,
+        "held_etf_count_change": 4
+      }
+    },
+    "2881": {
+      "stock_id": "2881",
+      "stock_name": "富邦金",
+      "stock_display": "富邦金(2881)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3870025,
+        "shares_change": 3870025,
+        "start_total_lots": 0,
+        "end_total_lots": 3870.0,
+        "lots_change": 3870.0,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.74,
+        "weight_change_pct": 1.74,
+        "held_etf_count_change": 3
+      }
+    },
+    "9802": {
+      "stock_id": "9802",
+      "stock_name": "鈺齊國際",
+      "stock_display": "鈺齊國際(9802)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2003000,
+        "shares_change": 2003000,
+        "start_total_lots": 0,
+        "end_total_lots": 2003,
+        "lots_change": 2003,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.91,
+        "weight_change_pct": 0.91,
+        "held_etf_count_change": 1
+      }
+    },
+    "4958": {
+      "stock_id": "4958",
+      "stock_name": "臻鼎-KY",
+      "stock_display": "臻鼎-KY(4958)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 8838000,
+        "shares_change": 8838000,
+        "start_total_lots": 0,
+        "end_total_lots": 8838,
+        "lots_change": 8838,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.7,
+        "weight_change_pct": 1.7,
+        "held_etf_count_change": 9
+      }
+    },
+    "1102": {
+      "stock_id": "1102",
+      "stock_name": "亞泥",
+      "stock_display": "亞泥(1102)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3355000,
+        "shares_change": 3355000,
+        "start_total_lots": 0,
+        "end_total_lots": 3355,
+        "lots_change": 3355,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.72,
+        "weight_change_pct": 1.72,
+        "held_etf_count_change": 1
+      }
+    },
+    "2885": {
+      "stock_id": "2885",
+      "stock_name": "元大金",
+      "stock_display": "元大金(2885)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 10522420,
+        "shares_change": 10522420,
+        "start_total_lots": 0,
+        "end_total_lots": 10522.4,
+        "lots_change": 10522.4,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.34,
+        "weight_change_pct": 1.34,
+        "held_etf_count_change": 5
+      }
+    },
+    "6147": {
+      "stock_id": "6147",
+      "stock_name": "頎邦",
+      "stock_display": "頎邦(6147)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 7314000,
+        "shares_change": 7314000,
+        "start_total_lots": 0,
+        "end_total_lots": 7314,
+        "lots_change": 7314,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.39,
+        "weight_change_pct": 1.39,
+        "held_etf_count_change": 3
+      }
+    },
+    "6121": {
+      "stock_id": "6121",
+      "stock_name": "新  普",
+      "stock_display": "新  普(6121)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 888000,
+        "shares_change": 888000,
+        "start_total_lots": 0,
+        "end_total_lots": 888,
+        "lots_change": 888,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.94,
+        "weight_change_pct": 0.94,
+        "held_etf_count_change": 2
+      }
+    },
+    "1717": {
+      "stock_id": "1717",
+      "stock_name": "長興",
+      "stock_display": "長興(1717)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 907000,
+        "shares_change": 907000,
+        "start_total_lots": 0,
+        "end_total_lots": 907,
+        "lots_change": 907,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.35,
+        "weight_change_pct": 0.35,
+        "held_etf_count_change": 1
+      }
+    },
+    "9939": {
+      "stock_id": "9939",
+      "stock_name": "宏全國際",
+      "stock_display": "宏全國際(9939)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 317000,
+        "shares_change": 317000,
+        "start_total_lots": 0,
+        "end_total_lots": 317,
+        "lots_change": 317,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.23,
+        "weight_change_pct": 0.23,
+        "held_etf_count_change": 1
+      }
+    },
+    "6768": {
+      "stock_id": "6768",
+      "stock_name": "志強國際企業",
+      "stock_display": "志強國際企業(6768)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1477000,
+        "shares_change": 1477000,
+        "start_total_lots": 0,
+        "end_total_lots": 1477,
+        "lots_change": 1477,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.73,
+        "weight_change_pct": 0.73,
+        "held_etf_count_change": 1
+      }
+    },
+    "3131": {
+      "stock_id": "3131",
+      "stock_name": "弘  塑",
+      "stock_display": "弘  塑(3131)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 110000,
+        "shares_change": 110000,
+        "start_total_lots": 0,
+        "end_total_lots": 110,
+        "lots_change": 110,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.8,
+        "weight_change_pct": 0.8,
+        "held_etf_count_change": 3
+      }
+    },
+    "5536": {
+      "stock_id": "5536",
+      "stock_name": "聖暉*",
+      "stock_display": "聖暉*(5536)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3602000,
+        "shares_change": 3602000,
+        "start_total_lots": 0,
+        "end_total_lots": 3602,
+        "lots_change": 3602,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 7.37,
+        "weight_change_pct": 7.37,
+        "held_etf_count_change": 1
+      }
+    },
+    "2474": {
+      "stock_id": "2474",
+      "stock_name": "可成",
+      "stock_display": "可成(2474)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 295000,
+        "shares_change": 295000,
+        "start_total_lots": 0,
+        "end_total_lots": 295,
+        "lots_change": 295,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.33,
+        "weight_change_pct": 0.33,
+        "held_etf_count_change": 2
+      }
+    },
+    "1402": {
+      "stock_id": "1402",
+      "stock_name": "遠東新",
+      "stock_display": "遠東新(1402)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3775000,
+        "shares_change": 3775000,
+        "start_total_lots": 0,
+        "end_total_lots": 3775,
+        "lots_change": 3775,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.47,
+        "weight_change_pct": 1.47,
+        "held_etf_count_change": 1
+      }
+    },
+    "1519": {
+      "stock_id": "1519",
+      "stock_name": "FORTUNE ELECTRIC CO LTD",
+      "stock_display": "FORTUNE ELECTRIC CO LTD(1519)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 131600,
+        "shares_change": 131600,
+        "start_total_lots": 0,
+        "end_total_lots": 131.6,
+        "lots_change": 131.6,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.43,
+        "weight_change_pct": 0.43,
+        "held_etf_count_change": 4
+      }
+    },
+    "4979": {
+      "stock_id": "4979",
+      "stock_name": "華星光",
+      "stock_display": "華星光(4979)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 860000,
+        "shares_change": 860000,
+        "start_total_lots": 0,
+        "end_total_lots": 860,
+        "lots_change": 860,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.29,
+        "weight_change_pct": 0.29,
+        "held_etf_count_change": 1
+      }
+    },
+    "2347": {
+      "stock_id": "2347",
+      "stock_name": "聯強",
+      "stock_display": "聯強(2347)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 5431000,
+        "shares_change": 5431000,
+        "start_total_lots": 0,
+        "end_total_lots": 5431,
+        "lots_change": 5431,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.61,
+        "weight_change_pct": 0.61,
+        "held_etf_count_change": 2
+      }
+    },
+    "2887": {
+      "stock_id": "2887",
+      "stock_name": "TS FINANCIAL HOLDING CO LTD",
+      "stock_display": "TS FINANCIAL HOLDING CO LTD(2887)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 8158000,
+        "shares_change": 8158000,
+        "start_total_lots": 0,
+        "end_total_lots": 8158,
+        "lots_change": 8158,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.61,
+        "weight_change_pct": 1.61,
+        "held_etf_count_change": 2
+      }
+    },
+    "6781": {
+      "stock_id": "6781",
+      "stock_name": "AES Holding Co Ltd",
+      "stock_display": "AES Holding Co Ltd(6781)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 127000,
+        "shares_change": 127000,
+        "start_total_lots": 0,
+        "end_total_lots": 127,
+        "lots_change": 127,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.35,
+        "weight_change_pct": 1.35,
+        "held_etf_count_change": 1
+      }
+    },
+    "2376": {
+      "stock_id": "2376",
+      "stock_name": "技嘉",
+      "stock_display": "技嘉(2376)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1144000,
+        "shares_change": 1144000,
+        "start_total_lots": 0,
+        "end_total_lots": 1144,
+        "lots_change": 1144,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.95,
+        "weight_change_pct": 0.95,
+        "held_etf_count_change": 2
+      }
+    },
+    "3227": {
+      "stock_id": "3227",
+      "stock_name": "原相科技",
+      "stock_display": "原相科技(3227)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 462000,
+        "shares_change": 462000,
+        "start_total_lots": 0,
+        "end_total_lots": 462,
+        "lots_change": 462,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.62,
+        "weight_change_pct": 0.62,
+        "held_etf_count_change": 1
+      }
+    },
+    "2603": {
+      "stock_id": "2603",
+      "stock_name": "EVERGREEN MARINE CORP LTD",
+      "stock_display": "EVERGREEN MARINE CORP LTD(2603)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 569000,
+        "shares_change": 569000,
+        "start_total_lots": 0,
+        "end_total_lots": 569,
+        "lots_change": 569,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.18,
+        "weight_change_pct": 1.18,
+        "held_etf_count_change": 2
+      }
+    },
+    "2204": {
+      "stock_id": "2204",
+      "stock_name": "中華汽車工業",
+      "stock_display": "中華汽車工業(2204)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2531000,
+        "shares_change": 2531000,
+        "start_total_lots": 0,
+        "end_total_lots": 2531,
+        "lots_change": 2531,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.78,
+        "weight_change_pct": 0.78,
+        "held_etf_count_change": 1
+      }
+    },
+    "2360": {
+      "stock_id": "2360",
+      "stock_name": "致茂",
+      "stock_display": "致茂(2360)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3229000,
+        "shares_change": 3229000,
+        "start_total_lots": 0,
+        "end_total_lots": 3229,
+        "lots_change": 3229,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 2.52,
+        "weight_change_pct": 2.52,
+        "held_etf_count_change": 13
+      }
+    },
+    "8069": {
+      "stock_id": "8069",
+      "stock_name": "元太",
+      "stock_display": "元太(8069)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 995000,
+        "shares_change": 995000,
+        "start_total_lots": 0,
+        "end_total_lots": 995,
+        "lots_change": 995,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.84,
+        "weight_change_pct": 0.84,
+        "held_etf_count_change": 2
+      }
+    },
+    "4904": {
+      "stock_id": "4904",
+      "stock_name": "FAR EASTONE TELECOMM CO LTD",
+      "stock_display": "FAR EASTONE TELECOMM CO LTD(4904)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 5729000,
+        "shares_change": 5729000,
+        "start_total_lots": 0,
+        "end_total_lots": 5729,
+        "lots_change": 5729,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.54,
+        "weight_change_pct": 1.54,
+        "held_etf_count_change": 4
+      }
+    },
+    "3374": {
+      "stock_id": "3374",
+      "stock_name": "精  材",
+      "stock_display": "精  材(3374)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 412000,
+        "shares_change": 412000,
+        "start_total_lots": 0,
+        "end_total_lots": 412,
+        "lots_change": 412,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.45,
+        "weight_change_pct": 0.45,
+        "held_etf_count_change": 2
+      }
+    },
+    "2882": {
+      "stock_id": "2882",
+      "stock_name": "CATHAY FINANCIAL HOLDING CO",
+      "stock_display": "CATHAY FINANCIAL HOLDING CO(2882)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 19608000,
+        "shares_change": 19608000,
+        "start_total_lots": 0,
+        "end_total_lots": 19608,
+        "lots_change": 19608,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.96,
+        "weight_change_pct": 1.96,
+        "held_etf_count_change": 3
+      }
+    },
+    "2412": {
+      "stock_id": "2412",
+      "stock_name": "CHUNGHWA TELECOM CO LTD",
+      "stock_display": "CHUNGHWA TELECOM CO LTD(2412)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2530001,
+        "shares_change": 2530001,
+        "start_total_lots": 0,
+        "end_total_lots": 2530.0,
+        "lots_change": 2530.0,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.3,
+        "weight_change_pct": 1.3,
+        "held_etf_count_change": 3
+      }
+    },
+    "5534": {
+      "stock_id": "5534",
+      "stock_name": "長虹建設",
+      "stock_display": "長虹建設(5534)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1975000,
+        "shares_change": 1975000,
+        "start_total_lots": 0,
+        "end_total_lots": 1975,
+        "lots_change": 1975,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.89,
+        "weight_change_pct": 0.89,
+        "held_etf_count_change": 1
+      }
+    },
+    "5289": {
+      "stock_id": "5289",
+      "stock_name": "宜鼎",
+      "stock_display": "宜鼎(5289)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 514000,
+        "shares_change": 514000,
+        "start_total_lots": 0,
+        "end_total_lots": 514,
+        "lots_change": 514,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.75,
+        "weight_change_pct": 0.75,
+        "held_etf_count_change": 4
+      }
+    },
+    "4746": {
+      "stock_id": "4746",
+      "stock_name": "台耀化學",
+      "stock_display": "台耀化學(4746)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2023000,
+        "shares_change": 2023000,
+        "start_total_lots": 0,
+        "end_total_lots": 2023,
+        "lots_change": 2023,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.63,
+        "weight_change_pct": 0.63,
+        "held_etf_count_change": 1
+      }
+    },
+    "3034": {
+      "stock_id": "3034",
+      "stock_name": "NOVATEK MICROELECTRONICS COR",
+      "stock_display": "NOVATEK MICROELECTRONICS COR(3034)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 57000,
+        "shares_change": 57000,
+        "start_total_lots": 0,
+        "end_total_lots": 57,
+        "lots_change": 57,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.8,
+        "weight_change_pct": 0.8,
+        "held_etf_count_change": 1
+      }
+    },
+    "6488": {
+      "stock_id": "6488",
+      "stock_name": "環球晶",
+      "stock_display": "環球晶(6488)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1823000,
+        "shares_change": 1823000,
+        "start_total_lots": 0,
+        "end_total_lots": 1823,
+        "lots_change": 1823,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.46,
+        "weight_change_pct": 1.46,
+        "held_etf_count_change": 3
+      }
+    },
+    "3363": {
+      "stock_id": "3363",
+      "stock_name": "上詮",
+      "stock_display": "上詮(3363)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 186729,
+        "shares_change": 186729,
+        "start_total_lots": 0,
+        "end_total_lots": 186.7,
+        "lots_change": 186.7,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 2.06,
+        "weight_change_pct": 2.06,
+        "held_etf_count_change": 2
+      }
+    },
+    "2883": {
+      "stock_id": "2883",
+      "stock_name": "CHINA DEVELOPMENT FINANCIAL",
+      "stock_display": "CHINA DEVELOPMENT FINANCIAL(2883)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 10857000,
+        "shares_change": 10857000,
+        "start_total_lots": 0,
+        "end_total_lots": 10857,
+        "lots_change": 10857,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.24,
+        "weight_change_pct": 1.24,
+        "held_etf_count_change": 3
+      }
+    },
+    "6005": {
+      "stock_id": "6005",
+      "stock_name": "群益證券",
+      "stock_display": "群益證券(6005)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2364000,
+        "shares_change": 2364000,
+        "start_total_lots": 0,
+        "end_total_lots": 2364,
+        "lots_change": 2364,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.09,
+        "weight_change_pct": 1.09,
+        "held_etf_count_change": 1
+      }
+    },
+    "4749": {
+      "stock_id": "4749",
+      "stock_name": "新應材",
+      "stock_display": "新應材(4749)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 210000,
+        "shares_change": 210000,
+        "start_total_lots": 0,
+        "end_total_lots": 210,
+        "lots_change": 210,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.42,
+        "weight_change_pct": 0.42,
+        "held_etf_count_change": 4
+      }
+    },
+    "5871": {
+      "stock_id": "5871",
+      "stock_name": "CHAILEASE HOLDING CO LTD",
+      "stock_display": "CHAILEASE HOLDING CO LTD(5871)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 254000,
+        "shares_change": 254000,
+        "start_total_lots": 0,
+        "end_total_lots": 254,
+        "lots_change": 254,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.81,
+        "weight_change_pct": 0.81,
+        "held_etf_count_change": 1
+      }
+    },
+    "2884": {
+      "stock_id": "2884",
+      "stock_name": "E.SUN FINANCIAL HOLDING CO",
+      "stock_display": "E.SUN FINANCIAL HOLDING CO(2884)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1325000,
+        "shares_change": 1325000,
+        "start_total_lots": 0,
+        "end_total_lots": 1325,
+        "lots_change": 1325,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.27,
+        "weight_change_pct": 1.27,
+        "held_etf_count_change": 1
+      }
+    },
+    "5904": {
+      "stock_id": "5904",
+      "stock_name": "寶雅國際",
+      "stock_display": "寶雅國際(5904)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 92450,
+        "shares_change": 92450,
+        "start_total_lots": 0,
+        "end_total_lots": 92.5,
+        "lots_change": 92.5,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.3,
+        "weight_change_pct": 0.3,
+        "held_etf_count_change": 1
+      }
+    },
+    "3680": {
+      "stock_id": "3680",
+      "stock_name": "家登精密",
+      "stock_display": "家登精密(3680)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 62000,
+        "shares_change": 62000,
+        "start_total_lots": 0,
+        "end_total_lots": 62,
+        "lots_change": 62,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.3,
+        "weight_change_pct": 0.3,
+        "held_etf_count_change": 1
+      }
+    },
+    "2880": {
+      "stock_id": "2880",
+      "stock_name": "華南金控",
+      "stock_display": "華南金控(2880)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 4816000,
+        "shares_change": 4816000,
+        "start_total_lots": 0,
+        "end_total_lots": 4816,
+        "lots_change": 4816,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 2.29,
+        "weight_change_pct": 2.29,
+        "held_etf_count_change": 1
+      }
+    },
+    "4441": {
+      "stock_id": "4441",
+      "stock_name": "振大環球",
+      "stock_display": "振大環球(4441)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 62000,
+        "shares_change": 62000,
+        "start_total_lots": 0,
+        "end_total_lots": 62,
+        "lots_change": 62,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.03,
+        "weight_change_pct": 0.03,
+        "held_etf_count_change": 1
+      }
+    },
+    "2851": {
+      "stock_id": "2851",
+      "stock_name": "中央再保",
+      "stock_display": "中央再保(2851)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 650000,
+        "shares_change": 650000,
+        "start_total_lots": 0,
+        "end_total_lots": 650,
+        "lots_change": 650,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.31,
+        "weight_change_pct": 0.31,
+        "held_etf_count_change": 1
+      }
+    },
+    "2891": {
+      "stock_id": "2891",
+      "stock_name": "中信金",
+      "stock_display": "中信金(2891)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 28003000,
+        "shares_change": 28003000,
+        "start_total_lots": 0,
+        "end_total_lots": 28003,
+        "lots_change": 28003,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.64,
+        "weight_change_pct": 1.64,
+        "held_etf_count_change": 6
+      }
+    },
+    "3163": {
+      "stock_id": "3163",
+      "stock_name": "波若威",
+      "stock_display": "波若威(3163)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1021000,
+        "shares_change": 1021000,
+        "start_total_lots": 0,
+        "end_total_lots": 1021,
+        "lots_change": 1021,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.11,
+        "weight_change_pct": 1.11,
+        "held_etf_count_change": 2
+      }
+    },
+    "6451": {
+      "stock_id": "6451",
+      "stock_name": "訊芯-KY",
+      "stock_display": "訊芯-KY(6451)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 66000,
+        "shares_change": 66000,
+        "start_total_lots": 0,
+        "end_total_lots": 66,
+        "lots_change": 66,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.51,
+        "weight_change_pct": 0.51,
+        "held_etf_count_change": 1
+      }
+    },
+    "2637": {
+      "stock_id": "2637",
+      "stock_name": "慧洋-KY",
+      "stock_display": "慧洋-KY(2637)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 273000,
+        "shares_change": 273000,
+        "start_total_lots": 0,
+        "end_total_lots": 273,
+        "lots_change": 273,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.3,
+        "weight_change_pct": 0.3,
+        "held_etf_count_change": 1
+      }
+    },
+    "9910": {
+      "stock_id": "9910",
+      "stock_name": "豐泰企業",
+      "stock_display": "豐泰企業(9910)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3087000,
+        "shares_change": 3087000,
+        "start_total_lots": 0,
+        "end_total_lots": 3087,
+        "lots_change": 3087,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.28,
+        "weight_change_pct": 1.28,
+        "held_etf_count_change": 1
+      }
+    },
+    "3714": {
+      "stock_id": "3714",
+      "stock_name": "富采",
+      "stock_display": "富采(3714)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 386000,
+        "shares_change": 386000,
+        "start_total_lots": 0,
+        "end_total_lots": 386,
+        "lots_change": 386,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.38,
+        "weight_change_pct": 0.38,
+        "held_etf_count_change": 1
+      }
+    },
+    "6670": {
+      "stock_id": "6670",
+      "stock_name": "復盛應用科技",
+      "stock_display": "復盛應用科技(6670)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 656000,
+        "shares_change": 656000,
+        "start_total_lots": 0,
+        "end_total_lots": 656,
+        "lots_change": 656,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.01,
+        "weight_change_pct": 1.01,
+        "held_etf_count_change": 1
+      }
+    },
+    "6023": {
+      "stock_id": "6023",
+      "stock_name": "元大期貨",
+      "stock_display": "元大期貨(6023)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 115000,
+        "shares_change": 115000,
+        "start_total_lots": 0,
+        "end_total_lots": 115,
+        "lots_change": 115,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.17,
+        "weight_change_pct": 0.17,
+        "held_etf_count_change": 1
+      }
+    },
+    "8021": {
+      "stock_id": "8021",
+      "stock_name": "TOPOINT TECHNOLOGY CO LTD",
+      "stock_display": "TOPOINT TECHNOLOGY CO LTD(8021)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 221000,
+        "shares_change": 221000,
+        "start_total_lots": 0,
+        "end_total_lots": 221,
+        "lots_change": 221,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.69,
+        "weight_change_pct": 0.69,
+        "held_etf_count_change": 2
+      }
+    },
+    "2408": {
+      "stock_id": "2408",
+      "stock_name": "南亞科",
+      "stock_display": "南亞科(2408)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 14876000,
+        "shares_change": 14876000,
+        "start_total_lots": 0,
+        "end_total_lots": 14876,
+        "lots_change": 14876,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 2.04,
+        "weight_change_pct": 2.04,
+        "held_etf_count_change": 9
+      }
+    },
+    "3526": {
+      "stock_id": "3526",
+      "stock_name": "凡甲科技",
+      "stock_display": "凡甲科技(3526)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 807000,
+        "shares_change": 807000,
+        "start_total_lots": 0,
+        "end_total_lots": 807,
+        "lots_change": 807,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.83,
+        "weight_change_pct": 1.83,
+        "held_etf_count_change": 1
+      }
+    },
+    "6531": {
+      "stock_id": "6531",
+      "stock_name": "愛普*",
+      "stock_display": "愛普*(6531)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 703000,
+        "shares_change": 703000,
+        "start_total_lots": 0,
+        "end_total_lots": 703,
+        "lots_change": 703,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.52,
+        "weight_change_pct": 1.52,
+        "held_etf_count_change": 1
+      }
+    },
+    "2618": {
+      "stock_id": "2618",
+      "stock_name": "長榮航",
+      "stock_display": "長榮航(2618)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1583000,
+        "shares_change": 1583000,
+        "start_total_lots": 0,
+        "end_total_lots": 1583,
+        "lots_change": 1583,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.81,
+        "weight_change_pct": 0.81,
+        "held_etf_count_change": 1
+      }
+    },
+    "3081": {
+      "stock_id": "3081",
+      "stock_name": "聯亞光電工業",
+      "stock_display": "聯亞光電工業(3081)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 531000,
+        "shares_change": 531000,
+        "start_total_lots": 0,
+        "end_total_lots": 531,
+        "lots_change": 531,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.71,
+        "weight_change_pct": 1.71,
+        "held_etf_count_change": 5
+      }
+    },
+    "3026": {
+      "stock_id": "3026",
+      "stock_name": "禾伸堂",
+      "stock_display": "禾伸堂(3026)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 230000,
+        "shares_change": 230000,
+        "start_total_lots": 0,
+        "end_total_lots": 230,
+        "lots_change": 230,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.2,
+        "weight_change_pct": 1.2,
+        "held_etf_count_change": 1
+      }
+    },
+    "3293": {
+      "stock_id": "3293",
+      "stock_name": "鈊  象",
+      "stock_display": "鈊  象(3293)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 491000,
+        "shares_change": 491000,
+        "start_total_lots": 0,
+        "end_total_lots": 491,
+        "lots_change": 491,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.83,
+        "weight_change_pct": 0.83,
+        "held_etf_count_change": 3
+      }
+    },
+    "2206": {
+      "stock_id": "2206",
+      "stock_name": "三陽工業",
+      "stock_display": "三陽工業(2206)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 131000,
+        "shares_change": 131000,
+        "start_total_lots": 0,
+        "end_total_lots": 131,
+        "lots_change": 131,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.11,
+        "weight_change_pct": 0.11,
+        "held_etf_count_change": 1
+      }
+    },
+    "4938": {
+      "stock_id": "4938",
+      "stock_name": "PEGATRON CORP",
+      "stock_display": "PEGATRON CORP(4938)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1489000,
+        "shares_change": 1489000,
+        "start_total_lots": 0,
+        "end_total_lots": 1489,
+        "lots_change": 1489,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.27,
+        "weight_change_pct": 0.27,
+        "held_etf_count_change": 2
+      }
+    },
+    "6526": {
+      "stock_id": "6526",
+      "stock_name": "達發",
+      "stock_display": "達發(6526)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 176000,
+        "shares_change": 176000,
+        "start_total_lots": 0,
+        "end_total_lots": 176,
+        "lots_change": 176,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 2.63,
+        "weight_change_pct": 2.63,
+        "held_etf_count_change": 1
+      }
+    },
+    "9907": {
+      "stock_id": "9907",
+      "stock_name": "統一實業",
+      "stock_display": "統一實業(9907)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 7053000,
+        "shares_change": 7053000,
+        "start_total_lots": 0,
+        "end_total_lots": 7053,
+        "lots_change": 7053,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.68,
+        "weight_change_pct": 0.68,
+        "held_etf_count_change": 1
+      }
+    },
+    "8464": {
+      "stock_id": "8464",
+      "stock_name": "億豐",
+      "stock_display": "億豐(8464)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 148000,
+        "shares_change": 148000,
+        "start_total_lots": 0,
+        "end_total_lots": 148,
+        "lots_change": 148,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.09,
+        "weight_change_pct": 0.09,
+        "held_etf_count_change": 1
+      }
+    },
+    "9958": {
+      "stock_id": "9958",
+      "stock_name": "世紀鋼鐵結構",
+      "stock_display": "世紀鋼鐵結構(9958)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 307000,
+        "shares_change": 307000,
+        "start_total_lots": 0,
+        "end_total_lots": 307,
+        "lots_change": 307,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.2,
+        "weight_change_pct": 0.2,
+        "held_etf_count_change": 1
+      }
+    },
+    "2395": {
+      "stock_id": "2395",
+      "stock_name": "研華",
+      "stock_display": "研華(2395)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 124000,
+        "shares_change": 124000,
+        "start_total_lots": 0,
+        "end_total_lots": 124,
+        "lots_change": 124,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.3,
+        "weight_change_pct": 0.3,
+        "held_etf_count_change": 2
+      }
+    },
+    "6640": {
+      "stock_id": "6640",
+      "stock_name": "均華",
+      "stock_display": "均華(6640)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 26000,
+        "shares_change": 26000,
+        "start_total_lots": 0,
+        "end_total_lots": 26,
+        "lots_change": 26,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.32,
+        "weight_change_pct": 0.32,
+        "held_etf_count_change": 1
+      }
+    },
+    "2356": {
+      "stock_id": "2356",
+      "stock_name": "英業達",
+      "stock_display": "英業達(2356)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 963000,
+        "shares_change": 963000,
+        "start_total_lots": 0,
+        "end_total_lots": 963,
+        "lots_change": 963,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.75,
+        "weight_change_pct": 0.75,
+        "held_etf_count_change": 1
+      }
+    },
+    "3211": {
+      "stock_id": "3211",
+      "stock_name": "順達",
+      "stock_display": "順達(3211)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2519000,
+        "shares_change": 2519000,
+        "start_total_lots": 0,
+        "end_total_lots": 2519,
+        "lots_change": 2519,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.51,
+        "weight_change_pct": 0.51,
+        "held_etf_count_change": 2
+      }
+    },
+    "4991": {
+      "stock_id": "4991",
+      "stock_name": "GCS HOLDINGS INC",
+      "stock_display": "GCS HOLDINGS INC(4991)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 741000,
+        "shares_change": 741000,
+        "start_total_lots": 0,
+        "end_total_lots": 741,
+        "lots_change": 741,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.92,
+        "weight_change_pct": 0.92,
+        "held_etf_count_change": 2
+      }
+    },
+    "2344": {
+      "stock_id": "2344",
+      "stock_name": "華邦電",
+      "stock_display": "華邦電(2344)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 30334000,
+        "shares_change": 30334000,
+        "start_total_lots": 0,
+        "end_total_lots": 30334,
+        "lots_change": 30334,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.62,
+        "weight_change_pct": 1.62,
+        "held_etf_count_change": 7
+      }
+    },
+    "2615": {
+      "stock_id": "2615",
+      "stock_name": "WAN HAI LINES LTD",
+      "stock_display": "WAN HAI LINES LTD(2615)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 27000,
+        "shares_change": 27000,
+        "start_total_lots": 0,
+        "end_total_lots": 27,
+        "lots_change": 27,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.06,
+        "weight_change_pct": 0.06,
+        "held_etf_count_change": 1
+      }
+    },
+    "8299": {
+      "stock_id": "8299",
+      "stock_name": "群聯",
+      "stock_display": "群聯(8299)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3632000,
+        "shares_change": 3632000,
+        "start_total_lots": 0,
+        "end_total_lots": 3632,
+        "lots_change": 3632,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 2.93,
+        "weight_change_pct": 2.93,
+        "held_etf_count_change": 9
+      }
+    },
+    "2006": {
+      "stock_id": "2006",
+      "stock_name": "東和鋼鐵",
+      "stock_display": "東和鋼鐵(2006)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 412000,
+        "shares_change": 412000,
+        "start_total_lots": 0,
+        "end_total_lots": 412,
+        "lots_change": 412,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.4,
+        "weight_change_pct": 0.4,
+        "held_etf_count_change": 1
+      }
+    },
+    "6770": {
+      "stock_id": "6770",
+      "stock_name": "力積電",
+      "stock_display": "力積電(6770)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 836000,
+        "shares_change": 836000,
+        "start_total_lots": 0,
+        "end_total_lots": 836,
+        "lots_change": 836,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.14,
+        "weight_change_pct": 1.14,
+        "held_etf_count_change": 1
+      }
+    },
+    "3105": {
+      "stock_id": "3105",
+      "stock_name": "穩懋",
+      "stock_display": "穩懋(3105)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 8589000,
+        "shares_change": 8589000,
+        "start_total_lots": 0,
+        "end_total_lots": 8589,
+        "lots_change": 8589,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.88,
+        "weight_change_pct": 1.88,
+        "held_etf_count_change": 4
+      }
+    },
+    "4105": {
+      "stock_id": "4105",
+      "stock_name": "台灣東洋藥品工業",
+      "stock_display": "台灣東洋藥品工業(4105)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1795000,
+        "shares_change": 1795000,
+        "start_total_lots": 0,
+        "end_total_lots": 1795,
+        "lots_change": 1795,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.8,
+        "weight_change_pct": 0.8,
+        "held_etf_count_change": 1
+      }
+    },
+    "3030": {
+      "stock_id": "3030",
+      "stock_name": "德律",
+      "stock_display": "德律(3030)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1272000,
+        "shares_change": 1272000,
+        "start_total_lots": 0,
+        "end_total_lots": 1272,
+        "lots_change": 1272,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.0,
+        "weight_change_pct": 1.0,
+        "held_etf_count_change": 1
+      }
+    },
+    "6139": {
+      "stock_id": "6139",
+      "stock_name": "亞翔",
+      "stock_display": "亞翔(6139)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2357000,
+        "shares_change": 2357000,
+        "start_total_lots": 0,
+        "end_total_lots": 2357,
+        "lots_change": 2357,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 3.26,
+        "weight_change_pct": 3.26,
+        "held_etf_count_change": 1
+      }
+    },
+    "3189": {
+      "stock_id": "3189",
+      "stock_name": "景碩科技",
+      "stock_display": "景碩科技(3189)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2851013,
+        "shares_change": 2851013,
+        "start_total_lots": 0,
+        "end_total_lots": 2851.0,
+        "lots_change": 2851.0,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.77,
+        "weight_change_pct": 0.77,
+        "held_etf_count_change": 7
+      }
+    },
+    "3005": {
+      "stock_id": "3005",
+      "stock_name": "GETAC HOLDINGS CORP",
+      "stock_display": "GETAC HOLDINGS CORP(3005)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 68000,
+        "shares_change": 68000,
+        "start_total_lots": 0,
+        "end_total_lots": 68,
+        "lots_change": 68,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.2,
+        "weight_change_pct": 0.2,
+        "held_etf_count_change": 1
+      }
+    },
+    "2059": {
+      "stock_id": "2059",
+      "stock_name": "川湖",
+      "stock_display": "川湖(2059)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 955000,
+        "shares_change": 955000,
+        "start_total_lots": 0,
+        "end_total_lots": 955,
+        "lots_change": 955,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 2.22,
+        "weight_change_pct": 2.22,
+        "held_etf_count_change": 8
+      }
+    },
+    "1477": {
+      "stock_id": "1477",
+      "stock_name": "聚陽實業",
+      "stock_display": "聚陽實業(1477)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3259000,
+        "shares_change": 3259000,
+        "start_total_lots": 0,
+        "end_total_lots": 3259,
+        "lots_change": 3259,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 2.55,
+        "weight_change_pct": 2.55,
+        "held_etf_count_change": 2
+      }
+    },
+    "6830": {
+      "stock_id": "6830",
+      "stock_name": "汎銓",
+      "stock_display": "汎銓(6830)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 163000,
+        "shares_change": 163000,
+        "start_total_lots": 0,
+        "end_total_lots": 163,
+        "lots_change": 163,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 2.6,
+        "weight_change_pct": 2.6,
+        "held_etf_count_change": 1
+      }
+    },
+    "6831": {
+      "stock_id": "6831",
+      "stock_name": "邁科科技",
+      "stock_display": "邁科科技(6831)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 586000,
+        "shares_change": 586000,
+        "start_total_lots": 0,
+        "end_total_lots": 586,
+        "lots_change": 586,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 2.17,
+        "weight_change_pct": 2.17,
+        "held_etf_count_change": 3
+      }
+    },
+    "3231": {
+      "stock_id": "3231",
+      "stock_name": "WISTRON CORP",
+      "stock_display": "WISTRON CORP(3231)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1215000,
+        "shares_change": 1215000,
+        "start_total_lots": 0,
+        "end_total_lots": 1215,
+        "lots_change": 1215,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.63,
+        "weight_change_pct": 0.63,
+        "held_etf_count_change": 2
+      }
+    },
+    "6944": {
+      "stock_id": "6944",
+      "stock_name": "MEGA UNION TECHNOLOGY INC",
+      "stock_display": "MEGA UNION TECHNOLOGY INC(6944)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 22000,
+        "shares_change": 22000,
+        "start_total_lots": 0,
+        "end_total_lots": 22,
+        "lots_change": 22,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.59,
+        "weight_change_pct": 0.59,
+        "held_etf_count_change": 1
+      }
+    },
+    "2903": {
+      "stock_id": "2903",
+      "stock_name": "遠百",
+      "stock_display": "遠百(2903)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 882000,
+        "shares_change": 882000,
+        "start_total_lots": 0,
+        "end_total_lots": 882,
+        "lots_change": 882,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.29,
+        "weight_change_pct": 0.29,
+        "held_etf_count_change": 1
+      }
+    },
+    "2731": {
+      "stock_id": "2731",
+      "stock_name": "雄獅旅行社",
+      "stock_display": "雄獅旅行社(2731)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1307000,
+        "shares_change": 1307000,
+        "start_total_lots": 0,
+        "end_total_lots": 1307,
+        "lots_change": 1307,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.24,
+        "weight_change_pct": 1.24,
+        "held_etf_count_change": 1
+      }
+    },
+    "3702": {
+      "stock_id": "3702",
+      "stock_name": "大聯大",
+      "stock_display": "大聯大(3702)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3131000,
+        "shares_change": 3131000,
+        "start_total_lots": 0,
+        "end_total_lots": 3131,
+        "lots_change": 3131,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.19,
+        "weight_change_pct": 1.19,
+        "held_etf_count_change": 2
+      }
+    },
+    "2385": {
+      "stock_id": "2385",
+      "stock_name": "群光",
+      "stock_display": "群光(2385)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3359000,
+        "shares_change": 3359000,
+        "start_total_lots": 0,
+        "end_total_lots": 3359,
+        "lots_change": 3359,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.89,
+        "weight_change_pct": 0.89,
+        "held_etf_count_change": 3
+      }
+    },
+    "8028": {
+      "stock_id": "8028",
+      "stock_name": "昇陽半導體",
+      "stock_display": "昇陽半導體(8028)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 255000,
+        "shares_change": 255000,
+        "start_total_lots": 0,
+        "end_total_lots": 255,
+        "lots_change": 255,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.92,
+        "weight_change_pct": 1.92,
+        "held_etf_count_change": 1
+      }
+    },
+    "2382": {
+      "stock_id": "2382",
+      "stock_name": "廣達",
+      "stock_display": "廣達(2382)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 4538000,
+        "shares_change": 4538000,
+        "start_total_lots": 0,
+        "end_total_lots": 4538,
+        "lots_change": 4538,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 2.64,
+        "weight_change_pct": 2.64,
+        "held_etf_count_change": 5
+      }
+    },
+    "4583": {
+      "stock_id": "4583",
+      "stock_name": "台灣精銳",
+      "stock_display": "台灣精銳(4583)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 30000,
+        "shares_change": 30000,
+        "start_total_lots": 0,
+        "end_total_lots": 30,
+        "lots_change": 30,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.5,
+        "weight_change_pct": 0.5,
+        "held_etf_count_change": 1
+      }
+    },
+    "2049": {
+      "stock_id": "2049",
+      "stock_name": "上銀",
+      "stock_display": "上銀(2049)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 813000,
+        "shares_change": 813000,
+        "start_total_lots": 0,
+        "end_total_lots": 813,
+        "lots_change": 813,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.38,
+        "weight_change_pct": 0.38,
+        "held_etf_count_change": 3
+      }
+    },
+    "6472": {
+      "stock_id": "6472",
+      "stock_name": "保瑞",
+      "stock_display": "保瑞(6472)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 17000,
+        "shares_change": 17000,
+        "start_total_lots": 0,
+        "end_total_lots": 17,
+        "lots_change": 17,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.09,
+        "weight_change_pct": 0.09,
+        "held_etf_count_change": 1
+      }
+    },
+    "1227": {
+      "stock_id": "1227",
+      "stock_name": "佳格",
+      "stock_display": "佳格(1227)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 676000,
+        "shares_change": 676000,
+        "start_total_lots": 0,
+        "end_total_lots": 676,
+        "lots_change": 676,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.28,
+        "weight_change_pct": 0.28,
+        "held_etf_count_change": 1
+      }
+    },
+    "3533": {
+      "stock_id": "3533",
+      "stock_name": "嘉澤",
+      "stock_display": "嘉澤(3533)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 1326000,
+        "shares_change": 1326000,
+        "start_total_lots": 0,
+        "end_total_lots": 1326,
+        "lots_change": 1326,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.9,
+        "weight_change_pct": 0.9,
+        "held_etf_count_change": 6
+      }
+    },
+    "3023": {
+      "stock_id": "3023",
+      "stock_name": "信邦電子",
+      "stock_display": "信邦電子(3023)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 113000,
+        "shares_change": 113000,
+        "start_total_lots": 0,
+        "end_total_lots": 113,
+        "lots_change": 113,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.59,
+        "weight_change_pct": 0.59,
+        "held_etf_count_change": 1
+      }
+    },
+    "7751": {
+      "stock_id": "7751",
+      "stock_name": "竑騰",
+      "stock_display": "竑騰(7751)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 387000,
+        "shares_change": 387000,
+        "start_total_lots": 0,
+        "end_total_lots": 387,
+        "lots_change": 387,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.26,
+        "weight_change_pct": 1.26,
+        "held_etf_count_change": 1
+      }
+    },
+    "1216": {
+      "stock_id": "1216",
+      "stock_name": "UNI-PRESIDENT ENTERPRISES CO",
+      "stock_display": "UNI-PRESIDENT ENTERPRISES CO(1216)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 6159000,
+        "shares_change": 6159000,
+        "start_total_lots": 0,
+        "end_total_lots": 6159,
+        "lots_change": 6159,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.58,
+        "weight_change_pct": 1.58,
+        "held_etf_count_change": 3
+      }
+    },
+    "3596": {
+      "stock_id": "3596",
+      "stock_name": "智易科技",
+      "stock_display": "智易科技(3596)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 45000,
+        "shares_change": 45000,
+        "start_total_lots": 0,
+        "end_total_lots": 45,
+        "lots_change": 45,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.12,
+        "weight_change_pct": 0.12,
+        "held_etf_count_change": 1
+      }
+    },
+    "1303": {
+      "stock_id": "1303",
+      "stock_name": "南亞",
+      "stock_display": "南亞(1303)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2377000,
+        "shares_change": 2377000,
+        "start_total_lots": 0,
+        "end_total_lots": 2377,
+        "lots_change": 2377,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.44,
+        "weight_change_pct": 0.44,
+        "held_etf_count_change": 3
+      }
+    },
+    "2727": {
+      "stock_id": "2727",
+      "stock_name": "王品餐飲",
+      "stock_display": "王品餐飲(2727)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 616000,
+        "shares_change": 616000,
+        "start_total_lots": 0,
+        "end_total_lots": 616,
+        "lots_change": 616,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.86,
+        "weight_change_pct": 0.86,
+        "held_etf_count_change": 1
+      }
+    },
+    "2317": {
+      "stock_id": "2317",
+      "stock_name": "鴻海精密工業",
+      "stock_display": "鴻海精密工業(2317)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 3436000,
+        "shares_change": 3436000,
+        "start_total_lots": 0,
+        "end_total_lots": 3436,
+        "lots_change": 3436,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 1.25,
+        "weight_change_pct": 1.25,
+        "held_etf_count_change": 4
+      }
+    },
+    "9941": {
+      "stock_id": "9941",
+      "stock_name": "裕融企業",
+      "stock_display": "裕融企業(9941)",
+      "history": [],
+      "range_compare": {
+        "start_date": "2026-05-14",
+        "end_date": "2026-05-15",
+        "start_total_shares": 0,
+        "end_total_shares": 2311000,
+        "shares_change": 2311000,
+        "start_total_lots": 0,
+        "end_total_lots": 2311,
+        "lots_change": 2311,
+        "start_avg_weight_pct": 0,
+        "end_avg_weight_pct": 0.99,
+        "weight_change_pct": 0.99,
+        "held_etf_count_change": 1
+      }
+    }
+  }
+}

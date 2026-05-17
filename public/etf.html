@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>單檔 ETF 持股明細</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <main class="page">
+      <nav class="top-nav" aria-label="主要功能">
+        <a class="nav-button" href="index.html#search"><span class="nav-icon">🔍</span>個股搜尋</a>
+        <a class="nav-button" href="matrix.html"><span class="nav-icon">📊</span>持有總覽</a>
+        <a class="nav-button is-active" href="etf.html?code=00981A"><span class="nav-icon">📋</span>ETF 明細</a>
+      </nav>
+
+      <section class="content-panel">
+        <div class="section-head">
+          <div>
+            <h1><span id="etfCode">00981A</span> 持股明細</h1>
+            <p class="muted">資料日期：<span id="etfDate">讀取中</span>｜資料狀態：<span id="sourceStatus">讀取中</span></p>
+          </div>
+          <div class="stat"><strong id="holdingCount">0</strong><span>持股筆數</span></div>
+        </div>
+        <div class="filter-row">
+          <select id="changeFilter" aria-label="異動篩選">
+            <option>全部</option>
+            <option>新增</option>
+            <option>加碼</option>
+            <option>減碼</option>
+            <option>出清</option>
+            <option>持平</option>
+          </select>
+          <input id="stockFilter" type="search" placeholder="篩選股號或名稱" />
+        </div>
+        <div id="holdingsTable"></div>
+      </section>
+
+      <section class="disclaimer">
+        <h2>⚠️ 免責聲明</h2>
+        <p>此頁僅呈現 ETF 持股與異動觀察，不構成買賣建議。</p>
+      </section>
+    </main>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/etf.js"></script>
+  </body>
+</html>

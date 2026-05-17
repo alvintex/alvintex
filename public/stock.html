@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>個股搜尋</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <main class="page">
+      <nav class="top-nav" aria-label="主要功能">
+        <a class="nav-button is-active" href="index.html#search"><span class="nav-icon">🔍</span>個股搜尋</a>
+        <a class="nav-button" href="matrix.html"><span class="nav-icon">📊</span>持有總覽</a>
+        <a class="nav-button" href="etf.html?code=00981A"><span class="nav-icon">📋</span>ETF 明細</a>
+      </nav>
+
+      <section class="content-panel">
+        <div class="section-head">
+          <div>
+            <h1 id="stockTitle">個股搜尋</h1>
+            <p class="muted" id="changeSummary">讀取中</p>
+          </div>
+          <div class="search-row">
+            <input id="stockSearchInput" type="search" placeholder="輸入股號或名稱" />
+            <button class="primary-button" id="stockSearchButton" type="button">查詢</button>
+          </div>
+        </div>
+        <div class="summary-grid">
+          <div class="stat"><strong id="heldEtfCount">0</strong><span>持有 ETF 數</span></div>
+          <div class="stat"><strong id="avgWeight">0%</strong><span>平均比例</span></div>
+          <div class="stat"><strong id="totalLots">0</strong><span>合計張數</span></div>
+          <div class="stat"><strong>觀察</strong><span>非投資建議</span></div>
+        </div>
+        <div id="stockTable"></div>
+      </section>
+
+      <section class="content-panel">
+        <div class="section-head">
+          <div>
+            <h2>近 5 個交易日持股變化</h2>
+            <p class="muted" id="historySummary">讀取歷史資料</p>
+          </div>
+          <div class="search-row">
+            <input id="compareStartInput" type="date" />
+            <input id="compareEndInput" type="date" />
+            <button class="primary-button" id="compareButton" type="button">比較</button>
+          </div>
+        </div>
+        <div id="historyChart" class="history-chart"></div>
+        <div id="rangeCompare" class="range-compare"></div>
+      </section>
+
+      <section class="disclaimer">
+        <h2>⚠️ 免責聲明</h2>
+        <p>個股搜尋頁顯示 ETF 持有與異動，僅供研究參考。</p>
+      </section>
+    </main>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/stock.js"></script>
+  </body>
+</html>

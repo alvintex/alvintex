@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>持有總覽矩陣</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <main class="page">
+      <nav class="top-nav" aria-label="主要功能">
+        <a class="nav-button" href="index.html#search"><span class="nav-icon">🔍</span>個股搜尋</a>
+        <a class="nav-button is-active" href="matrix.html"><span class="nav-icon">📊</span>持有總覽</a>
+        <a class="nav-button" href="etf.html?code=00981A"><span class="nav-icon">📋</span>ETF 明細</a>
+      </nav>
+
+      <section class="content-panel">
+        <div class="section-head">
+          <div>
+            <h1>跨 ETF 持有矩陣</h1>
+            <p class="muted">資料日期：<span id="matrixDate">讀取中</span></p>
+          </div>
+        </div>
+        <div class="summary-grid">
+          <div class="stat"><strong id="matrixStocks">0</strong><span>矩陣個股</span></div>
+          <div class="stat"><strong id="matrixEtfs">0</strong><span>已有資料 ETF</span></div>
+          <div class="stat"><strong>權重</strong><span>持有矩陣</span></div>
+          <div class="stat"><strong>異動</strong><span>變化矩陣</span></div>
+        </div>
+        <div class="rank-tabs">
+          <button class="chip is-active" type="button" data-matrix="holding">持有矩陣</button>
+          <button class="chip" type="button" data-matrix="change">異動矩陣</button>
+        </div>
+        <div id="matrixTable"></div>
+      </section>
+
+      <section class="disclaimer">
+        <h2>⚠️ 免責聲明</h2>
+        <p>矩陣資料用於觀察 ETF 持股共識與異動方向，不代表投資評等。</p>
+      </section>
+    </main>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/matrix.js"></script>
+  </body>
+</html>
