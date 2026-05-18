@@ -1,10 +1,106 @@
 {
   "meta": {
     "data_date": "2026-05-18",
-    "etf_count": 7,
-    "stock_count": 112
+    "etf_count": 8,
+    "stock_count": 141
   },
   "rows": [
+    {
+      "stock_id": "1215",
+      "stock_name": "台灣卜蜂企業",
+      "stock_display": "台灣卜蜂企業(1215)",
+      "add_count": 1,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 256000,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "加碼"
+      }
+    },
+    {
+      "stock_id": "2204",
+      "stock_name": "中華汽車工業",
+      "stock_display": "中華汽車工業(2204)",
+      "add_count": 1,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 246000,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "加碼"
+      }
+    },
+    {
+      "stock_id": "2727",
+      "stock_name": "王品餐飲",
+      "stock_display": "王品餐飲(2727)",
+      "add_count": 1,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 64000,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "加碼"
+      }
+    },
+    {
+      "stock_id": "4746",
+      "stock_name": "台耀化學",
+      "stock_display": "台耀化學(4746)",
+      "add_count": 1,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 214000,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "加碼"
+      }
+    },
+    {
+      "stock_id": "5534",
+      "stock_name": "長虹建設",
+      "stock_display": "長虹建設(5534)",
+      "add_count": 1,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 200000,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "加碼"
+      }
+    },
+    {
+      "stock_id": "6146",
+      "stock_name": "耕興",
+      "stock_display": "耕興(6146)",
+      "add_count": 1,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 144000,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "加碼"
+      }
+    },
     {
       "stock_id": "6510",
       "stock_name": "精測",
@@ -21,6 +117,177 @@
         "00987A": "加碼",
         "00982A": "持平",
         "00992A": "持平"
+      }
+    },
+    {
+      "stock_id": "9907",
+      "stock_name": "統一實業",
+      "stock_display": "統一實業(9907)",
+      "add_count": 1,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 738000,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "加碼"
+      }
+    },
+    {
+      "stock_id": "9939",
+      "stock_name": "宏全國際",
+      "stock_display": "宏全國際(9939)",
+      "add_count": 1,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 317000,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "加碼"
+      }
+    },
+    {
+      "stock_id": "2344",
+      "stock_name": "華邦電子",
+      "stock_display": "華邦電子(2344)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "unchanged_count": 3,
+      "net_etf_change_score": 1,
+      "total_shares_change": 1840000,
+      "dominant_signal": "新進持股",
+      "etfs": {
+        "00985A": "持平",
+        "00980A": "持平",
+        "00992A": "持平",
+        "00999A": "新增"
+      }
+    },
+    {
+      "stock_id": "2454",
+      "stock_name": "聯發科技",
+      "stock_display": "聯發科技(2454)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "unchanged_count": 4,
+      "net_etf_change_score": 1,
+      "total_shares_change": 34000,
+      "dominant_signal": "新進持股",
+      "etfs": {
+        "00985A": "持平",
+        "00980A": "持平",
+        "00982A": "持平",
+        "00992A": "持平",
+        "00999A": "新增"
+      }
+    },
+    {
+      "stock_id": "3090",
+      "stock_name": "日電貿",
+      "stock_display": "日電貿(3090)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 920000,
+      "dominant_signal": "新進持股",
+      "etfs": {
+        "00999A": "新增"
+      }
+    },
+    {
+      "stock_id": "6515",
+      "stock_name": "穎崴",
+      "stock_display": "穎崴(6515)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "unchanged_count": 4,
+      "net_etf_change_score": 1,
+      "total_shares_change": 25000,
+      "dominant_signal": "新進持股",
+      "etfs": {
+        "00985A": "持平",
+        "00997A": "持平",
+        "00980A": "持平",
+        "00992A": "持平",
+        "00999A": "新增"
+      }
+    },
+    {
+      "stock_id": "6782",
+      "stock_name": "視陽光學",
+      "stock_display": "視陽光學(6782)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 238000,
+      "dominant_signal": "新進持股",
+      "etfs": {
+        "00999A": "新增"
+      }
+    },
+    {
+      "stock_id": "8112",
+      "stock_name": "至上電子",
+      "stock_display": "至上電子(8112)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 1673000,
+      "dominant_signal": "新進持股",
+      "etfs": {
+        "00999A": "新增"
+      }
+    },
+    {
+      "stock_id": "8454",
+      "stock_name": "富邦媒體科技",
+      "stock_display": "富邦媒體科技(8454)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 837000,
+      "dominant_signal": "新進持股",
+      "etfs": {
+        "00999A": "新增"
+      }
+    },
+    {
+      "stock_id": "9958",
+      "stock_name": "世紀鋼鐵結構",
+      "stock_display": "世紀鋼鐵結構(9958)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": 1,
+      "total_shares_change": 614000,
+      "dominant_signal": "新進持股",
+      "etfs": {
+        "00999A": "新增"
       }
     },
     {
@@ -44,15 +311,16 @@
       "stock_name": "東陽",
       "stock_display": "東陽(1319)",
       "add_count": 0,
-      "reduce_count": 0,
+      "reduce_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "unchanged_count": 1,
-      "net_etf_change_score": 0,
-      "total_shares_change": 0,
-      "dominant_signal": "持平",
+      "net_etf_change_score": -1,
+      "total_shares_change": -3753000,
+      "dominant_signal": "減碼觀察",
       "etfs": {
-        "00982A": "持平"
+        "00982A": "持平",
+        "00999A": "減碼"
       }
     },
     {
@@ -63,13 +331,14 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 2,
+      "unchanged_count": 3,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
       "etfs": {
         "00985A": "持平",
-        "00980A": "持平"
+        "00980A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -130,7 +399,7 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 4,
+      "unchanged_count": 5,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
@@ -138,7 +407,8 @@
         "00985A": "持平",
         "00980A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -165,7 +435,7 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 6,
+      "unchanged_count": 7,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
@@ -175,7 +445,8 @@
         "00980A": "持平",
         "00987A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -202,13 +473,14 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 2,
+      "unchanged_count": 3,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
       "etfs": {
         "00985A": "持平",
-        "00980A": "持平"
+        "00980A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -233,13 +505,13 @@
       "stock_name": "台灣積體電路製造",
       "stock_display": "台灣積體電路製造(2330)",
       "add_count": 0,
-      "reduce_count": 0,
+      "reduce_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "unchanged_count": 7,
-      "net_etf_change_score": 0,
-      "total_shares_change": 0,
-      "dominant_signal": "持平",
+      "net_etf_change_score": -1,
+      "total_shares_change": -61000,
+      "dominant_signal": "減碼觀察",
       "etfs": {
         "00985A": "持平",
         "00986A": "持平",
@@ -247,7 +519,8 @@
         "00980A": "持平",
         "00987A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "減碼"
       }
     },
     {
@@ -268,24 +541,6 @@
       }
     },
     {
-      "stock_id": "2344",
-      "stock_name": "華邦電子",
-      "stock_display": "華邦電子(2344)",
-      "add_count": 0,
-      "reduce_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "unchanged_count": 3,
-      "net_etf_change_score": 0,
-      "total_shares_change": 0,
-      "dominant_signal": "持平",
-      "etfs": {
-        "00985A": "持平",
-        "00980A": "持平",
-        "00992A": "持平"
-      }
-    },
-    {
       "stock_id": "2345",
       "stock_name": "智邦科技",
       "stock_display": "智邦科技(2345)",
@@ -293,7 +548,7 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 6,
+      "unchanged_count": 7,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
@@ -303,13 +558,31 @@
         "00980A": "持平",
         "00987A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
       "stock_id": "2347",
       "stock_name": "聯強",
       "stock_display": "聯強(2347)",
+      "add_count": 0,
+      "reduce_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": -1,
+      "total_shares_change": -1021000,
+      "dominant_signal": "減碼觀察",
+      "etfs": {
+        "00982A": "持平",
+        "00999A": "減碼"
+      }
+    },
+    {
+      "stock_id": "2357",
+      "stock_name": "華碩電腦",
+      "stock_display": "華碩電腦(2357)",
       "add_count": 0,
       "reduce_count": 0,
       "new_count": 0,
@@ -319,7 +592,7 @@
       "total_shares_change": 0,
       "dominant_signal": "持平",
       "etfs": {
-        "00982A": "持平"
+        "00999A": "持平"
       }
     },
     {
@@ -330,7 +603,7 @@
       "reduce_count": 1,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 4,
+      "unchanged_count": 5,
       "net_etf_change_score": -1,
       "total_shares_change": -100000,
       "dominant_signal": "減碼觀察",
@@ -339,7 +612,8 @@
         "00980A": "持平",
         "00987A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -347,19 +621,20 @@
       "stock_name": "金像電子（股）公司",
       "stock_display": "金像電子（股）公司(2368)",
       "add_count": 0,
-      "reduce_count": 1,
+      "reduce_count": 2,
       "new_count": 0,
       "removed_count": 0,
       "unchanged_count": 4,
-      "net_etf_change_score": -1,
-      "total_shares_change": -24000,
+      "net_etf_change_score": -2,
+      "total_shares_change": -305000,
       "dominant_signal": "減碼觀察",
       "etfs": {
         "00985A": "持平",
         "00980A": "持平",
         "00987A": "減碼",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "減碼"
       }
     },
     {
@@ -386,13 +661,14 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 2,
+      "unchanged_count": 3,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
       "etfs": {
         "00985A": "持平",
-        "00980A": "持平"
+        "00980A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -400,20 +676,53 @@
       "stock_name": "台光電子材料",
       "stock_display": "台光電子材料(2383)",
       "add_count": 0,
-      "reduce_count": 0,
+      "reduce_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "unchanged_count": 6,
-      "net_etf_change_score": 0,
-      "total_shares_change": 0,
-      "dominant_signal": "持平",
+      "net_etf_change_score": -1,
+      "total_shares_change": -16000,
+      "dominant_signal": "減碼觀察",
       "etfs": {
         "00985A": "持平",
         "00997A": "持平",
         "00980A": "持平",
         "00987A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "減碼"
+      }
+    },
+    {
+      "stock_id": "2385",
+      "stock_name": "群光電子",
+      "stock_display": "群光電子(2385)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
+      }
+    },
+    {
+      "stock_id": "2393",
+      "stock_name": "億光電子工業",
+      "stock_display": "億光電子工業(2393)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
       }
     },
     {
@@ -456,7 +765,7 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 4,
+      "unchanged_count": 5,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
@@ -464,7 +773,8 @@
         "00985A": "持平",
         "00980A": "持平",
         "00987A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -481,25 +791,6 @@
       "dominant_signal": "持平",
       "etfs": {
         "00985A": "持平"
-      }
-    },
-    {
-      "stock_id": "2454",
-      "stock_name": "聯發科技",
-      "stock_display": "聯發科技(2454)",
-      "add_count": 0,
-      "reduce_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "unchanged_count": 4,
-      "net_etf_change_score": 0,
-      "total_shares_change": 0,
-      "dominant_signal": "持平",
-      "etfs": {
-        "00985A": "持平",
-        "00980A": "持平",
-        "00982A": "持平",
-        "00992A": "持平"
       }
     },
     {
@@ -572,16 +863,33 @@
       "stock_name": "華固建設",
       "stock_display": "華固建設(2548)",
       "add_count": 0,
-      "reduce_count": 0,
+      "reduce_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "unchanged_count": 2,
-      "net_etf_change_score": 0,
-      "total_shares_change": 0,
-      "dominant_signal": "持平",
+      "net_etf_change_score": -1,
+      "total_shares_change": -2155000,
+      "dominant_signal": "減碼觀察",
       "etfs": {
         "00980A": "持平",
-        "00982A": "持平"
+        "00982A": "持平",
+        "00999A": "減碼"
+      }
+    },
+    {
+      "stock_id": "2731",
+      "stock_name": "雄獅旅行社",
+      "stock_display": "雄獅旅行社(2731)",
+      "add_count": 0,
+      "reduce_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": -1,
+      "total_shares_change": -1307000,
+      "dominant_signal": "減碼觀察",
+      "etfs": {
+        "00999A": "減碼"
       }
     },
     {
@@ -674,7 +982,7 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 5,
+      "unchanged_count": 6,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
@@ -683,7 +991,8 @@
         "00980A": "持平",
         "00987A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -752,6 +1061,22 @@
       "dominant_signal": "持平",
       "etfs": {
         "00980A": "持平"
+      }
+    },
+    {
+      "stock_id": "3045",
+      "stock_name": "台灣大哥大",
+      "stock_display": "台灣大哥大(3045)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
       }
     },
     {
@@ -855,6 +1180,22 @@
       "dominant_signal": "持平",
       "etfs": {
         "00982A": "持平"
+      }
+    },
+    {
+      "stock_id": "3227",
+      "stock_name": "原相科技",
+      "stock_display": "原相科技(3227)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
       }
     },
     {
@@ -1010,6 +1351,22 @@
       }
     },
     {
+      "stock_id": "3526",
+      "stock_name": "凡甲科技",
+      "stock_display": "凡甲科技(3526)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
+      }
+    },
+    {
       "stock_id": "3529",
       "stock_name": "力旺",
       "stock_display": "力旺(3529)",
@@ -1063,6 +1420,22 @@
       }
     },
     {
+      "stock_id": "3592",
+      "stock_name": "瑞鼎科技",
+      "stock_display": "瑞鼎科技(3592)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
+      }
+    },
+    {
       "stock_id": "3653",
       "stock_name": "健策精密工業",
       "stock_display": "健策精密工業(3653)",
@@ -1070,7 +1443,7 @@
       "reduce_count": 1,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 3,
+      "unchanged_count": 4,
       "net_etf_change_score": -1,
       "total_shares_change": -18000,
       "dominant_signal": "減碼觀察",
@@ -1078,7 +1451,8 @@
         "00985A": "持平",
         "00980A": "持平",
         "00987A": "減碼",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -1106,7 +1480,7 @@
       "reduce_count": 1,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 4,
+      "unchanged_count": 5,
       "net_etf_change_score": -1,
       "total_shares_change": -41000,
       "dominant_signal": "減碼觀察",
@@ -1115,7 +1489,8 @@
         "00980A": "持平",
         "00987A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -1142,7 +1517,7 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 4,
+      "unchanged_count": 5,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
@@ -1150,7 +1525,24 @@
         "00985A": "持平",
         "00980A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
+      }
+    },
+    {
+      "stock_id": "4105",
+      "stock_name": "台灣東洋藥品工業",
+      "stock_display": "台灣東洋藥品工業(4105)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
       }
     },
     {
@@ -1194,12 +1586,13 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 1,
+      "unchanged_count": 2,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
       "etfs": {
-        "00985A": "持平"
+        "00985A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -1210,12 +1603,13 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 1,
+      "unchanged_count": 2,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
       "etfs": {
-        "00980A": "持平"
+        "00980A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -1275,14 +1669,15 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 3,
+      "unchanged_count": 4,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
       "etfs": {
         "00980A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -1348,6 +1743,22 @@
       "dominant_signal": "持平",
       "etfs": {
         "00980A": "持平"
+      }
+    },
+    {
+      "stock_id": "6121",
+      "stock_name": "新普科技",
+      "stock_display": "新普科技(6121)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
       }
     },
     {
@@ -1422,7 +1833,7 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 5,
+      "unchanged_count": 6,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
@@ -1431,7 +1842,8 @@
         "00980A": "持平",
         "00987A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -1490,7 +1902,7 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 4,
+      "unchanged_count": 5,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
@@ -1498,7 +1910,8 @@
         "00980A": "持平",
         "00987A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -1569,25 +1982,6 @@
       }
     },
     {
-      "stock_id": "6515",
-      "stock_name": "穎崴",
-      "stock_display": "穎崴(6515)",
-      "add_count": 0,
-      "reduce_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "unchanged_count": 4,
-      "net_etf_change_score": 0,
-      "total_shares_change": 0,
-      "dominant_signal": "持平",
-      "etfs": {
-        "00985A": "持平",
-        "00997A": "持平",
-        "00980A": "持平",
-        "00992A": "持平"
-      }
-    },
-    {
       "stock_id": "6531",
       "stock_name": "愛普*",
       "stock_display": "愛普*(6531)",
@@ -1625,19 +2019,36 @@
       "stock_name": "緯穎科技服務",
       "stock_display": "緯穎科技服務(6669)",
       "add_count": 0,
-      "reduce_count": 0,
+      "reduce_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "unchanged_count": 5,
-      "net_etf_change_score": 0,
-      "total_shares_change": 0,
-      "dominant_signal": "持平",
+      "net_etf_change_score": -1,
+      "total_shares_change": -59000,
+      "dominant_signal": "減碼觀察",
       "etfs": {
         "00985A": "持平",
         "00980A": "持平",
         "00987A": "持平",
         "00982A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "減碼"
+      }
+    },
+    {
+      "stock_id": "6670",
+      "stock_name": "復盛應用科技",
+      "stock_display": "復盛應用科技(6670)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
       }
     },
     {
@@ -1689,6 +2100,22 @@
       }
     },
     {
+      "stock_id": "6768",
+      "stock_name": "志強國際企業",
+      "stock_display": "志強國際企業(6768)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
+      }
+    },
+    {
       "stock_id": "6781",
       "stock_name": "AES Holding Co Ltd",
       "stock_display": "AES Holding Co Ltd(6781)",
@@ -1729,7 +2156,7 @@
       "reduce_count": 1,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 3,
+      "unchanged_count": 4,
       "net_etf_change_score": -1,
       "total_shares_change": -1000,
       "dominant_signal": "減碼觀察",
@@ -1737,7 +2164,8 @@
         "00985A": "持平",
         "00980A": "持平",
         "00987A": "持平",
-        "00982A": "減碼"
+        "00982A": "減碼",
+        "00999A": "持平"
       }
     },
     {
@@ -1780,14 +2208,15 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 3,
+      "unchanged_count": 4,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
       "etfs": {
         "00985A": "持平",
         "00980A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -1848,14 +2277,15 @@
       "reduce_count": 1,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 2,
+      "unchanged_count": 3,
       "net_etf_change_score": -1,
       "total_shares_change": -32000,
       "dominant_signal": "減碼觀察",
       "etfs": {
         "00985A": "減碼",
         "00980A": "持平",
-        "00987A": "持平"
+        "00987A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -1866,7 +2296,7 @@
       "reduce_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "unchanged_count": 4,
+      "unchanged_count": 5,
       "net_etf_change_score": 0,
       "total_shares_change": 0,
       "dominant_signal": "持平",
@@ -1874,7 +2304,8 @@
         "00985A": "持平",
         "00980A": "持平",
         "00987A": "持平",
-        "00992A": "持平"
+        "00992A": "持平",
+        "00999A": "持平"
       }
     },
     {
@@ -1928,6 +2359,70 @@
         "00987A": "持平",
         "00982A": "減碼",
         "00992A": "持平"
+      }
+    },
+    {
+      "stock_id": "9802",
+      "stock_name": "鈺齊國際",
+      "stock_display": "鈺齊國際(9802)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
+      }
+    },
+    {
+      "stock_id": "9910",
+      "stock_name": "豐泰企業",
+      "stock_display": "豐泰企業(9910)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
+      }
+    },
+    {
+      "stock_id": "9938",
+      "stock_name": "台灣百和工業",
+      "stock_display": "台灣百和工業(9938)",
+      "add_count": 0,
+      "reduce_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 0,
+      "net_etf_change_score": -1,
+      "total_shares_change": -3590000,
+      "dominant_signal": "減碼觀察",
+      "etfs": {
+        "00999A": "減碼"
+      }
+    },
+    {
+      "stock_id": "9941",
+      "stock_name": "裕融企業",
+      "stock_display": "裕融企業(9941)",
+      "add_count": 0,
+      "reduce_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "unchanged_count": 1,
+      "net_etf_change_score": 0,
+      "total_shares_change": 0,
+      "dominant_signal": "持平",
+      "etfs": {
+        "00999A": "持平"
       }
     }
   ]
