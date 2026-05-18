@@ -3,7 +3,7 @@
     "etf_code": "00981A",
     "etf_name": "00981A",
     "data_date": "2026-05-15",
-    "run_date": "2026-05-17",
+    "run_date": "2026-05-18",
     "source_status": "updated",
     "source_url": "https://www.etfinfo.tw/etf/00981A/holdings",
     "holdings_count": 46,
@@ -476,21 +476,6 @@
       "note": ""
     },
     {
-      "stock_id": "6278",
-      "stock_name": "台表科",
-      "stock_display": "台表科(6278)",
-      "weight_pct": 0.21,
-      "shares": 2500000,
-      "shares_lot": 2500,
-      "weight_change_pct": 0.0,
-      "shares_change": 0,
-      "shares_change_lot": 0,
-      "source_change_text": "持平",
-      "system_change_type": "持平",
-      "source_status": "updated",
-      "note": ""
-    },
-    {
       "stock_id": "3443",
       "stock_name": "創意",
       "stock_display": "創意(3443)",
@@ -605,8 +590,8 @@
       "weight_change_pct": -0.3,
       "shares_change": -530000,
       "shares_change_lot": -530,
-      "source_change_text": "出清",
-      "system_change_type": "出清",
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
       "note": ""
     },
     {
@@ -619,8 +604,8 @@
       "weight_change_pct": 0.0,
       "shares_change": -107000,
       "shares_change_lot": -107,
-      "source_change_text": "出清",
-      "system_change_type": "出清",
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
       "note": ""
     },
     {
@@ -633,8 +618,8 @@
       "weight_change_pct": -0.54,
       "shares_change": -1394000,
       "shares_change_lot": -1394,
-      "source_change_text": "出清",
-      "system_change_type": "出清",
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
       "note": ""
     },
     {
@@ -647,8 +632,8 @@
       "weight_change_pct": -0.17,
       "shares_change": -3654000,
       "shares_change_lot": -3654,
-      "source_change_text": "出清",
-      "system_change_type": "出清",
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
       "note": ""
     },
     {
@@ -661,8 +646,8 @@
       "weight_change_pct": -0.13,
       "shares_change": -1741000,
       "shares_change_lot": -1741,
-      "source_change_text": "出清",
-      "system_change_type": "出清",
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
       "note": ""
     },
     {
@@ -675,8 +660,22 @@
       "weight_change_pct": -0.54,
       "shares_change": -3528000,
       "shares_change_lot": -3528,
-      "source_change_text": "出清",
-      "system_change_type": "出清",
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
+      "note": ""
+    },
+    {
+      "stock_name": "台表科",
+      "stock_id": "6278",
+      "stock_display": "台表科(6278)",
+      "weight_pct": 0,
+      "shares": 0,
+      "shares_lot": 0,
+      "weight_change_pct": -0.21,
+      "shares_change": -2500000,
+      "shares_change_lot": -2500,
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
       "note": ""
     },
     {
@@ -689,8 +688,8 @@
       "weight_change_pct": -0.42,
       "shares_change": -1034000,
       "shares_change_lot": -1034,
-      "source_change_text": "出清",
-      "system_change_type": "出清",
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
       "note": ""
     }
   ]

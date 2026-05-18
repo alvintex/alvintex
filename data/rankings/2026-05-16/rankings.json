@@ -1,7 +1,7 @@
 {
   "meta": {
     "data_date": "2026-05-16",
-    "generated_at": "2026-05-17T12:17:49+08:00",
+    "generated_at": "2026-05-18T14:38:14+08:00",
     "source": "matrix"
   },
   "rankings": {
@@ -43,6 +43,16 @@
         "add_etf_count": 1,
         "avg_weight_pct": 0.51,
         "total_shares_change_lot": 3528.0,
+        "strong_add_flag": true,
+        "flag_text": "🚀 強力加碼 >500張"
+      },
+      {
+        "stock_id": "6278",
+        "stock_name": "台表科",
+        "stock_display": "台表科(6278)",
+        "add_etf_count": 1,
+        "avg_weight_pct": 0.21,
+        "total_shares_change_lot": 2500.0,
         "strong_add_flag": true,
         "flag_text": "🚀 強力加碼 >500張"
       },
@@ -721,15 +731,6 @@
         "stock_display": "統一實(9907)",
         "new_etf_count": 1,
         "total_shares_change_lot": 1116.0,
-        "strong_new_flag": true,
-        "flag_text": "🔥 強力搶進 >500張"
-      },
-      {
-        "stock_id": "2501",
-        "stock_name": "國建",
-        "stock_display": "國建(2501)",
-        "new_etf_count": 1,
-        "total_shares_change_lot": 846.0,
         "strong_new_flag": true,
         "flag_text": "🔥 強力搶進 >500張"
       },
@@ -2577,6 +2578,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "2501",
+        "stock_name": "國建",
+        "stock_display": "國建(2501)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 0.27,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "3167",
         "stock_name": "大量",
         "stock_display": "大量(3167)",
@@ -2607,15 +2617,6 @@
         "stock_id": "4938",
         "stock_name": "和碩",
         "stock_display": "和碩(4938)",
-        "unchanged_etf_count": 1,
-        "avg_weight_pct": 0.21,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
-        "stock_id": "6278",
-        "stock_name": "台表科",
-        "stock_display": "台表科(6278)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 0.21,
         "core_holding_flag": false,
