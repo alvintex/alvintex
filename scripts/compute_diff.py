@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 
@@ -76,7 +77,18 @@ def write_json(path: Path, payload: dict[str, Any]) -> None:
 
 def previous_payload(project_root: Path, *, data_date: str, etf_code: str) -> dict[str, Any] | None:
     base = project_root / "data" / "normalized"
-    dates = sorted(path.name for path in base.iterdir() if path.is_dir() and path.name < data_date) if base.exists() else []
+    dates = []
+    if base.exists():
+        for path in base.iterdir():
+            if not path.is_dir() or path.name >= data_date:
+                continue
+            try:
+                if datetime.strptime(path.name, "%Y-%m-%d").weekday() >= 5:
+                    continue
+            except ValueError:
+                continue
+            dates.append(path.name)
+    dates = sorted(dates)
     for candidate in reversed(dates):
         path = base / candidate / f"{etf_code}.json"
         if path.exists():

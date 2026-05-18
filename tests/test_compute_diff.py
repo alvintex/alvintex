@@ -1,4 +1,6 @@
-from scripts.compute_diff import apply_diff
+import json
+
+from scripts.compute_diff import apply_diff, previous_payload
 
 
 def payload(date, holdings):
@@ -51,3 +53,18 @@ def test_apply_diff_classifies_new_add_reduce_flat_and_removed():
     assert rows["9999"]["system_change_type"] == "出清"
     assert rows["9999"]["shares"] == 0
     assert result["meta"]["compare_date"] == "2026-05-13"
+
+
+def test_previous_payload_skips_weekend_snapshots(tmp_path):
+    base = tmp_path / "data" / "normalized"
+    for data_date in ["2026-05-15", "2026-05-16"]:
+        path = base / data_date / "00981A.json"
+        path.parent.mkdir(parents=True)
+        path.write_text(
+            json.dumps(payload(data_date, [holding("2330", 1000)]), ensure_ascii=False),
+            encoding="utf-8",
+        )
+
+    result = previous_payload(tmp_path, data_date="2026-05-18", etf_code="00981A")
+
+    assert result["meta"]["data_date"] == "2026-05-15"

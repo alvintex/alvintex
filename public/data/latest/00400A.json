@@ -1,12 +1,12 @@
 {
   "meta": {
     "etf_code": "00400A",
-    "etf_name": "00400A",
+    "etf_name": "主動國泰動能高息",
     "data_date": "2026-05-18",
-    "run_date": "2026-05-18",
+    "run_date": "2026-05-19",
     "source_status": "updated",
     "source_url": "https://www.etfinfo.tw/etf/00400A/holdings",
-    "holdings_count": 50,
+    "holdings_count": 52,
     "compare_date": "2026-05-15"
   },
   "holdings": [
@@ -296,6 +296,21 @@
       "note": ""
     },
     {
+      "stock_id": "2376",
+      "stock_name": "技嘉",
+      "stock_display": "技嘉(2376)",
+      "weight_pct": 1.51,
+      "shares": 919000,
+      "shares_lot": 919,
+      "weight_change_pct": 0.04,
+      "shares_change": 0,
+      "shares_change_lot": 0,
+      "source_change_text": "持平",
+      "system_change_type": "持平",
+      "source_status": "updated",
+      "note": "股數持平但比例變動"
+    },
+    {
       "stock_id": "1590",
       "stock_name": "亞德客-KY",
       "stock_display": "亞德客-KY(1590)",
@@ -324,6 +339,21 @@
       "system_change_type": "減碼",
       "source_status": "updated",
       "note": ""
+    },
+    {
+      "stock_id": "6147",
+      "stock_name": "頎邦",
+      "stock_display": "頎邦(6147)",
+      "weight_pct": 1.27,
+      "shares": 1234000,
+      "shares_lot": 1234,
+      "weight_change_pct": 0.03,
+      "shares_change": 0,
+      "shares_change_lot": 0,
+      "source_change_text": "持平",
+      "system_change_type": "持平",
+      "source_status": "updated",
+      "note": "股數持平但比例變動"
     },
     {
       "stock_id": "6488",
@@ -401,6 +431,21 @@
       "note": ""
     },
     {
+      "stock_id": "3081",
+      "stock_name": "聯  亞",
+      "stock_display": "聯  亞(3081)",
+      "weight_pct": 0.93,
+      "shares": 69000,
+      "shares_lot": 69,
+      "weight_change_pct": 0.93,
+      "shares_change": 69000,
+      "shares_change_lot": 69,
+      "source_change_text": "新增",
+      "system_change_type": "新增",
+      "source_status": "updated",
+      "note": ""
+    },
+    {
       "stock_id": "6187",
       "stock_name": "萬  潤",
       "stock_display": "萬  潤(6187)",
@@ -444,6 +489,21 @@
       "system_change_type": "持平",
       "source_status": "updated",
       "note": ""
+    },
+    {
+      "stock_id": "8069",
+      "stock_name": "元太",
+      "stock_display": "元太(8069)",
+      "weight_pct": 0.77,
+      "shares": 705000,
+      "shares_lot": 705,
+      "weight_change_pct": 0.05,
+      "shares_change": 0,
+      "shares_change_lot": 0,
+      "source_change_text": "持平",
+      "system_change_type": "持平",
+      "source_status": "updated",
+      "note": "股數持平但比例變動"
     },
     {
       "stock_id": "6285",
@@ -581,6 +641,21 @@
       "note": "股數持平但比例變動"
     },
     {
+      "stock_id": "6715",
+      "stock_name": "嘉  基",
+      "stock_display": "嘉  基(6715)",
+      "weight_pct": 0.36,
+      "shares": 140000,
+      "shares_lot": 140,
+      "weight_change_pct": 0.36,
+      "shares_change": 140000,
+      "shares_change_lot": 140,
+      "source_change_text": "新增",
+      "system_change_type": "新增",
+      "source_status": "updated",
+      "note": ""
+    },
+    {
       "stock_id": "3374",
       "stock_name": "精  材",
       "stock_display": "精  材(3374)",
@@ -626,6 +701,21 @@
       "note": ""
     },
     {
+      "stock_id": "2385",
+      "stock_name": "群光",
+      "stock_display": "群光(2385)",
+      "weight_pct": 0.21,
+      "shares": 338000,
+      "shares_lot": 338,
+      "weight_change_pct": 0.01,
+      "shares_change": 0,
+      "shares_change_lot": 0,
+      "source_change_text": "持平",
+      "system_change_type": "持平",
+      "source_status": "updated",
+      "note": "股數持平但比例變動"
+    },
+    {
       "stock_id": "6683",
       "stock_name": "雍智科技",
       "stock_display": "雍智科技(6683)",
@@ -656,36 +746,6 @@
       "note": ""
     },
     {
-      "stock_id": "2376",
-      "stock_name": "技嘉",
-      "stock_display": "技嘉(2376)",
-      "weight_pct": 0,
-      "shares": 0,
-      "shares_lot": 0,
-      "weight_change_pct": -1.47,
-      "shares_change": -919000,
-      "shares_change_lot": -919,
-      "source_change_text": "減碼",
-      "system_change_type": "減碼",
-      "source_status": "updated",
-      "note": ""
-    },
-    {
-      "stock_id": "2385",
-      "stock_name": "群光",
-      "stock_display": "群光(2385)",
-      "weight_pct": 0,
-      "shares": 0,
-      "shares_lot": 0,
-      "weight_change_pct": -0.2,
-      "shares_change": -338000,
-      "shares_change_lot": -338,
-      "source_change_text": "減碼",
-      "system_change_type": "減碼",
-      "source_status": "updated",
-      "note": ""
-    },
-    {
       "stock_id": "2449",
       "stock_name": "京元電子",
       "stock_display": "京元電子(2449)",
@@ -695,8 +755,8 @@
       "weight_change_pct": -1.11,
       "shares_change": -755000,
       "shares_change_lot": -755,
-      "source_change_text": "減碼",
-      "system_change_type": "減碼",
+      "source_change_text": "出清",
+      "system_change_type": "出清",
       "source_status": "updated",
       "note": ""
     },
@@ -710,23 +770,8 @@
       "weight_change_pct": -0.46,
       "shares_change": -98000,
       "shares_change_lot": -98,
-      "source_change_text": "減碼",
-      "system_change_type": "減碼",
-      "source_status": "updated",
-      "note": ""
-    },
-    {
-      "stock_id": "6147",
-      "stock_name": "頎邦",
-      "stock_display": "頎邦(6147)",
-      "weight_pct": 0,
-      "shares": 0,
-      "shares_lot": 0,
-      "weight_change_pct": -1.24,
-      "shares_change": -1234000,
-      "shares_change_lot": -1234,
-      "source_change_text": "減碼",
-      "system_change_type": "減碼",
+      "source_change_text": "出清",
+      "system_change_type": "出清",
       "source_status": "updated",
       "note": ""
     },
@@ -740,23 +785,8 @@
       "weight_change_pct": -0.73,
       "shares_change": -58000,
       "shares_change_lot": -58,
-      "source_change_text": "減碼",
-      "system_change_type": "減碼",
-      "source_status": "updated",
-      "note": ""
-    },
-    {
-      "stock_id": "8069",
-      "stock_name": "元太",
-      "stock_display": "元太(8069)",
-      "weight_pct": 0,
-      "shares": 0,
-      "shares_lot": 0,
-      "weight_change_pct": -0.72,
-      "shares_change": -705000,
-      "shares_change_lot": -705,
-      "source_change_text": "減碼",
-      "system_change_type": "減碼",
+      "source_change_text": "出清",
+      "system_change_type": "出清",
       "source_status": "updated",
       "note": ""
     }

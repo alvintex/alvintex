@@ -210,6 +210,12 @@ def extract_snapshot_date(html_text: str) -> str | None:
 
 
 def parse_nuxt_payload(payload_text: str, *, etf_code: str, source_url: str) -> dict[str, Any] | None:
+    decoded_payload = parse_nuxt_data_payload(payload_text, etf_code=etf_code)
+    if decoded_payload:
+        decoded_holdings = decoded_payload_to_holdings(decoded_payload, etf_code=etf_code, source_url=source_url)
+        if decoded_holdings:
+            return decoded_holdings
+
     if '"weight"' not in payload_text or '"shares"' not in payload_text:
         return None
     data_date_match = re.search(r'"snapshotDate":\d+,"etfCode":\d+,"holdings":\d+|snapshotDate', payload_text)
@@ -261,6 +267,140 @@ def parse_nuxt_payload(payload_text: str, *, etf_code: str, source_url: str) -> 
     }
 
 
+def extract_nuxt_json(payload_text: str) -> Any | None:
+    script_match = re.search(
+        r'<script type="application/json"[^>]*id="__NUXT_DATA__"[^>]*>(.*?)</script>',
+        payload_text,
+        re.S,
+    )
+    json_text = script_match.group(1) if script_match else payload_text.strip()
+    if not json_text.startswith("["):
+        return None
+    try:
+        return json.loads(html.unescape(json_text))
+    except json.JSONDecodeError:
+        return None
+
+
+def parse_nuxt_data_payload(payload_text: str, *, etf_code: str | None = None) -> Any | None:
+    values = extract_nuxt_json(payload_text)
+    if not isinstance(values, list):
+        return None
+
+    seen: dict[int, Any] = {}
+    wrappers = {"Reactive", "ShallowReactive", "Ref", "ShallowRef", "Readonly"}
+
+    def unwrap_index(value: Any) -> Any:
+        while isinstance(value, int) and 0 <= value < len(values):
+            raw = values[value]
+            if isinstance(raw, list) and raw and isinstance(raw[0], str) and raw[0] in wrappers and len(raw) > 1:
+                value = raw[1]
+                continue
+            return value
+        return value
+
+    def hydrate(value: Any) -> Any:
+        if not isinstance(value, int):
+            return value
+        if value < 0 or value >= len(values):
+            return value
+        if value in seen:
+            return seen[value]
+        raw = values[value]
+        if isinstance(raw, list):
+            if raw and isinstance(raw[0], str) and raw[0] in wrappers:
+                result = hydrate(raw[1]) if len(raw) > 1 else None
+            else:
+                result = []
+                seen[value] = result
+                result.extend(hydrate(item) for item in raw)
+        elif isinstance(raw, dict):
+            result = {}
+            seen[value] = result
+            for key, item in raw.items():
+                result[key] = hydrate(item)
+        else:
+            result = raw
+        seen[value] = result
+        return result
+
+    if etf_code:
+        root_index = unwrap_index(0)
+        root = values[root_index] if isinstance(root_index, int) and 0 <= root_index < len(values) else None
+        if isinstance(root, dict):
+            data_index = unwrap_index(root.get("data"))
+            data = values[data_index] if isinstance(data_index, int) and 0 <= data_index < len(values) else None
+            if isinstance(data, dict):
+                base_index = data.get(f"etf-detail-base-{etf_code}")
+                base_index = unwrap_index(base_index)
+                base = values[base_index] if isinstance(base_index, int) and 0 <= base_index < len(values) else None
+                if isinstance(base, dict):
+                    return {
+                        "info": hydrate(base.get("info")),
+                        "holdings": hydrate(base.get("holdings")),
+                    }
+
+    return hydrate(0)
+
+
+def decoded_payload_to_holdings(decoded: Any, *, etf_code: str, source_url: str) -> dict[str, Any] | None:
+    base = decoded
+    if isinstance(decoded, dict):
+        data = decoded.get("data", {})
+        if isinstance(data, dict):
+            base = data.get(f"etf-detail-base-{etf_code}", decoded)
+
+    info = base.get("info", {}) if isinstance(base, dict) else {}
+    holdings_payload = base.get("holdings", {}) if isinstance(base, dict) else {}
+    rows = holdings_payload.get("holdings", []) if isinstance(holdings_payload, dict) else []
+    if not isinstance(rows, list) or not rows:
+        return None
+
+    holdings = []
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        stock_id = str(row.get("code", "")).strip()
+        stock_name = str(row.get("name", "")).strip()
+        shares = row.get("shares")
+        weight = row.get("weight")
+        if not stock_id or not stock_name or shares is None or weight is None:
+            continue
+        holdings.append(
+            {
+                "stock_id": stock_id,
+                "stock_name": stock_name,
+                "stock_display": f"{stock_name}({stock_id})",
+                "weight_pct": float(weight),
+                "shares": int(shares),
+                "shares_lot": round_lot(int(shares)),
+                "weight_change_pct": 0,
+                "shares_change": 0,
+                "shares_change_lot": 0,
+                "source_change_text": "?像",
+                "system_change_type": "?像",
+                "source_status": "updated",
+                "note": "",
+            }
+        )
+
+    if not holdings:
+        return None
+
+    return {
+        "meta": {
+            "etf_code": etf_code,
+            "etf_name": info.get("name", ""),
+            "data_date": holdings_payload.get("snapshotDate") or date.today().isoformat(),
+            "run_date": date.today().isoformat(),
+            "source_status": "updated",
+            "source_url": source_url,
+            "holdings_count": len(holdings),
+        },
+        "holdings": holdings,
+    }
+
+
 def discover_active_etfs() -> list[dict[str, Any]]:
     return discover_active_etfs_from_html(fetch_text(ACTIVE_URL))
 
@@ -285,18 +425,21 @@ def fetch_holdings(etf_code: str, *, sleep_seconds: float = 0.25) -> dict[str, A
     first_url = holdings_page_url(etf_code)
     first_html = fetch_text(first_url)
     payload_src_match = re.search(r'data-src="([^"]+_payload\.json[^"]*)"', first_html)
+    first_payload = None
     if payload_src_match:
         payload_url = urllib.parse.urljoin(first_url, html.unescape(payload_src_match.group(1)))
-        payload = parse_nuxt_payload(fetch_text(payload_url), etf_code=etf_code, source_url=first_url)
-        if payload:
+        first_payload = parse_nuxt_payload(fetch_text(payload_url), etf_code=etf_code, source_url=first_url)
+        if first_payload:
             snapshot_date = extract_snapshot_date(first_html)
             if snapshot_date:
-                payload["meta"]["data_date"] = snapshot_date
-            return payload
+                first_payload["meta"]["data_date"] = snapshot_date
 
-    first_payload = parse_holdings_page(first_html, etf_code=etf_code, source_url=first_url)
+    if not first_payload:
+        first_payload = parse_holdings_page(first_html, etf_code=etf_code, source_url=first_url)
     holdings = first_payload["holdings"]
     if not holdings:
+        return first_payload
+    if "__NUXT_DATA__" in first_html:
         return first_payload
 
     for page in range(2, page_count(first_html) + 1):
