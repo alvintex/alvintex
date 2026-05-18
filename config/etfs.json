@@ -23,13 +23,13 @@
       "note": "由 ETF資訊網主動式 ETF 清單自動發現"
     },
     {
-      "etf_code": "00982A",
-      "etf_name": "主動群益台…",
+      "etf_code": "00991A",
+      "etf_name": "主動復華未…",
       "issuer": "",
       "enabled": true,
       "priority": 3,
       "source_type": "etfinfo",
-      "source_url": "https://www.etfinfo.tw/etf/00982A/holdings",
+      "source_url": "https://www.etfinfo.tw/etf/00991A/holdings",
       "parser": "etfinfo_holdings",
       "note": "由 ETF資訊網主動式 ETF 清單自動發現"
     },
@@ -89,11 +89,22 @@
       "note": "由 ETF資訊網主動式 ETF 清單自動發現"
     },
     {
+      "etf_code": "00982A",
+      "etf_name": "主動群益台灣強棒",
+      "issuer": "群益",
+      "enabled": true,
+      "priority": 9,
+      "source_type": "etfinfo",
+      "source_url": "https://www.etfinfo.tw/etf/00982A/holdings",
+      "parser": "etfinfo_holdings",
+      "note": "由 ETF資訊網主動式 ETF 清單自動發現"
+    },
+    {
       "etf_code": "00984D",
       "etf_name": "主動聯博全球非投",
       "issuer": "聯博",
       "enabled": true,
-      "priority": 9,
+      "priority": 10,
       "source_type": "etfinfo",
       "source_url": "https://www.etfinfo.tw/etf/00984D/holdings",
       "parser": "etfinfo_holdings",
@@ -104,20 +115,9 @@
       "etf_name": "主動摩根台灣鑫收",
       "issuer": "摩根",
       "enabled": true,
-      "priority": 10,
-      "source_type": "etfinfo",
-      "source_url": "https://www.etfinfo.tw/etf/00401A/holdings",
-      "parser": "etfinfo_holdings",
-      "note": "由 ETF資訊網主動式 ETF 清單自動發現"
-    },
-    {
-      "etf_code": "00991A",
-      "etf_name": "主動復華未來50",
-      "issuer": "復華",
-      "enabled": true,
       "priority": 11,
       "source_type": "etfinfo",
-      "source_url": "https://www.etfinfo.tw/etf/00991A/holdings",
+      "source_url": "https://www.etfinfo.tw/etf/00401A/holdings",
       "parser": "etfinfo_holdings",
       "note": "由 ETF資訊網主動式 ETF 清單自動發現"
     },
