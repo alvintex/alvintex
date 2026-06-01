@@ -253,25 +253,25 @@
       "source_status": "updated"
     },
     {
-      "etf_code": "00983D",
-      "etf_name": "主動富邦複合收益",
-      "issuer": "富邦",
+      "etf_code": "00984D",
+      "etf_name": "主動聯博全球非投",
+      "issuer": "聯博",
       "enabled": true,
       "priority": 22,
       "source_type": "etfinfo",
-      "source_url": "https://www.etfinfo.tw/etf/00983D/holdings",
+      "source_url": "https://www.etfinfo.tw/etf/00984D/holdings",
       "parser": "etfinfo_holdings",
       "note": "由 ETF資訊網主動式 ETF 清單自動發現",
       "source_status": "not_available"
     },
     {
-      "etf_code": "00984D",
-      "etf_name": "主動聯博全球非投",
-      "issuer": "聯博",
+      "etf_code": "00983D",
+      "etf_name": "主動富邦複合收益",
+      "issuer": "富邦",
       "enabled": true,
       "priority": 23,
       "source_type": "etfinfo",
-      "source_url": "https://www.etfinfo.tw/etf/00984D/holdings",
+      "source_url": "https://www.etfinfo.tw/etf/00983D/holdings",
       "parser": "etfinfo_holdings",
       "note": "由 ETF資訊網主動式 ETF 清單自動發現",
       "source_status": "not_available"
