@@ -67,7 +67,8 @@
       "2026-08-07",
       "2026-08-10",
       "2026-08-11",
-      "2026-08-12"
+      "2026-08-12",
+      "2026-08-13"
     ],
     "available_dates": [
       "2026-05-14",
@@ -133,7 +134,8 @@
       "2026-08-07",
       "2026-08-10",
       "2026-08-11",
-      "2026-08-12"
+      "2026-08-12",
+      "2026-08-13"
     ],
     "dates": [
       "2026-05-14"
@@ -143,37 +145,6 @@
     "stock_count": 48
   },
   "stocks": {
-    "2308": {
-      "stock_id": "2308",
-      "stock_name": "台達電",
-      "stock_display": "台達電(2308)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 3,
-          "avg_weight_pct": 3.76,
-          "total_shares": 7507000,
-          "total_lots": 7507,
-          "etfs": {
-            "00990A": {
-              "weight_pct": 4.09,
-              "shares": 628000,
-              "shares_lot": 628
-            },
-            "00988A": {
-              "weight_pct": 1.89,
-              "shares": 307000,
-              "shares_lot": 307
-            },
-            "00981A": {
-              "weight_pct": 5.3,
-              "shares": 6572000,
-              "shares_lot": 6572
-            }
-          }
-        }
-      ]
-    },
     "2330": {
       "stock_id": "2330",
       "stock_name": "台積電",
@@ -186,6 +157,11 @@
           "total_shares": 12458000,
           "total_lots": 12458,
           "etfs": {
+            "00981A": {
+              "weight_pct": 10.26,
+              "shares": 11657000,
+              "shares_lot": 11657
+            },
             "00990A": {
               "weight_pct": 3.64,
               "shares": 531000,
@@ -195,11 +171,6 @@
               "weight_pct": 1.7,
               "shares": 270000,
               "shares_lot": 270
-            },
-            "00981A": {
-              "weight_pct": 10.26,
-              "shares": 11657000,
-              "shares_lot": 11657
             }
           }
         }
@@ -217,6 +188,11 @@
           "total_shares": 5084000,
           "total_lots": 5084,
           "etfs": {
+            "00981A": {
+              "weight_pct": 8.47,
+              "shares": 4723000,
+              "shares_lot": 4723
+            },
             "00990A": {
               "weight_pct": 2.14,
               "shares": 144000,
@@ -226,312 +202,6 @@
               "weight_pct": 3.03,
               "shares": 217000,
               "shares_lot": 217
-            },
-            "00981A": {
-              "weight_pct": 8.47,
-              "shares": 4723000,
-              "shares_lot": 4723
-            }
-          }
-        }
-      ]
-    },
-    "3037": {
-      "stock_id": "3037",
-      "stock_name": "欣興",
-      "stock_display": "欣興(3037)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 3,
-          "avg_weight_pct": 2.47,
-          "total_shares": 12353000,
-          "total_lots": 12353,
-          "etfs": {
-            "00990A": {
-              "weight_pct": 1.69,
-              "shares": 634000,
-              "shares_lot": 634
-            },
-            "00988A": {
-              "weight_pct": 2.27,
-              "shares": 897000,
-              "shares_lot": 897
-            },
-            "00981A": {
-              "weight_pct": 3.45,
-              "shares": 10822000,
-              "shares_lot": 10822
-            }
-          }
-        }
-      ]
-    },
-    "5347": {
-      "stock_id": "5347",
-      "stock_name": "世界",
-      "stock_display": "世界(5347)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 1,
-          "avg_weight_pct": 1.32,
-          "total_shares": 2498000,
-          "total_lots": 2498,
-          "etfs": {
-            "00990A": {
-              "weight_pct": 1.32,
-              "shares": 2498000,
-              "shares_lot": 2498
-            }
-          }
-        }
-      ]
-    },
-    "6274": {
-      "stock_id": "6274",
-      "stock_name": "台燿",
-      "stock_display": "台燿(6274)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 3,
-          "avg_weight_pct": 1.41,
-          "total_shares": 4649000,
-          "total_lots": 4649,
-          "etfs": {
-            "00990A": {
-              "weight_pct": 1.18,
-              "shares": 268000,
-              "shares_lot": 268
-            },
-            "00988A": {
-              "weight_pct": 0.95,
-              "shares": 230000,
-              "shares_lot": 230
-            },
-            "00981A": {
-              "weight_pct": 2.11,
-              "shares": 4151000,
-              "shares_lot": 4151
-            }
-          }
-        }
-      ]
-    },
-    "3653": {
-      "stock_id": "3653",
-      "stock_name": "健策",
-      "stock_display": "健策(3653)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 2,
-          "avg_weight_pct": 2.08,
-          "total_shares": 2377000,
-          "total_lots": 2377,
-          "etfs": {
-            "00990A": {
-              "weight_pct": 1.12,
-              "shares": 110000,
-              "shares_lot": 110
-            },
-            "00981A": {
-              "weight_pct": 3.05,
-              "shares": 2267000,
-              "shares_lot": 2267
-            }
-          }
-        }
-      ]
-    },
-    "3017": {
-      "stock_id": "3017",
-      "stock_name": "奇鋐",
-      "stock_display": "奇鋐(3017)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 3,
-          "avg_weight_pct": 2.43,
-          "total_shares": 5270000,
-          "total_lots": 5270,
-          "etfs": {
-            "00990A": {
-              "weight_pct": 1.0,
-              "shares": 130000,
-              "shares_lot": 130
-            },
-            "00988A": {
-              "weight_pct": 1.58,
-              "shares": 215000,
-              "shares_lot": 215
-            },
-            "00981A": {
-              "weight_pct": 4.7,
-              "shares": 4925000,
-              "shares_lot": 4925
-            }
-          }
-        }
-      ]
-    },
-    "5274": {
-      "stock_id": "5274",
-      "stock_name": "信驊",
-      "stock_display": "信驊(5274)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 3,
-          "avg_weight_pct": 1.76,
-          "total_shares": 523000,
-          "total_lots": 523,
-          "etfs": {
-            "00990A": {
-              "weight_pct": 0.54,
-              "shares": 10000,
-              "shares_lot": 10
-            },
-            "00988A": {
-              "weight_pct": 1.52,
-              "shares": 30000,
-              "shares_lot": 30
-            },
-            "00981A": {
-              "weight_pct": 3.23,
-              "shares": 483000,
-              "shares_lot": 483
-            }
-          }
-        }
-      ]
-    },
-    "2454": {
-      "stock_id": "2454",
-      "stock_name": "聯發科",
-      "stock_display": "聯發科(2454)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 3,
-          "avg_weight_pct": 3.01,
-          "total_shares": 4628000,
-          "total_lots": 4628,
-          "etfs": {
-            "00990A": {
-              "weight_pct": 0.51,
-              "shares": 50000,
-              "shares_lot": 50
-            },
-            "00988A": {
-              "weight_pct": 3.12,
-              "shares": 315000,
-              "shares_lot": 315
-            },
-            "00981A": {
-              "weight_pct": 5.4,
-              "shares": 4263000,
-              "shares_lot": 4263
-            }
-          }
-        }
-      ]
-    },
-    "6515": {
-      "stock_id": "6515",
-      "stock_name": "穎崴",
-      "stock_display": "穎崴(6515)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 2,
-          "avg_weight_pct": 1.78,
-          "total_shares": 509000,
-          "total_lots": 509,
-          "etfs": {
-            "00988A": {
-              "weight_pct": 1.88,
-              "shares": 67000,
-              "shares_lot": 67
-            },
-            "00981A": {
-              "weight_pct": 1.68,
-              "shares": 442000,
-              "shares_lot": 442
-            }
-          }
-        }
-      ]
-    },
-    "3711": {
-      "stock_id": "3711",
-      "stock_name": "日月光投控",
-      "stock_display": "日月光投控(3711)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 2,
-          "avg_weight_pct": 2.45,
-          "total_shares": 16098000,
-          "total_lots": 16098,
-          "etfs": {
-            "00988A": {
-              "weight_pct": 1.71,
-              "shares": 1100000,
-              "shares_lot": 1100
-            },
-            "00981A": {
-              "weight_pct": 3.19,
-              "shares": 14998000,
-              "shares_lot": 14998
-            }
-          }
-        }
-      ]
-    },
-    "6223": {
-      "stock_id": "6223",
-      "stock_name": "旺矽",
-      "stock_display": "旺矽(6223)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 2,
-          "avg_weight_pct": 3.21,
-          "total_shares": 2259000,
-          "total_lots": 2259,
-          "etfs": {
-            "00988A": {
-              "weight_pct": 1.46,
-              "shares": 90000,
-              "shares_lot": 90
-            },
-            "00981A": {
-              "weight_pct": 4.97,
-              "shares": 2169000,
-              "shares_lot": 2169
-            }
-          }
-        }
-      ]
-    },
-    "7769": {
-      "stock_id": "7769",
-      "stock_name": "鴻勁",
-      "stock_display": "鴻勁(7769)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.76,
-          "total_shares": 36000,
-          "total_lots": 36,
-          "etfs": {
-            "00988A": {
-              "weight_pct": 0.76,
-              "shares": 36000,
-              "shares_lot": 36
             }
           }
         }
@@ -553,6 +223,125 @@
               "weight_pct": 6.07,
               "shares": 6231000,
               "shares_lot": 6231
+            }
+          }
+        }
+      ]
+    },
+    "2454": {
+      "stock_id": "2454",
+      "stock_name": "聯發科",
+      "stock_display": "聯發科(2454)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 3.01,
+          "total_shares": 4628000,
+          "total_lots": 4628,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 5.4,
+              "shares": 4263000,
+              "shares_lot": 4263
+            },
+            "00990A": {
+              "weight_pct": 0.51,
+              "shares": 50000,
+              "shares_lot": 50
+            },
+            "00988A": {
+              "weight_pct": 3.12,
+              "shares": 315000,
+              "shares_lot": 315
+            }
+          }
+        }
+      ]
+    },
+    "2308": {
+      "stock_id": "2308",
+      "stock_name": "台達電",
+      "stock_display": "台達電(2308)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 3.76,
+          "total_shares": 7507000,
+          "total_lots": 7507,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 5.3,
+              "shares": 6572000,
+              "shares_lot": 6572
+            },
+            "00990A": {
+              "weight_pct": 4.09,
+              "shares": 628000,
+              "shares_lot": 628
+            },
+            "00988A": {
+              "weight_pct": 1.89,
+              "shares": 307000,
+              "shares_lot": 307
+            }
+          }
+        }
+      ]
+    },
+    "6223": {
+      "stock_id": "6223",
+      "stock_name": "旺矽",
+      "stock_display": "旺矽(6223)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 2,
+          "avg_weight_pct": 3.21,
+          "total_shares": 2259000,
+          "total_lots": 2259,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 4.97,
+              "shares": 2169000,
+              "shares_lot": 2169
+            },
+            "00988A": {
+              "weight_pct": 1.46,
+              "shares": 90000,
+              "shares_lot": 90
+            }
+          }
+        }
+      ]
+    },
+    "3017": {
+      "stock_id": "3017",
+      "stock_name": "奇鋐",
+      "stock_display": "奇鋐(3017)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 2.43,
+          "total_shares": 5270000,
+          "total_lots": 5270,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 4.7,
+              "shares": 4925000,
+              "shares_lot": 4925
+            },
+            "00990A": {
+              "weight_pct": 1.0,
+              "shares": 130000,
+              "shares_lot": 130
+            },
+            "00988A": {
+              "weight_pct": 1.58,
+              "shares": 215000,
+              "shares_lot": 215
             }
           }
         }
@@ -642,6 +431,37 @@
         }
       ]
     },
+    "3037": {
+      "stock_id": "3037",
+      "stock_name": "欣興",
+      "stock_display": "欣興(3037)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 2.47,
+          "total_shares": 12353000,
+          "total_lots": 12353,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.45,
+              "shares": 10822000,
+              "shares_lot": 10822
+            },
+            "00990A": {
+              "weight_pct": 1.69,
+              "shares": 634000,
+              "shares_lot": 634
+            },
+            "00988A": {
+              "weight_pct": 2.27,
+              "shares": 897000,
+              "shares_lot": 897
+            }
+          }
+        }
+      ]
+    },
     "2327": {
       "stock_id": "2327",
       "stock_name": "國巨*",
@@ -663,6 +483,89 @@
         }
       ]
     },
+    "5274": {
+      "stock_id": "5274",
+      "stock_name": "信驊",
+      "stock_display": "信驊(5274)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 1.76,
+          "total_shares": 523000,
+          "total_lots": 523,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.23,
+              "shares": 483000,
+              "shares_lot": 483
+            },
+            "00990A": {
+              "weight_pct": 0.54,
+              "shares": 10000,
+              "shares_lot": 10
+            },
+            "00988A": {
+              "weight_pct": 1.52,
+              "shares": 30000,
+              "shares_lot": 30
+            }
+          }
+        }
+      ]
+    },
+    "3711": {
+      "stock_id": "3711",
+      "stock_name": "日月光投控",
+      "stock_display": "日月光投控(3711)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 2,
+          "avg_weight_pct": 2.45,
+          "total_shares": 16098000,
+          "total_lots": 16098,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.19,
+              "shares": 14998000,
+              "shares_lot": 14998
+            },
+            "00988A": {
+              "weight_pct": 1.71,
+              "shares": 1100000,
+              "shares_lot": 1100
+            }
+          }
+        }
+      ]
+    },
+    "3653": {
+      "stock_id": "3653",
+      "stock_name": "健策",
+      "stock_display": "健策(3653)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 2,
+          "avg_weight_pct": 2.08,
+          "total_shares": 2377000,
+          "total_lots": 2377,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 3.05,
+              "shares": 2267000,
+              "shares_lot": 2267
+            },
+            "00990A": {
+              "weight_pct": 1.12,
+              "shares": 110000,
+              "shares_lot": 110
+            }
+          }
+        }
+      ]
+    },
     "2303": {
       "stock_id": "2303",
       "stock_name": "聯電",
@@ -679,6 +582,63 @@
               "weight_pct": 2.4,
               "shares": 56167000,
               "shares_lot": 56167
+            }
+          }
+        }
+      ]
+    },
+    "6274": {
+      "stock_id": "6274",
+      "stock_name": "台燿",
+      "stock_display": "台燿(6274)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 3,
+          "avg_weight_pct": 1.41,
+          "total_shares": 4649000,
+          "total_lots": 4649,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 2.11,
+              "shares": 4151000,
+              "shares_lot": 4151
+            },
+            "00990A": {
+              "weight_pct": 1.18,
+              "shares": 268000,
+              "shares_lot": 268
+            },
+            "00988A": {
+              "weight_pct": 0.95,
+              "shares": 230000,
+              "shares_lot": 230
+            }
+          }
+        }
+      ]
+    },
+    "6515": {
+      "stock_id": "6515",
+      "stock_name": "穎崴",
+      "stock_display": "穎崴(6515)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 2,
+          "avg_weight_pct": 1.78,
+          "total_shares": 509000,
+          "total_lots": 509,
+          "etfs": {
+            "00981A": {
+              "weight_pct": 1.68,
+              "shares": 442000,
+              "shares_lot": 442
+            },
+            "00988A": {
+              "weight_pct": 1.88,
+              "shares": 67000,
+              "shares_lot": 67
             }
           }
         }
@@ -1246,6 +1206,48 @@
               "weight_pct": 0.0,
               "shares": 107000,
               "shares_lot": 107
+            }
+          }
+        }
+      ]
+    },
+    "5347": {
+      "stock_id": "5347",
+      "stock_name": "世界",
+      "stock_display": "世界(5347)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.32,
+          "total_shares": 2498000,
+          "total_lots": 2498,
+          "etfs": {
+            "00990A": {
+              "weight_pct": 1.32,
+              "shares": 2498000,
+              "shares_lot": 2498
+            }
+          }
+        }
+      ]
+    },
+    "7769": {
+      "stock_id": "7769",
+      "stock_name": "鴻勁",
+      "stock_display": "鴻勁(7769)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.76,
+          "total_shares": 36000,
+          "total_lots": 36,
+          "etfs": {
+            "00988A": {
+              "weight_pct": 0.76,
+              "shares": 36000,
+              "shares_lot": 36
             }
           }
         }
