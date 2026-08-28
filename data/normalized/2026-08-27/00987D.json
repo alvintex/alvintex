@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "etf_code": "00987D",
+    "etf_name": "主動統一美債量化",
+    "data_date": "2026-08-27",
+    "run_date": "2026-08-28",
+    "source_status": "updated",
+    "source_url": "https://www.etfinfo.tw/etf/00987D/holdings",
+    "holdings_count": 4,
+    "compare_date": "2026-08-26"
+  },
+  "holdings": [
+    {
+      "stock_id": "US912810UW61",
+      "stock_name": "T 5 1/8 08/15/56",
+      "stock_display": "T 5 1/8 08/15/56(US912810UW61)",
+      "weight_pct": 60.72,
+      "shares": 18520000,
+      "shares_lot": 18520,
+      "weight_change_pct": -0.55,
+      "shares_change": -1500000,
+      "shares_change_lot": -1500,
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
+      "source_status": "updated",
+      "note": ""
+    },
+    {
+      "stock_id": "US912810UU06",
+      "stock_name": "T 5 05/15/56",
+      "stock_display": "T 5 05/15/56(US912810UU06)",
+      "weight_pct": 31.19,
+      "shares": 9700000,
+      "shares_lot": 9700,
+      "weight_change_pct": -0.32,
+      "shares_change": -800000,
+      "shares_change_lot": -800,
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
+      "source_status": "updated",
+      "note": ""
+    },
+    {
+      "stock_id": "202612UB",
+      "stock_name": "超長美債",
+      "stock_display": "超長美債(202612UB)",
+      "weight_pct": 26.84,
+      "shares": 73,
+      "shares_lot": 0.1,
+      "weight_change_pct": 7.99,
+      "shares_change": 18,
+      "shares_change_lot": 0.0,
+      "source_change_text": "加碼",
+      "system_change_type": "加碼",
+      "source_status": "updated",
+      "note": ""
+    },
+    {
+      "stock_id": "202609UB",
+      "stock_name": "超長美債",
+      "stock_display": "超長美債(202609UB)",
+      "weight_pct": 0,
+      "shares": 0,
+      "shares_lot": 0,
+      "weight_change_pct": -6.19,
+      "shares_change": -18,
+      "shares_change_lot": -0.0,
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
+      "source_status": "updated",
+      "note": ""
+    }
+  ]
+}
