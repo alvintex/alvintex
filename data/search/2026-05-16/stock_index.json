@@ -73,16 +73,6 @@
         "統一(1216)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.91,
-          "shares": 833000,
-          "shares_lot": 833,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 3.63,
           "shares": 5227000,
@@ -91,6 +81,16 @@
           "shares_change": 57000,
           "shares_change_lot": 57,
           "change_type": "加碼",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.91,
+          "shares": 833000,
+          "shares_lot": 833,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         }
       },
@@ -141,16 +141,6 @@
         "南亞(1303)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
         "00991A": {
           "weight_pct": 0.0,
           "shares": 1000,
@@ -158,6 +148,16 @@
           "weight_change_pct": 0.0,
           "shares_change": 1000,
           "shares_change_lot": 1,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
           "change_type": "新增",
           "note": ""
         }
@@ -306,16 +306,6 @@
         "聚陽(1477)"
       ],
       "etfs": {
-        "00980A": {
-          "weight_pct": 0.51,
-          "shares": 402000,
-          "shares_lot": 402,
-          "weight_change_pct": 0.51,
-          "shares_change": 402000,
-          "shares_change_lot": 402,
-          "change_type": "新增",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 2.43,
           "shares": 1218000,
@@ -325,6 +315,16 @@
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": "股數持平但比例變動"
+        },
+        "00980A": {
+          "weight_pct": 0.51,
+          "shares": 402000,
+          "shares_lot": 402,
+          "weight_change_pct": 0.51,
+          "shares_change": 402000,
+          "shares_change_lot": 402,
+          "change_type": "新增",
+          "note": ""
         }
       },
       "held_etf_count": 2,
@@ -345,26 +345,6 @@
         "華城(1519)"
       ],
       "etfs": {
-        "00980A": {
-          "weight_pct": 0.37,
-          "shares": 78000,
-          "shares_lot": 78,
-          "weight_change_pct": 0.01,
-          "shares_change": 6000,
-          "shares_change_lot": 6,
-          "change_type": "加碼",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 0.0,
-          "shares": 600,
-          "shares_lot": 0.6,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 0.04,
           "shares": 5000,
@@ -383,6 +363,26 @@
           "shares_change": 1000,
           "shares_change_lot": 1,
           "change_type": "新增",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.0,
+          "shares": 600,
+          "shares_lot": 0.6,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00980A": {
+          "weight_pct": 0.37,
+          "shares": 78000,
+          "shares_lot": 78,
+          "weight_change_pct": 0.01,
+          "shares_change": 6000,
+          "shares_change_lot": 6,
+          "change_type": "加碼",
           "note": ""
         }
       },
@@ -433,16 +433,6 @@
         "亞德客-KY(1590)"
       ],
       "etfs": {
-        "00981A": {
-          "weight_pct": 0.3,
-          "shares": 530000,
-          "shares_lot": 530,
-          "weight_change_pct": 0.3,
-          "shares_change": 530000,
-          "shares_change_lot": 530,
-          "change_type": "加碼",
-          "note": ""
-        },
         "00991A": {
           "weight_pct": 0.0,
           "shares": 1000,
@@ -451,6 +441,16 @@
           "shares_change": 1000,
           "shares_change_lot": 1,
           "change_type": "新增",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 0.3,
+          "shares": 530000,
+          "shares_lot": 530,
+          "weight_change_pct": 0.3,
+          "shares_change": 530000,
+          "shares_change_lot": 530,
+          "change_type": "加碼",
           "note": ""
         },
         "00994A": {
@@ -511,21 +511,21 @@
         "光洋科(1785)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.78,
-          "shares": 358000,
-          "shares_lot": 358,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00982A": {
           "weight_pct": 1.67,
           "shares": 5477000,
           "shares_lot": 5477,
           "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.78,
+          "shares": 358000,
+          "shares_lot": 358,
+          "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -550,16 +550,6 @@
         "富喬(1815)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
         "00981A": {
           "weight_pct": 0.0,
           "shares": 107000,
@@ -568,6 +558,16 @@
           "shares_change": 107000,
           "shares_change_lot": 107,
           "change_type": "加碼",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -676,31 +676,11 @@
         "川湖(2059)"
       ],
       "etfs": {
-        "00995A": {
-          "weight_pct": 0.55,
-          "shares": 6000,
-          "shares_lot": 6,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00980A": {
-          "weight_pct": 2.31,
-          "shares": 82000,
-          "shares_lot": 82,
-          "weight_change_pct": -0.06,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00982A": {
-          "weight_pct": 2.39,
-          "shares": 246000,
-          "shares_lot": 246,
-          "weight_change_pct": 0.0,
+        "00992A": {
+          "weight_pct": 3.47,
+          "shares": 358000,
+          "shares_lot": 358,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -714,6 +694,16 @@
           "shares_change": -14000,
           "shares_change_lot": -14,
           "change_type": "減碼",
+          "note": ""
+        },
+        "00995A": {
+          "weight_pct": 0.55,
+          "shares": 6000,
+          "shares_lot": 6,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         },
         "00991A": {
@@ -736,15 +726,25 @@
           "change_type": "持平",
           "note": ""
         },
-        "00992A": {
-          "weight_pct": 3.47,
-          "shares": 358000,
-          "shares_lot": 358,
-          "weight_change_pct": -0.0,
+        "00982A": {
+          "weight_pct": 2.39,
+          "shares": 246000,
+          "shares_lot": 246,
+          "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
+        },
+        "00980A": {
+          "weight_pct": 2.31,
+          "shares": 82000,
+          "shares_lot": 82,
+          "weight_change_pct": -0.06,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
         }
       },
       "held_etf_count": 7,
@@ -833,20 +833,20 @@
           "change_type": "持平",
           "note": ""
         },
-        "00984A": {
-          "weight_pct": 4.07,
-          "shares": 2583000,
-          "shares_lot": 2583,
+        "00981A": {
+          "weight_pct": 2.4,
+          "shares": 56167000,
+          "shares_lot": 56167,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
         },
-        "00981A": {
-          "weight_pct": 2.4,
-          "shares": 56167000,
-          "shares_lot": 56167,
+        "00994A": {
+          "weight_pct": 1.58,
+          "shares": 770000,
+          "shares_lot": 770,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -863,10 +863,10 @@
           "change_type": "持平",
           "note": ""
         },
-        "00994A": {
-          "weight_pct": 1.58,
-          "shares": 770000,
-          "shares_lot": 770,
+        "00984A": {
+          "weight_pct": 4.07,
+          "shares": 2583000,
+          "shares_lot": 2583,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -892,11 +892,81 @@
         "台達電(2308)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 1.48,
+          "shares": 357000,
+          "shares_lot": 357,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 2.26,
+          "shares": 119000,
+          "shares_lot": 119,
+          "weight_change_pct": -0.04,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 5.48,
           "shares": 141000,
           "shares_lot": 141,
           "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 4.07,
+          "shares": 900000,
+          "shares_lot": 900,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 5.3,
+          "shares": 6572000,
+          "shares_lot": 6572,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 4.08,
+          "shares": 105499,
+          "shares_lot": 105.5,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 4.96,
+          "shares": 80000,
+          "shares_lot": 80,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 3.4,
+          "shares": 822000,
+          "shares_lot": 822,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -916,76 +986,6 @@
           "weight_pct": 0.85,
           "shares": 27000,
           "shares_lot": 27,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 4.96,
-          "shares": 80000,
-          "shares_lot": 80,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 5.3,
-          "shares": 6572000,
-          "shares_lot": 6572,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 3.4,
-          "shares": 822000,
-          "shares_lot": 822,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 2.26,
-          "shares": 119000,
-          "shares_lot": 119,
-          "weight_change_pct": -0.04,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 4.07,
-          "shares": 900000,
-          "shares_lot": 900,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 4.08,
-          "shares": 105499,
-          "shares_lot": 105.5,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 1.48,
-          "shares": 357000,
-          "shares_lot": 357,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -1021,13 +1021,13 @@
           "change_type": "持平",
           "note": ""
         },
-        "00984A": {
-          "weight_pct": 0.22,
-          "shares": 61000,
-          "shares_lot": 61,
-          "weight_change_pct": 0.22,
-          "shares_change": 61000,
-          "shares_change_lot": 61,
+        "00991A": {
+          "weight_pct": 0.01,
+          "shares": 9000,
+          "shares_lot": 9,
+          "weight_change_pct": 0.01,
+          "shares_change": 9000,
+          "shares_change_lot": 9,
           "change_type": "新增",
           "note": ""
         },
@@ -1051,13 +1051,13 @@
           "change_type": "持平",
           "note": ""
         },
-        "00991A": {
-          "weight_pct": 0.01,
-          "shares": 9000,
-          "shares_lot": 9,
-          "weight_change_pct": 0.01,
-          "shares_change": 9000,
-          "shares_change_lot": 9,
+        "00984A": {
+          "weight_pct": 0.22,
+          "shares": 61000,
+          "shares_lot": 61,
+          "weight_change_pct": 0.22,
+          "shares_change": 61000,
+          "shares_change_lot": 61,
           "change_type": "新增",
           "note": ""
         }
@@ -1080,26 +1080,6 @@
         "鴻海(2317)"
       ],
       "etfs": {
-        "00980A": {
-          "weight_pct": 2.99,
-          "shares": 2076000,
-          "shares_lot": 2076,
-          "weight_change_pct": 0.3,
-          "shares_change": 171000,
-          "shares_change_lot": 171,
-          "change_type": "加碼",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 0.0,
-          "shares": 1000,
-          "shares_lot": 1,
-          "weight_change_pct": 0.0,
-          "shares_change": 1000,
-          "shares_change_lot": 1,
-          "change_type": "新增",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 0.27,
           "shares": 117000,
@@ -1118,6 +1098,26 @@
           "shares_change": 9000,
           "shares_change_lot": 9,
           "change_type": "新增",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 0.0,
+          "shares": 1000,
+          "shares_lot": 1,
+          "weight_change_pct": 0.0,
+          "shares_change": 1000,
+          "shares_change_lot": 1,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00980A": {
+          "weight_pct": 2.99,
+          "shares": 2076000,
+          "shares_lot": 2076,
+          "weight_change_pct": 0.3,
+          "shares_change": 171000,
+          "shares_change_lot": 171,
+          "change_type": "加碼",
           "note": ""
         }
       },
@@ -1168,6 +1168,16 @@
         "國巨*(2327)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 0.18,
+          "shares": 200000,
+          "shares_lot": 200,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 2.19,
           "shares": 257000,
@@ -1178,40 +1188,20 @@
           "change_type": "持平",
           "note": ""
         },
-        "00984A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 3.24,
-          "shares": 18313000,
-          "shares_lot": 18313,
+        "00991A": {
+          "weight_pct": 4.86,
+          "shares": 4900000,
+          "shares_lot": 4900,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
         },
-        "00982A": {
-          "weight_pct": 0.0,
-          "shares": 1000,
-          "shares_lot": 1,
-          "weight_change_pct": 0.0,
-          "shares_change": 1000,
-          "shares_change_lot": 1,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00991A": {
-          "weight_pct": 4.86,
-          "shares": 4900000,
-          "shares_lot": 4900,
+        "00981A": {
+          "weight_pct": 3.24,
+          "shares": 18313000,
+          "shares_lot": 18313,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -1228,14 +1218,24 @@
           "change_type": "持平",
           "note": ""
         },
-        "00992A": {
-          "weight_pct": 0.18,
-          "shares": 200000,
-          "shares_lot": 200,
-          "weight_change_pct": -0.0,
+        "00982A": {
+          "weight_pct": 0.0,
+          "shares": 1000,
+          "shares_lot": 1,
+          "weight_change_pct": 0.0,
+          "shares_change": 1000,
+          "shares_change_lot": 1,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
-          "change_type": "持平",
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -1257,10 +1257,80 @@
         "台積電(2330)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 7.97,
+          "shares": 1761000,
+          "shares_lot": 1761,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 26.94,
+          "shares": 1298000,
+          "shares_lot": 1298,
+          "weight_change_pct": 0.52,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 9.59,
           "shares": 226000,
           "shares_lot": 226,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 18.0,
+          "shares": 3650000,
+          "shares_lot": 3650,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 10.26,
+          "shares": 11657000,
+          "shares_lot": 11657,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 16.15,
+          "shares": 382999,
+          "shares_lot": 383.0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 5.88,
+          "shares": 90000,
+          "shares_lot": 90,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 8.41,
+          "shares": 1860000,
+          "shares_lot": 1860,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -1286,76 +1356,6 @@
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
-        },
-        "00987A": {
-          "weight_pct": 5.88,
-          "shares": 90000,
-          "shares_lot": 90,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 10.26,
-          "shares": 11657000,
-          "shares_lot": 11657,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 8.41,
-          "shares": 1860000,
-          "shares_lot": 1860,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 26.94,
-          "shares": 1298000,
-          "shares_lot": 1298,
-          "weight_change_pct": 0.52,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 18.0,
-          "shares": 3650000,
-          "shares_lot": 3650,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 16.15,
-          "shares": 382999,
-          "shares_lot": 383.0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 7.97,
-          "shares": 1761000,
-          "shares_lot": 1761,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
         }
       },
       "held_etf_count": 10,
@@ -1376,13 +1376,23 @@
         "旺宏(2337)"
       ],
       "etfs": {
-        "00987A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
+        "00992A": {
+          "weight_pct": 0.41,
+          "shares": 1271000,
+          "shares_lot": 1271,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 0.0,
+          "shares": 9000,
+          "shares_lot": 9,
+          "weight_change_pct": 0.0,
+          "shares_change": 9000,
+          "shares_change_lot": 9,
           "change_type": "新增",
           "note": ""
         },
@@ -1396,24 +1406,14 @@
           "change_type": "新增",
           "note": ""
         },
-        "00991A": {
+        "00987A": {
           "weight_pct": 0.0,
-          "shares": 9000,
-          "shares_lot": 9,
+          "shares": 0,
+          "shares_lot": 0,
           "weight_change_pct": 0.0,
-          "shares_change": 9000,
-          "shares_change_lot": 9,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 0.41,
-          "shares": 1271000,
-          "shares_lot": 1271,
-          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
-          "change_type": "持平",
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -1435,24 +1435,14 @@
         "華邦電(2344)"
       ],
       "etfs": {
-        "00995A": {
-          "weight_pct": 0.53,
-          "shares": 220000,
-          "shares_lot": 220,
-          "weight_change_pct": 0.0,
+        "00992A": {
+          "weight_pct": 0.23,
+          "shares": 893000,
+          "shares_lot": 893,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
-          "note": ""
-        },
-        "00980A": {
-          "weight_pct": 2.37,
-          "shares": 3152000,
-          "shares_lot": 3152,
-          "weight_change_pct": 0.13,
-          "shares_change": 260000,
-          "shares_change_lot": 260,
-          "change_type": "加碼",
           "note": ""
         },
         "00985A": {
@@ -1465,6 +1455,16 @@
           "change_type": "持平",
           "note": "股數持平但比例變動"
         },
+        "00995A": {
+          "weight_pct": 0.53,
+          "shares": 220000,
+          "shares_lot": 220,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00991A": {
           "weight_pct": 0.0,
           "shares": 9000,
@@ -1475,14 +1475,14 @@
           "change_type": "新增",
           "note": ""
         },
-        "00992A": {
-          "weight_pct": 0.23,
-          "shares": 893000,
-          "shares_lot": 893,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
+        "00980A": {
+          "weight_pct": 2.37,
+          "shares": 3152000,
+          "shares_lot": 3152,
+          "weight_change_pct": 0.13,
+          "shares_change": 260000,
+          "shares_change_lot": 260,
+          "change_type": "加碼",
           "note": ""
         }
       },
@@ -1504,11 +1504,81 @@
         "智邦(2345)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 4.58,
+          "shares": 916000,
+          "shares_lot": 916,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 1.52,
+          "shares": 66000,
+          "shares_lot": 66,
+          "weight_change_pct": -0.06,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 5.58,
           "shares": 119000,
           "shares_lot": 119,
           "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 4.36,
+          "shares": 800000,
+          "shares_lot": 800,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 6.07,
+          "shares": 6231000,
+          "shares_lot": 6231,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 4.71,
+          "shares": 101000,
+          "shares_lot": 101,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 3.23,
+          "shares": 42000,
+          "shares_lot": 42,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 4.24,
+          "shares": 849000,
+          "shares_lot": 849,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -1529,76 +1599,6 @@
           "shares": 32000,
           "shares_lot": 32,
           "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 3.23,
-          "shares": 42000,
-          "shares_lot": 42,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 6.07,
-          "shares": 6231000,
-          "shares_lot": 6231,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 4.24,
-          "shares": 849000,
-          "shares_lot": 849,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 1.52,
-          "shares": 66000,
-          "shares_lot": 66,
-          "weight_change_pct": -0.06,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 4.36,
-          "shares": 800000,
-          "shares_lot": 800,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 4.71,
-          "shares": 101000,
-          "shares_lot": 101,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 4.58,
-          "shares": 916000,
-          "shares_lot": 916,
-          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -1710,20 +1710,20 @@
         "華碩(2357)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 1.17,
-          "shares": 118000,
-          "shares_lot": 118,
+        "00981A": {
+          "weight_pct": 0.42,
+          "shares": 1703000,
+          "shares_lot": 1703,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
         },
-        "00981A": {
-          "weight_pct": 0.42,
-          "shares": 1703000,
-          "shares_lot": 1703,
+        "00984A": {
+          "weight_pct": 1.17,
+          "shares": 118000,
+          "shares_lot": 118,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -1749,6 +1749,26 @@
         "致茂(2360)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 0.93,
+          "shares": 207000,
+          "shares_lot": 207,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 2.05,
+          "shares": 100000,
+          "shares_lot": 100,
+          "weight_change_pct": 0.02,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 0.75,
           "shares": 18000,
@@ -1759,20 +1779,20 @@
           "change_type": "新增",
           "note": ""
         },
-        "00980A": {
-          "weight_pct": 3.22,
-          "shares": 248000,
-          "shares_lot": 248,
-          "weight_change_pct": 0.24,
-          "shares_change": 20000,
-          "shares_change_lot": 20,
-          "change_type": "加碼",
+        "00991A": {
+          "weight_pct": 1.95,
+          "shares": 400000,
+          "shares_lot": 400,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         },
-        "00984A": {
-          "weight_pct": 1.75,
-          "shares": 53000,
-          "shares_lot": 53,
+        "00994A": {
+          "weight_pct": 3.46,
+          "shares": 83000,
+          "shares_lot": 83,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -1799,40 +1819,20 @@
           "change_type": "持平",
           "note": ""
         },
-        "00985A": {
-          "weight_pct": 2.05,
-          "shares": 100000,
-          "shares_lot": 100,
-          "weight_change_pct": 0.02,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 1.95,
-          "shares": 400000,
-          "shares_lot": 400,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
+        "00980A": {
+          "weight_pct": 3.22,
+          "shares": 248000,
+          "shares_lot": 248,
+          "weight_change_pct": 0.24,
+          "shares_change": 20000,
+          "shares_change_lot": 20,
+          "change_type": "加碼",
           "note": ""
         },
-        "00994A": {
-          "weight_pct": 3.46,
-          "shares": 83000,
-          "shares_lot": 83,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 0.93,
-          "shares": 207000,
-          "shares_lot": 207,
+        "00984A": {
+          "weight_pct": 1.75,
+          "shares": 53000,
+          "shares_lot": 53,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -1858,11 +1858,81 @@
         "金像電(2368)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 1.72,
+          "shares": 669000,
+          "shares_lot": 669,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 1.95,
+          "shares": 165000,
+          "shares_lot": 165,
+          "weight_change_pct": -0.17,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 3.74,
           "shares": 155000,
           "shares_lot": 155,
           "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 3.43,
+          "shares": 1220000,
+          "shares_lot": 1220,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 3.52,
+          "shares": 7018000,
+          "shares_lot": 7018,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 3.15,
+          "shares": 131000,
+          "shares_lot": 131,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 2.43,
+          "shares": 59000,
+          "shares_lot": 59,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.48,
+          "shares": 187000,
+          "shares_lot": 187,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -1883,76 +1953,6 @@
           "shares": 48000,
           "shares_lot": 48,
           "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 2.43,
-          "shares": 59000,
-          "shares_lot": 59,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 3.52,
-          "shares": 7018000,
-          "shares_lot": 7018,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 0.48,
-          "shares": 187000,
-          "shares_lot": 187,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 1.95,
-          "shares": 165000,
-          "shares_lot": 165,
-          "weight_change_pct": -0.17,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 3.43,
-          "shares": 1220000,
-          "shares_lot": 1220,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 3.15,
-          "shares": 131000,
-          "shares_lot": 131,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 1.72,
-          "shares": 669000,
-          "shares_lot": 669,
-          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -2074,26 +2074,6 @@
         "廣達(2382)"
       ],
       "etfs": {
-        "00980A": {
-          "weight_pct": 2.79,
-          "shares": 1574000,
-          "shares_lot": 1574,
-          "weight_change_pct": 0.0,
-          "shares_change": 129000,
-          "shares_change_lot": 129,
-          "change_type": "加碼",
-          "note": ""
-        },
-        "00984A": {
-          "weight_pct": 4.74,
-          "shares": 969000,
-          "shares_lot": 969,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 0.04,
           "shares": 14000,
@@ -2112,6 +2092,26 @@
           "shares_change": 9000,
           "shares_change_lot": 9,
           "change_type": "新增",
+          "note": ""
+        },
+        "00980A": {
+          "weight_pct": 2.79,
+          "shares": 1574000,
+          "shares_lot": 1574,
+          "weight_change_pct": 0.0,
+          "shares_change": 129000,
+          "shares_change_lot": 129,
+          "change_type": "加碼",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 4.74,
+          "shares": 969000,
+          "shares_lot": 969,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         }
       },
@@ -2133,10 +2133,80 @@
         "台光電(2383)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 4.94,
+          "shares": 536000,
+          "shares_lot": 536,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 1.56,
+          "shares": 37000,
+          "shares_lot": 37,
+          "weight_change_pct": 1.56,
+          "shares_change": 37000,
+          "shares_change_lot": 37,
+          "change_type": "新增",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 6.39,
           "shares": 74000,
           "shares_lot": 74,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 7.69,
+          "shares": 765000,
+          "shares_lot": 765,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 8.47,
+          "shares": 4723000,
+          "shares_lot": 4723,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 6.01,
+          "shares": 70000,
+          "shares_lot": 70,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 5.8,
+          "shares": 41000,
+          "shares_lot": 41,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 5.05,
+          "shares": 548000,
+          "shares_lot": 548,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -2161,76 +2231,6 @@
           "shares_change": 24000,
           "shares_change_lot": 24,
           "change_type": "新增",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 5.8,
-          "shares": 41000,
-          "shares_lot": 41,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 8.47,
-          "shares": 4723000,
-          "shares_lot": 4723,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 5.05,
-          "shares": 548000,
-          "shares_lot": 548,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 1.56,
-          "shares": 37000,
-          "shares_lot": 37,
-          "weight_change_pct": 1.56,
-          "shares_change": 37000,
-          "shares_change_lot": 37,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00991A": {
-          "weight_pct": 7.69,
-          "shares": 765000,
-          "shares_lot": 765,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 6.01,
-          "shares": 70000,
-          "shares_lot": 70,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 4.94,
-          "shares": 536000,
-          "shares_lot": 536,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
           "note": ""
         }
       },
@@ -2330,6 +2330,16 @@
           "change_type": "新增",
           "note": ""
         },
+        "00991A": {
+          "weight_pct": 0.0,
+          "shares": 1000,
+          "shares_lot": 1,
+          "weight_change_pct": 0.0,
+          "shares_change": 1000,
+          "shares_change_lot": 1,
+          "change_type": "新增",
+          "note": ""
+        },
         "00981A": {
           "weight_pct": 0.54,
           "shares": 1394000,
@@ -2348,16 +2358,6 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
-          "note": ""
-        },
-        "00991A": {
-          "weight_pct": 0.0,
-          "shares": 1000,
-          "shares_lot": 1,
-          "weight_change_pct": 0.0,
-          "shares_change": 1000,
-          "shares_change_lot": 1,
-          "change_type": "新增",
           "note": ""
         }
       },
@@ -2379,21 +2379,11 @@
         "南亞科(2408)"
       ],
       "etfs": {
-        "00980A": {
-          "weight_pct": 2.97,
-          "shares": 1646000,
-          "shares_lot": 1646,
-          "weight_change_pct": 2.97,
-          "shares_change": 1646000,
-          "shares_change_lot": 1646,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 1.58,
-          "shares": 161000,
-          "shares_lot": 161,
-          "weight_change_pct": 0.0,
+        "00992A": {
+          "weight_pct": 2.04,
+          "shares": 3280000,
+          "shares_lot": 3280,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -2429,14 +2419,24 @@
           "change_type": "持平",
           "note": ""
         },
-        "00992A": {
-          "weight_pct": 2.04,
-          "shares": 3280000,
-          "shares_lot": 3280,
-          "weight_change_pct": -0.0,
+        "00987A": {
+          "weight_pct": 1.58,
+          "shares": 161000,
+          "shares_lot": 161,
+          "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00980A": {
+          "weight_pct": 2.97,
+          "shares": 1646000,
+          "shares_lot": 1646,
+          "weight_change_pct": 2.97,
+          "shares_change": 1646000,
+          "shares_change_lot": 1646,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -2458,16 +2458,6 @@
         "中華電(2412)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 2.94,
           "shares": 2325000,
@@ -2496,6 +2486,16 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -2614,13 +2614,13 @@
           "change_type": "持平",
           "note": ""
         },
-        "00984A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
+        "00991A": {
+          "weight_pct": 0.01,
+          "shares": 9000,
+          "shares_lot": 9,
+          "weight_change_pct": 0.01,
+          "shares_change": 9000,
+          "shares_change_lot": 9,
           "change_type": "新增",
           "note": ""
         },
@@ -2634,16 +2634,6 @@
           "change_type": "持平",
           "note": ""
         },
-        "00991A": {
-          "weight_pct": 0.01,
-          "shares": 9000,
-          "shares_lot": 9,
-          "weight_change_pct": 0.01,
-          "shares_change": 9000,
-          "shares_change_lot": 9,
-          "change_type": "新增",
-          "note": ""
-        },
         "00994A": {
           "weight_pct": 1.7,
           "shares": 305000,
@@ -2652,6 +2642,16 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -2673,10 +2673,70 @@
         "聯發科(2454)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 1.17,
+          "shares": 180000,
+          "shares_lot": 180,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 1.4,
+          "shares": 47000,
+          "shares_lot": 47,
+          "weight_change_pct": -0.03,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 5.0,
           "shares": 82000,
           "shares_lot": 82,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 3.55,
+          "shares": 500000,
+          "shares_lot": 500,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 5.4,
+          "shares": 4263000,
+          "shares_lot": 4263,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 4.13,
+          "shares": 68000,
+          "shares_lot": 68,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 3.73,
+          "shares": 573000,
+          "shares_lot": 573,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -2702,66 +2762,6 @@
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
-        },
-        "00981A": {
-          "weight_pct": 5.4,
-          "shares": 4263000,
-          "shares_lot": 4263,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 3.73,
-          "shares": 573000,
-          "shares_lot": 573,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 1.4,
-          "shares": 47000,
-          "shares_lot": 47,
-          "weight_change_pct": -0.03,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 3.55,
-          "shares": 500000,
-          "shares_lot": 500,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 4.13,
-          "shares": 68000,
-          "shares_lot": 68,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 1.17,
-          "shares": 180000,
-          "shares_lot": 180,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
         }
       },
       "held_etf_count": 9,
@@ -2782,20 +2782,20 @@
         "全新(2455)"
       ],
       "etfs": {
-        "00995A": {
-          "weight_pct": 0.68,
-          "shares": 101000,
-          "shares_lot": 101,
+        "00992A": {
+          "weight_pct": 1.38,
+          "shares": 1927000,
+          "shares_lot": 1927,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
         },
-        "00984A": {
-          "weight_pct": 0.46,
-          "shares": 87000,
-          "shares_lot": 87,
+        "00995A": {
+          "weight_pct": 0.68,
+          "shares": 101000,
+          "shares_lot": 101,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -2812,10 +2812,10 @@
           "change_type": "持平",
           "note": ""
         },
-        "00992A": {
-          "weight_pct": 1.38,
-          "shares": 1927000,
-          "shares_lot": 1927,
+        "00984A": {
+          "weight_pct": 0.46,
+          "shares": 87000,
+          "shares_lot": 87,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -2841,10 +2841,10 @@
         "志聖(2467)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.87,
-          "shares": 98000,
-          "shares_lot": 98,
+        "00994A": {
+          "weight_pct": 1.02,
+          "shares": 93000,
+          "shares_lot": 93,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -2861,10 +2861,10 @@
           "change_type": "持平",
           "note": ""
         },
-        "00994A": {
-          "weight_pct": 1.02,
-          "shares": 93000,
-          "shares_lot": 93,
+        "00984A": {
+          "weight_pct": 0.87,
+          "shares": 98000,
+          "shares_lot": 98,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -2929,20 +2929,20 @@
         "可成(2474)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.43,
-          "shares": 156000,
-          "shares_lot": 156,
+        "00985A": {
+          "weight_pct": 0.24,
+          "shares": 139000,
+          "shares_lot": 139,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
         },
-        "00985A": {
-          "weight_pct": 0.24,
-          "shares": 139000,
-          "shares_lot": 139,
+        "00984A": {
+          "weight_pct": 0.43,
+          "shares": 156000,
+          "shares_lot": 156,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -3113,16 +3113,6 @@
         "華固(2548)"
       ],
       "etfs": {
-        "00980A": {
-          "weight_pct": 0.38,
-          "shares": 512000,
-          "shares_lot": 512,
-          "weight_change_pct": 0.04,
-          "shares_change": 42000,
-          "shares_change_lot": 42,
-          "change_type": "加碼",
-          "note": ""
-        },
         "00982A": {
           "weight_pct": 0.0,
           "shares": 2000,
@@ -3131,6 +3121,16 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00980A": {
+          "weight_pct": 0.38,
+          "shares": 512000,
+          "shares_lot": 512,
+          "weight_change_pct": 0.04,
+          "shares_change": 42000,
+          "shares_change_lot": 42,
+          "change_type": "加碼",
           "note": ""
         }
       },
@@ -3152,16 +3152,6 @@
         "長榮(2603)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 1.11,
-          "shares": 361000,
-          "shares_lot": 361,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00991A": {
           "weight_pct": 0.0,
           "shares": 9000,
@@ -3170,6 +3160,16 @@
           "shares_change": 9000,
           "shares_change_lot": 9,
           "change_type": "新增",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 1.11,
+          "shares": 361000,
+          "shares_lot": 361,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         }
       },
@@ -3423,26 +3423,6 @@
         "富邦金(2881)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 3.64,
-          "shares": 2638025,
-          "shares_lot": 2638.0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 0.0,
-          "shares": 250,
-          "shares_lot": 0.2,
-          "weight_change_pct": 0.0,
-          "shares_change": 250,
-          "shares_change_lot": 0.2,
-          "change_type": "新增",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 3.61,
           "shares": 4102000,
@@ -3461,6 +3441,26 @@
           "shares_change": 9000,
           "shares_change_lot": 9,
           "change_type": "新增",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.0,
+          "shares": 250,
+          "shares_lot": 0.2,
+          "weight_change_pct": 0.0,
+          "shares_change": 250,
+          "shares_change_lot": 0.2,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 3.64,
+          "shares": 2638025,
+          "shares_lot": 2638.0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         }
       },
@@ -3482,16 +3482,6 @@
         "國泰金(2882)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 3.08,
-          "shares": 2747000,
-          "shares_lot": 2747,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00991A": {
           "weight_pct": 0.0,
           "shares": 9000,
@@ -3500,6 +3490,16 @@
           "shares_change": 9000,
           "shares_change_lot": 9,
           "change_type": "新增",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 3.08,
+          "shares": 2747000,
+          "shares_lot": 2747,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         }
       },
@@ -3589,14 +3589,14 @@
           "change_type": "持平",
           "note": ""
         },
-        "00984A": {
-          "weight_pct": 2.84,
-          "shares": 3510000,
-          "shares_lot": 3510,
+        "00991A": {
+          "weight_pct": 0.0,
+          "shares": 9000,
+          "shares_lot": 9,
           "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
+          "shares_change": 9000,
+          "shares_change_lot": 9,
+          "change_type": "新增",
           "note": ""
         },
         "00982A": {
@@ -3609,14 +3609,14 @@
           "change_type": "持平",
           "note": ""
         },
-        "00991A": {
-          "weight_pct": 0.0,
-          "shares": 9000,
-          "shares_lot": 9,
+        "00984A": {
+          "weight_pct": 2.84,
+          "shares": 3510000,
+          "shares_lot": 3510,
           "weight_change_pct": 0.0,
-          "shares_change": 9000,
-          "shares_change_lot": 9,
-          "change_type": "新增",
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         }
       },
@@ -3725,26 +3725,6 @@
         "中信金(2891)"
       ],
       "etfs": {
-        "00980A": {
-          "weight_pct": 0.91,
-          "shares": 2849000,
-          "shares_lot": 2849,
-          "weight_change_pct": 0.08,
-          "shares_change": 235000,
-          "shares_change_lot": 235,
-          "change_type": "加碼",
-          "note": ""
-        },
-        "00984A": {
-          "weight_pct": 3.06,
-          "shares": 3828000,
-          "shares_lot": 3828,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 2.71,
           "shares": 5402000,
@@ -3763,6 +3743,26 @@
           "shares_change": 9000,
           "shares_change_lot": 9,
           "change_type": "新增",
+          "note": ""
+        },
+        "00980A": {
+          "weight_pct": 0.91,
+          "shares": 2849000,
+          "shares_lot": 2849,
+          "weight_change_pct": 0.08,
+          "shares_change": 235000,
+          "shares_change_lot": 235,
+          "change_type": "加碼",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 3.06,
+          "shares": 3828000,
+          "shares_lot": 3828,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         }
       },
@@ -3929,10 +3929,80 @@
         "奇鋐(3017)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 2.46,
+          "shares": 501000,
+          "shares_lot": 501,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 2.05,
+          "shares": 91000,
+          "shares_lot": 91,
+          "weight_change_pct": -0.03,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 3.91,
           "shares": 85000,
           "shares_lot": 85,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 3.64,
+          "shares": 680000,
+          "shares_lot": 680,
+          "weight_change_pct": 0.01,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
+        "00981A": {
+          "weight_pct": 4.7,
+          "shares": 4925000,
+          "shares_lot": 4925,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 3.54,
+          "shares": 77500,
+          "shares_lot": 77.5,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 6.32,
+          "shares": 86000,
+          "shares_lot": 86,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 1.91,
+          "shares": 389000,
+          "shares_lot": 389,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -3957,76 +4027,6 @@
           "shares_change": 22000,
           "shares_change_lot": 22,
           "change_type": "新增",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 6.32,
-          "shares": 86000,
-          "shares_lot": 86,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 4.7,
-          "shares": 4925000,
-          "shares_lot": 4925,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 1.91,
-          "shares": 389000,
-          "shares_lot": 389,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 2.05,
-          "shares": 91000,
-          "shares_lot": 91,
-          "weight_change_pct": -0.03,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 3.64,
-          "shares": 680000,
-          "shares_lot": 680,
-          "weight_change_pct": 0.01,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00994A": {
-          "weight_pct": 3.54,
-          "shares": 77500,
-          "shares_lot": 77.5,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 2.46,
-          "shares": 501000,
-          "shares_lot": 501,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
           "note": ""
         }
       },
@@ -4135,31 +4135,11 @@
         "文曄(3036)"
       ],
       "etfs": {
-        "00980A": {
-          "weight_pct": 1.18,
-          "shares": 755000,
-          "shares_lot": 755,
-          "weight_change_pct": 0.09,
-          "shares_change": 62000,
-          "shares_change_lot": 62,
-          "change_type": "加碼",
-          "note": ""
-        },
-        "00984A": {
-          "weight_pct": 2.69,
-          "shares": 679000,
-          "shares_lot": 679,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 0.13,
-          "shares": 1200000,
-          "shares_lot": 1200,
-          "weight_change_pct": 0.0,
+        "00992A": {
+          "weight_pct": 0.63,
+          "shares": 1177000,
+          "shares_lot": 1177,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -4175,6 +4155,16 @@
           "change_type": "新增",
           "note": ""
         },
+        "00981A": {
+          "weight_pct": 0.13,
+          "shares": 1200000,
+          "shares_lot": 1200,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00994A": {
           "weight_pct": 0.3,
           "shares": 60000,
@@ -4185,11 +4175,21 @@
           "change_type": "持平",
           "note": ""
         },
-        "00992A": {
-          "weight_pct": 0.63,
-          "shares": 1177000,
-          "shares_lot": 1177,
-          "weight_change_pct": -0.0,
+        "00980A": {
+          "weight_pct": 1.18,
+          "shares": 755000,
+          "shares_lot": 755,
+          "weight_change_pct": 0.09,
+          "shares_change": 62000,
+          "shares_change_lot": 62,
+          "change_type": "加碼",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 2.69,
+          "shares": 679000,
+          "shares_lot": 679,
+          "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -4214,10 +4214,70 @@
         "欣興(3037)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 3.77,
+          "shares": 2302000,
+          "shares_lot": 2302,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 0.05,
+          "shares": 6000,
+          "shares_lot": 6,
+          "weight_change_pct": 0.05,
+          "shares_change": 6000,
+          "shares_change_lot": 6,
+          "change_type": "新增",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 3.56,
           "shares": 232000,
           "shares_lot": 232,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 5.72,
+          "shares": 3200000,
+          "shares_lot": 3200,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 3.45,
+          "shares": 10822000,
+          "shares_lot": 10822,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 4.08,
+          "shares": 267001,
+          "shares_lot": 267.0,
+          "weight_change_pct": 4.08,
+          "shares_change": 267001,
+          "shares_change_lot": 267.0,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 4.64,
+          "shares": 183000,
+          "shares_lot": 183,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -4239,66 +4299,6 @@
           "shares": 123000,
           "shares_lot": 123,
           "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 4.64,
-          "shares": 183000,
-          "shares_lot": 183,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 3.45,
-          "shares": 10822000,
-          "shares_lot": 10822,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 0.05,
-          "shares": 6000,
-          "shares_lot": 6,
-          "weight_change_pct": 0.05,
-          "shares_change": 6000,
-          "shares_change_lot": 6,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00991A": {
-          "weight_pct": 5.72,
-          "shares": 3200000,
-          "shares_lot": 3200,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 4.08,
-          "shares": 267001,
-          "shares_lot": 267.0,
-          "weight_change_pct": 4.08,
-          "shares_change": 267001,
-          "shares_change_lot": 267.0,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 3.77,
-          "shares": 2302000,
-          "shares_lot": 2302,
-          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -4333,16 +4333,6 @@
           "change_type": "新增",
           "note": ""
         },
-        "00980A": {
-          "weight_pct": 0.76,
-          "shares": 276000,
-          "shares_lot": 276,
-          "weight_change_pct": 0.76,
-          "shares_change": 276000,
-          "shares_change_lot": 276,
-          "change_type": "新增",
-          "note": ""
-        },
         "00991A": {
           "weight_pct": 0.0,
           "shares": 1000,
@@ -4361,6 +4351,16 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00980A": {
+          "weight_pct": 0.76,
+          "shares": 276000,
+          "shares_lot": 276,
+          "weight_change_pct": 0.76,
+          "shares_change": 276000,
+          "shares_change_lot": 276,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -4382,16 +4382,6 @@
         "台灣大(3045)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 3.11,
-          "shares": 1851000,
-          "shares_lot": 1851,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00991A": {
           "weight_pct": 0.0,
           "shares": 1000,
@@ -4410,6 +4400,16 @@
           "shares_change": 1,
           "shares_change_lot": 0.0,
           "change_type": "新增",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 3.11,
+          "shares": 1851000,
+          "shares_lot": 1851,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         }
       },
@@ -4431,6 +4431,16 @@
         "聯亞(3081)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 2.01,
+          "shares": 380000,
+          "shares_lot": 380,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 0.7,
           "shares": 14000,
@@ -4439,6 +4449,26 @@
           "shares_change": 14000,
           "shares_change_lot": 14,
           "change_type": "新增",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 1.33,
+          "shares": 27000,
+          "shares_lot": 27,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 3.13,
+          "shares": 37000,
+          "shares_lot": 37,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         },
         "00980A": {
@@ -4456,36 +4486,6 @@
           "shares": 22000,
           "shares_lot": 22,
           "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 3.13,
-          "shares": 37000,
-          "shares_lot": 37,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 1.33,
-          "shares": 27000,
-          "shares_lot": 27,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 2.01,
-          "shares": 380000,
-          "shares_lot": 380,
-          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -4510,31 +4510,11 @@
         "穩懋(3105)"
       ],
       "etfs": {
-        "00995A": {
-          "weight_pct": 0.51,
-          "shares": 60000,
-          "shares_lot": 60,
-          "weight_change_pct": 0.51,
-          "shares_change": 60000,
-          "shares_change_lot": 60,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00984A": {
-          "weight_pct": 0.78,
-          "shares": 111000,
-          "shares_lot": 111,
-          "weight_change_pct": 0.78,
-          "shares_change": 111000,
-          "shares_change_lot": 111,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 3.77,
-          "shares": 4118000,
-          "shares_lot": 4118,
-          "weight_change_pct": 0.0,
+        "00992A": {
+          "weight_pct": 3.14,
+          "shares": 3433000,
+          "shares_lot": 3433,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -4550,6 +4530,16 @@
           "change_type": "新增",
           "note": ""
         },
+        "00995A": {
+          "weight_pct": 0.51,
+          "shares": 60000,
+          "shares_lot": 60,
+          "weight_change_pct": 0.51,
+          "shares_change": 60000,
+          "shares_change_lot": 60,
+          "change_type": "新增",
+          "note": ""
+        },
         "00994A": {
           "weight_pct": 0.0,
           "shares": 0,
@@ -4560,14 +4550,24 @@
           "change_type": "新增",
           "note": ""
         },
-        "00992A": {
-          "weight_pct": 3.14,
-          "shares": 3433000,
-          "shares_lot": 3433,
-          "weight_change_pct": -0.0,
+        "00982A": {
+          "weight_pct": 3.77,
+          "shares": 4118000,
+          "shares_lot": 4118,
+          "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.78,
+          "shares": 111000,
+          "shares_lot": 111,
+          "weight_change_pct": 0.78,
+          "shares_change": 111000,
+          "shares_change_lot": 111,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -4589,13 +4589,13 @@
         "弘塑(3131)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.39,
-          "shares": 9000,
-          "shares_lot": 9,
-          "weight_change_pct": 0.39,
-          "shares_change": 9000,
-          "shares_change_lot": 9,
+        "00992A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
           "change_type": "新增",
           "note": ""
         },
@@ -4609,13 +4609,13 @@
           "change_type": "持平",
           "note": ""
         },
-        "00992A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
+        "00984A": {
+          "weight_pct": 0.39,
+          "shares": 9000,
+          "shares_lot": 9,
+          "weight_change_pct": 0.39,
+          "shares_change": 9000,
+          "shares_change_lot": 9,
           "change_type": "新增",
           "note": ""
         }
@@ -4638,16 +4638,6 @@
         "波若威(3163)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.39,
-          "shares": 26000,
-          "shares_lot": 26,
-          "weight_change_pct": 0.39,
-          "shares_change": 26000,
-          "shares_change_lot": 26,
-          "change_type": "新增",
-          "note": ""
-        },
         "00992A": {
           "weight_pct": 1.75,
           "shares": 923000,
@@ -4656,6 +4646,16 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.39,
+          "shares": 26000,
+          "shares_lot": 26,
+          "weight_change_pct": 0.39,
+          "shares_change": 26000,
+          "shares_change_lot": 26,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -4706,6 +4706,26 @@
         "景碩(3189)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 0.47,
+          "shares": 486013,
+          "shares_lot": 486.0,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 0.11,
+          "shares": 24000,
+          "shares_lot": 24,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 0.23,
           "shares": 25000,
@@ -4714,6 +4734,26 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 1.85,
+          "shares": 1750000,
+          "shares_lot": 1750,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
           "note": ""
         },
         "00980A": {
@@ -4731,46 +4771,6 @@
           "shares": 188000,
           "shares_lot": 188,
           "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 0.11,
-          "shares": 24000,
-          "shares_lot": 24,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00991A": {
-          "weight_pct": 1.85,
-          "shares": 1750000,
-          "shares_lot": 1750,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 0.47,
-          "shares": 486013,
-          "shares_lot": 486.0,
-          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -4882,16 +4882,6 @@
         "緯創(3231)"
       ],
       "etfs": {
-        "00980A": {
-          "weight_pct": 0.96,
-          "shares": 1228000,
-          "shares_lot": 1228,
-          "weight_change_pct": 0.06,
-          "shares_change": 101000,
-          "shares_change_lot": 101,
-          "change_type": "加碼",
-          "note": ""
-        },
         "00991A": {
           "weight_pct": 0.0,
           "shares": 9000,
@@ -4900,6 +4890,16 @@
           "shares_change": 9000,
           "shares_change_lot": 9,
           "change_type": "新增",
+          "note": ""
+        },
+        "00980A": {
+          "weight_pct": 0.96,
+          "shares": 1228000,
+          "shares_lot": 1228,
+          "weight_change_pct": 0.06,
+          "shares_change": 101000,
+          "shares_change_lot": 101,
+          "change_type": "加碼",
           "note": ""
         }
       },
@@ -4950,11 +4950,51 @@
         "欣銓(3264)"
       ],
       "etfs": {
+        "00985A": {
+          "weight_pct": 0.05,
+          "shares": 26000,
+          "shares_lot": 26,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 0.9,
           "shares": 212200,
           "shares_lot": 212.2,
           "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 0.79,
+          "shares": 9030000,
+          "shares_lot": 9030,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 0.46,
+          "shares": 110000,
+          "shares_lot": 110,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 4.06,
+          "shares": 9012000,
+          "shares_lot": 9012,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -4979,46 +5019,6 @@
           "shares_change_lot": 39,
           "change_type": "新增",
           "note": ""
-        },
-        "00981A": {
-          "weight_pct": 0.79,
-          "shares": 9030000,
-          "shares_lot": 9030,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 4.06,
-          "shares": 9012000,
-          "shares_lot": 9012,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 0.05,
-          "shares": 26000,
-          "shares_lot": 26,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 0.46,
-          "shares": 110000,
-          "shares_lot": 110,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
         }
       },
       "held_etf_count": 7,
@@ -5039,16 +5039,6 @@
         "鈊象(3293)"
       ],
       "etfs": {
-        "00980A": {
-          "weight_pct": 0.59,
-          "shares": 141000,
-          "shares_lot": 141,
-          "weight_change_pct": 0.05,
-          "shares_change": 12000,
-          "shares_change_lot": 12,
-          "change_type": "加碼",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 1.51,
           "shares": 229000,
@@ -5058,6 +5048,16 @@
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": "股數持平但比例變動"
+        },
+        "00980A": {
+          "weight_pct": 0.59,
+          "shares": 141000,
+          "shares_lot": 141,
+          "weight_change_pct": 0.05,
+          "shares_change": 12000,
+          "shares_change_lot": 12,
+          "change_type": "加碼",
+          "note": ""
         }
       },
       "held_etf_count": 2,
@@ -5078,6 +5078,16 @@
         "雙鴻(3324)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 0.3,
+          "shares": 151000,
+          "shares_lot": 151,
+          "weight_change_pct": 0.3,
+          "shares_change": 151000,
+          "shares_change_lot": 151,
+          "change_type": "新增",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 0.0,
           "shares": 0,
@@ -5095,16 +5105,6 @@
           "weight_change_pct": 0.0,
           "shares_change": 1000,
           "shares_change_lot": 1,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 0.3,
-          "shares": 151000,
-          "shares_lot": 151,
-          "weight_change_pct": 0.3,
-          "shares_change": 151000,
-          "shares_change_lot": 151,
           "change_type": "新增",
           "note": ""
         }
@@ -5253,6 +5253,16 @@
         "創意(3443)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 3.48,
+          "shares": 360000,
+          "shares_lot": 360,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 1.09,
           "shares": 12000,
@@ -5261,6 +5271,46 @@
           "shares_change": 12000,
           "shares_change_lot": 12,
           "change_type": "新增",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 0.2,
+          "shares": 107000,
+          "shares_lot": 107,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 2.53,
+          "shares": 28050,
+          "shares_lot": 28.1,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 1.46,
+          "shares": 10000,
+          "shares_lot": 10,
+          "weight_change_pct": 1.46,
+          "shares_change": 10000,
+          "shares_change_lot": 10,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.01,
+          "shares": 1000,
+          "shares_lot": 1,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         },
         "00980A": {
@@ -5278,56 +5328,6 @@
           "shares": 6000,
           "shares_lot": 6,
           "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 1.46,
-          "shares": 10000,
-          "shares_lot": 10,
-          "weight_change_pct": 1.46,
-          "shares_change": 10000,
-          "shares_change_lot": 10,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 0.2,
-          "shares": 107000,
-          "shares_lot": 107,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 0.01,
-          "shares": 1000,
-          "shares_lot": 1,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 2.53,
-          "shares": 28050,
-          "shares_lot": 28.1,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 3.48,
-          "shares": 360000,
-          "shares_lot": 360,
-          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -5381,6 +5381,16 @@
         "昇達科(3491)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 0.33,
+          "shares": 97000,
+          "shares_lot": 97,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 0.38,
           "shares": 12000,
@@ -5410,16 +5420,6 @@
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
-        },
-        "00992A": {
-          "weight_pct": 0.33,
-          "shares": 97000,
-          "shares_lot": 97,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
         }
       },
       "held_etf_count": 4,
@@ -5440,16 +5440,6 @@
         "力旺(3529)"
       ],
       "etfs": {
-        "00982A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 1.3,
           "shares": 37000,
@@ -5457,6 +5447,16 @@
           "weight_change_pct": 1.3,
           "shares_change": 37000,
           "shares_change_lot": 37,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
           "change_type": "新增",
           "note": ""
         }
@@ -5479,30 +5479,10 @@
         "嘉澤(3533)"
       ],
       "etfs": {
-        "00995A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00980A": {
-          "weight_pct": 0.8,
-          "shares": 59000,
-          "shares_lot": 59,
-          "weight_change_pct": 0.04,
-          "shares_change": 5000,
-          "shares_change_lot": 5,
-          "change_type": "加碼",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 0.97,
-          "shares": 209000,
-          "shares_lot": 209,
+        "00992A": {
+          "weight_pct": 1.95,
+          "shares": 420000,
+          "shares_lot": 420,
           "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -5519,14 +5499,34 @@
           "change_type": "持平",
           "note": "股數持平但比例變動"
         },
-        "00992A": {
-          "weight_pct": 1.95,
-          "shares": 420000,
-          "shares_lot": 420,
+        "00995A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.97,
+          "shares": 209000,
+          "shares_lot": 209,
           "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00980A": {
+          "weight_pct": 0.8,
+          "shares": 59000,
+          "shares_lot": 59,
+          "weight_change_pct": 0.04,
+          "shares_change": 5000,
+          "shares_change_lot": 5,
+          "change_type": "加碼",
           "note": ""
         }
       },
@@ -5577,21 +5577,21 @@
         "辛耘(3583)"
       ],
       "etfs": {
-        "00982A": {
-          "weight_pct": 1.89,
-          "shares": 1068000,
-          "shares_lot": 1068,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00992A": {
           "weight_pct": 0.06,
           "shares": 33000,
           "shares_lot": 33,
           "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 1.89,
+          "shares": 1068000,
+          "shares_lot": 1068,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -5645,11 +5645,71 @@
         "健策(3653)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 1.36,
+          "shares": 197000,
+          "shares_lot": 197,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 1.05,
+          "shares": 33000,
+          "shares_lot": 33,
+          "weight_change_pct": 0.05,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 1.95,
           "shares": 30000,
           "shares_lot": 30,
           "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 0.01,
+          "shares": 1000,
+          "shares_lot": 1,
+          "weight_change_pct": 0.01,
+          "shares_change": 1000,
+          "shares_change_lot": 1,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 3.05,
+          "shares": 2267000,
+          "shares_lot": 2267,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 1.06,
+          "shares": 16501,
+          "shares_lot": 16.5,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 1.74,
+          "shares": 18000,
+          "shares_lot": 18,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -5674,66 +5734,6 @@
           "shares_change_lot": 0,
           "change_type": "新增",
           "note": ""
-        },
-        "00987A": {
-          "weight_pct": 1.74,
-          "shares": 18000,
-          "shares_lot": 18,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 3.05,
-          "shares": 2267000,
-          "shares_lot": 2267,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 1.05,
-          "shares": 33000,
-          "shares_lot": 33,
-          "weight_change_pct": 0.05,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 0.01,
-          "shares": 1000,
-          "shares_lot": 1,
-          "weight_change_pct": 0.01,
-          "shares_change": 1000,
-          "shares_change_lot": 1,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 1.06,
-          "shares": 16501,
-          "shares_lot": 16.5,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 1.36,
-          "shares": 197000,
-          "shares_lot": 197,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
         }
       },
       "held_etf_count": 9,
@@ -5754,6 +5754,26 @@
         "世芯-KY(3661)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 3.61,
+          "shares": 393000,
+          "shares_lot": 393,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 1.65,
+          "shares": 39000,
+          "shares_lot": 39,
+          "weight_change_pct": 1.65,
+          "shares_change": 39000,
+          "shares_change_lot": 39,
+          "change_type": "新增",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 1.29,
           "shares": 15000,
@@ -5774,31 +5794,11 @@
           "change_type": "新增",
           "note": ""
         },
-        "00985A": {
-          "weight_pct": 1.65,
-          "shares": 39000,
-          "shares_lot": 39,
-          "weight_change_pct": 1.65,
-          "shares_change": 39000,
-          "shares_change_lot": 39,
-          "change_type": "新增",
-          "note": ""
-        },
         "00994A": {
           "weight_pct": 0.6,
           "shares": 7000,
           "shares_lot": 7,
           "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 3.61,
-          "shares": 393000,
-          "shares_lot": 393,
-          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -5823,11 +5823,81 @@
         "貿聯-KY(3665)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 2.79,
+          "shares": 667000,
+          "shares_lot": 667,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 0.79,
+          "shares": 41000,
+          "shares_lot": 41,
+          "weight_change_pct": 0.79,
+          "shares_change": 41000,
+          "shares_change_lot": 41,
+          "change_type": "新增",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 3.14,
           "shares": 80000,
           "shares_lot": 80,
           "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 0.01,
+          "shares": 1000,
+          "shares_lot": 1,
+          "weight_change_pct": 0.01,
+          "shares_change": 1000,
+          "shares_change_lot": 1,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 3.83,
+          "shares": 4703848,
+          "shares_lot": 4703.8,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 1.48,
+          "shares": 38000,
+          "shares_lot": 38,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 3.11,
+          "shares": 48000,
+          "shares_lot": 48,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.25,
+          "shares": 60136,
+          "shares_lot": 60.1,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -5851,76 +5921,6 @@
           "shares_change": 25000,
           "shares_change_lot": 25,
           "change_type": "新增",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 3.11,
-          "shares": 48000,
-          "shares_lot": 48,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 3.83,
-          "shares": 4703848,
-          "shares_lot": 4703.8,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 0.25,
-          "shares": 60136,
-          "shares_lot": 60.1,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 0.79,
-          "shares": 41000,
-          "shares_lot": 41,
-          "weight_change_pct": 0.79,
-          "shares_change": 41000,
-          "shares_change_lot": 41,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00991A": {
-          "weight_pct": 0.01,
-          "shares": 1000,
-          "shares_lot": 1,
-          "weight_change_pct": 0.01,
-          "shares_change": 1000,
-          "shares_change_lot": 1,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 1.48,
-          "shares": 38000,
-          "shares_lot": 38,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 2.79,
-          "shares": 667000,
-          "shares_lot": 667,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
           "note": ""
         }
       },
@@ -5971,21 +5971,21 @@
         "神達(3706)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.42,
-          "shares": 355000,
-          "shares_lot": 355,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00982A": {
           "weight_pct": 0.0,
           "shares": 1400,
           "shares_lot": 1.4,
           "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.42,
+          "shares": 355000,
+          "shares_lot": 355,
+          "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -6010,11 +6010,71 @@
         "日月光投控(3711)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 0.35,
+          "shares": 320000,
+          "shares_lot": 320,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 2.32,
+          "shares": 462000,
+          "shares_lot": 462,
+          "weight_change_pct": 0.05,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 1.79,
           "shares": 175000,
           "shares_lot": 175,
           "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 0.01,
+          "shares": 9000,
+          "shares_lot": 9,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 3.19,
+          "shares": 14998000,
+          "shares_lot": 14998,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 2.93,
+          "shares": 288002,
+          "shares_lot": 288.0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.99,
+          "shares": 911000,
+          "shares_lot": 911,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -6034,66 +6094,6 @@
           "weight_pct": 0.86,
           "shares": 107000,
           "shares_lot": 107,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 3.19,
-          "shares": 14998000,
-          "shares_lot": 14998,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 0.99,
-          "shares": 911000,
-          "shares_lot": 911,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 2.32,
-          "shares": 462000,
-          "shares_lot": 462,
-          "weight_change_pct": 0.05,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 0.01,
-          "shares": 9000,
-          "shares_lot": 9,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 2.93,
-          "shares": 288002,
-          "shares_lot": 288.0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 0.35,
-          "shares": 320000,
-          "shares_lot": 320,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -6206,13 +6206,13 @@
         "新應材(4749)"
       ],
       "etfs": {
-        "00995A": {
-          "weight_pct": 0.53,
-          "shares": 28000,
-          "shares_lot": 28,
-          "weight_change_pct": 0.53,
-          "shares_change": 28000,
-          "shares_change_lot": 28,
+        "00992A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
           "change_type": "新增",
           "note": ""
         },
@@ -6226,13 +6226,13 @@
           "change_type": "持平",
           "note": "股數持平但比例變動"
         },
-        "00992A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
+        "00995A": {
+          "weight_pct": 0.53,
+          "shares": 28000,
+          "shares_lot": 28,
+          "weight_change_pct": 0.53,
+          "shares_change": 28000,
+          "shares_change_lot": 28,
           "change_type": "新增",
           "note": ""
         }
@@ -6284,16 +6284,6 @@
         "遠傳(4904)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 1.88,
-          "shares": 1312000,
-          "shares_lot": 1312,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 2.57,
           "shares": 2854000,
@@ -6312,6 +6302,16 @@
           "shares_change": 3,
           "shares_change_lot": 0.0,
           "change_type": "新增",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 1.88,
+          "shares": 1312000,
+          "shares_lot": 1312,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         }
       },
@@ -6401,26 +6401,6 @@
         "臻鼎-KY(4958)"
       ],
       "etfs": {
-        "00995A": {
-          "weight_pct": 0.8,
-          "shares": 107000,
-          "shares_lot": 107,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 2.22,
-          "shares": 2770000,
-          "shares_lot": 2770,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 0.19,
           "shares": 53000,
@@ -6431,10 +6411,30 @@
           "change_type": "持平",
           "note": "股數持平但比例變動"
         },
+        "00995A": {
+          "weight_pct": 0.8,
+          "shares": 107000,
+          "shares_lot": 107,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00994A": {
           "weight_pct": 1.57,
           "shares": 210000,
           "shares_lot": 210,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 2.22,
+          "shares": 2770000,
+          "shares_lot": 2770,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -6460,16 +6460,6 @@
         "譜瑞-KY(4966)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
         "00981A": {
           "weight_pct": 0.32,
           "shares": 1036000,
@@ -6478,6 +6468,16 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -6548,16 +6548,6 @@
         "環宇-KY(4991)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.5,
-          "shares": 48000,
-          "shares_lot": 48,
-          "weight_change_pct": 0.5,
-          "shares_change": 48000,
-          "shares_change_lot": 48,
-          "change_type": "新增",
-          "note": ""
-        },
         "00992A": {
           "weight_pct": 0.89,
           "shares": 692000,
@@ -6566,6 +6556,16 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.5,
+          "shares": 48000,
+          "shares_lot": 48,
+          "weight_change_pct": 0.5,
+          "shares_change": 48000,
+          "shares_change_lot": 48,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -6587,10 +6587,60 @@
         "信驊(5274)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 1.55,
+          "shares": 45000,
+          "shares_lot": 45,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 3.86,
           "shares": 12000,
           "shares_lot": 12,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 3.74,
+          "shares": 100000,
+          "shares_lot": 100,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 3.23,
+          "shares": 483000,
+          "shares_lot": 483,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 3.11,
+          "shares": 9700,
+          "shares_lot": 9.7,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.21,
+          "shares": 6000,
+          "shares_lot": 6,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -6616,56 +6666,6 @@
           "shares_change_lot": 3,
           "change_type": "新增",
           "note": ""
-        },
-        "00981A": {
-          "weight_pct": 3.23,
-          "shares": 483000,
-          "shares_lot": 483,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 0.21,
-          "shares": 6000,
-          "shares_lot": 6,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00991A": {
-          "weight_pct": 3.74,
-          "shares": 100000,
-          "shares_lot": 100,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 3.11,
-          "shares": 9700,
-          "shares_lot": 9.7,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 1.55,
-          "shares": 45000,
-          "shares_lot": 45,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
         }
       },
       "held_etf_count": 8,
@@ -6686,6 +6686,16 @@
         "宜鼎(5289)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 0.5,
+          "shares": 142000,
+          "shares_lot": 142,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 0.72,
           "shares": 22000,
@@ -6701,16 +6711,6 @@
           "shares": 305000,
           "shares_lot": 305,
           "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 0.5,
-          "shares": 142000,
-          "shares_lot": 142,
-          "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -6735,16 +6735,6 @@
         "世界(5347)"
       ],
       "etfs": {
-        "00981A": {
-          "weight_pct": 0.0,
-          "shares": 1000,
-          "shares_lot": 1,
-          "weight_change_pct": 0.0,
-          "shares_change": 1000,
-          "shares_change_lot": 1,
-          "change_type": "新增",
-          "note": ""
-        },
         "00991A": {
           "weight_pct": 0.0,
           "shares": 9000,
@@ -6752,6 +6742,16 @@
           "weight_change_pct": 0.0,
           "shares_change": 9000,
           "shares_change_lot": 9,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 0.0,
+          "shares": 1000,
+          "shares_lot": 1,
+          "weight_change_pct": 0.0,
+          "shares_change": 1000,
+          "shares_change_lot": 1,
           "change_type": "新增",
           "note": ""
         }
@@ -7065,16 +7065,6 @@
           "change_type": "新增",
           "note": ""
         },
-        "00984A": {
-          "weight_pct": 0.43,
-          "shares": 41000,
-          "shares_lot": 41,
-          "weight_change_pct": 0.43,
-          "shares_change": 41000,
-          "shares_change_lot": 41,
-          "change_type": "新增",
-          "note": ""
-        },
         "00982A": {
           "weight_pct": 3.26,
           "shares": 2357000,
@@ -7083,6 +7073,16 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.43,
+          "shares": 41000,
+          "shares_lot": 41,
+          "weight_change_pct": 0.43,
+          "shares_change": 41000,
+          "shares_change_lot": 41,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -7104,16 +7104,6 @@
         "頎邦(6147)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.52,
-          "shares": 192000,
-          "shares_lot": 192,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00981A": {
           "weight_pct": 0.0,
           "shares": 1000,
@@ -7128,6 +7118,16 @@
           "weight_pct": 2.41,
           "shares": 5888000,
           "shares_lot": 5888,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.52,
+          "shares": 192000,
+          "shares_lot": 192,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -7211,26 +7211,6 @@
         "萬潤(6187)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 1.58,
-          "shares": 95000,
-          "shares_lot": 95,
-          "weight_change_pct": 1.58,
-          "shares_change": 95000,
-          "shares_change_lot": 95,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 4.85,
-          "shares": 148000,
-          "shares_lot": 148,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00981A": {
           "weight_pct": 0.54,
           "shares": 1224000,
@@ -7248,6 +7228,26 @@
           "weight_change_pct": 0.34,
           "shares_change": 16000,
           "shares_change_lot": 16,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 4.85,
+          "shares": 148000,
+          "shares_lot": 148,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 1.58,
+          "shares": 95000,
+          "shares_lot": 95,
+          "weight_change_pct": 1.58,
+          "shares_change": 95000,
+          "shares_change_lot": 95,
           "change_type": "新增",
           "note": ""
         }
@@ -7328,11 +7328,81 @@
         "旺矽(6223)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 3.4,
+          "shares": 289000,
+          "shares_lot": 289,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 1.62,
+          "shares": 30000,
+          "shares_lot": 30,
+          "weight_change_pct": -0.07,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 3.97,
           "shares": 36000,
           "shares_lot": 36,
           "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 3.34,
+          "shares": 260000,
+          "shares_lot": 260,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 4.97,
+          "shares": 2169000,
+          "shares_lot": 2169,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 3.39,
+          "shares": 30901,
+          "shares_lot": 30.9,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 4.89,
+          "shares": 27000,
+          "shares_lot": 27,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 3.74,
+          "shares": 318000,
+          "shares_lot": 318,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -7357,76 +7427,6 @@
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
-        },
-        "00987A": {
-          "weight_pct": 4.89,
-          "shares": 27000,
-          "shares_lot": 27,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 4.97,
-          "shares": 2169000,
-          "shares_lot": 2169,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 3.74,
-          "shares": 318000,
-          "shares_lot": 318,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 1.62,
-          "shares": 30000,
-          "shares_lot": 30,
-          "weight_change_pct": -0.07,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 3.34,
-          "shares": 260000,
-          "shares_lot": 260,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 3.39,
-          "shares": 30901,
-          "shares_lot": 30.9,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 3.4,
-          "shares": 289000,
-          "shares_lot": 289,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
         }
       },
       "held_etf_count": 10,
@@ -7447,16 +7447,6 @@
         "力成(6239)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 0.06,
           "shares": 25000,
@@ -7464,6 +7454,16 @@
           "weight_change_pct": 0.06,
           "shares_change": 25000,
           "shares_change_lot": 25,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
           "change_type": "新增",
           "note": ""
         }
@@ -7486,14 +7486,14 @@
         "矽格(6257)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
+        "00994A": {
+          "weight_pct": 0.26,
+          "shares": 65000,
+          "shares_lot": 65,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
-          "change_type": "新增",
+          "change_type": "持平",
           "note": ""
         },
         "00982A": {
@@ -7506,14 +7506,14 @@
           "change_type": "持平",
           "note": ""
         },
-        "00994A": {
-          "weight_pct": 0.26,
-          "shares": 65000,
-          "shares_lot": 65,
+        "00984A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
-          "change_type": "持平",
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -7564,11 +7564,71 @@
         "台燿(6274)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 1.66,
+          "shares": 636000,
+          "shares_lot": 636,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 1.66,
           "shares": 68000,
           "shares_lot": 68,
           "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 0.0,
+          "shares": 1000,
+          "shares_lot": 1,
+          "weight_change_pct": 0.0,
+          "shares_change": 1000,
+          "shares_change_lot": 1,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 2.11,
+          "shares": 4151000,
+          "shares_lot": 4151,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 3.74,
+          "shares": 154000,
+          "shares_lot": 154,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 6.26,
+          "shares": 150000,
+          "shares_lot": 150,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.82,
+          "shares": 315000,
+          "shares_lot": 315,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -7588,66 +7648,6 @@
           "weight_pct": 1.08,
           "shares": 51000,
           "shares_lot": 51,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 6.26,
-          "shares": 150000,
-          "shares_lot": 150,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 2.11,
-          "shares": 4151000,
-          "shares_lot": 4151,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 0.82,
-          "shares": 315000,
-          "shares_lot": 315,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00991A": {
-          "weight_pct": 0.0,
-          "shares": 1000,
-          "shares_lot": 1,
-          "weight_change_pct": 0.0,
-          "shares_change": 1000,
-          "shares_change_lot": 1,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 3.74,
-          "shares": 154000,
-          "shares_lot": 154,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 1.66,
-          "shares": 636000,
-          "shares_lot": 636,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -7799,16 +7799,6 @@
         "矽力*-KY(6415)"
       ],
       "etfs": {
-        "00981A": {
-          "weight_pct": 0.17,
-          "shares": 940000,
-          "shares_lot": 940,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 1.1,
           "shares": 256000,
@@ -7818,6 +7808,16 @@
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": "股數持平但比例變動"
+        },
+        "00981A": {
+          "weight_pct": 0.17,
+          "shares": 940000,
+          "shares_lot": 940,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
         }
       },
       "held_etf_count": 2,
@@ -7867,6 +7867,26 @@
         "光聖(6442)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 0.83,
+          "shares": 238000,
+          "shares_lot": 238,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 1.02,
+          "shares": 64000,
+          "shares_lot": 64,
+          "weight_change_pct": -0.04,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 0.2,
           "shares": 6000,
@@ -7885,26 +7905,6 @@
           "shares_change": 71000,
           "shares_change_lot": 71,
           "change_type": "新增",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 1.02,
-          "shares": 64000,
-          "shares_lot": 64,
-          "weight_change_pct": -0.04,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00992A": {
-          "weight_pct": 0.83,
-          "shares": 238000,
-          "shares_lot": 238,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
           "note": ""
         }
       },
@@ -8013,16 +8013,6 @@
         "環球晶(6488)"
       ],
       "etfs": {
-        "00982A": {
-          "weight_pct": 1.82,
-          "shares": 1285000,
-          "shares_lot": 1285,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 1.24,
           "shares": 190000,
@@ -8032,6 +8022,16 @@
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": "股數持平但比例變動"
+        },
+        "00982A": {
+          "weight_pct": 1.82,
+          "shares": 1285000,
+          "shares_lot": 1285,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
         }
       },
       "held_etf_count": 2,
@@ -8081,6 +8081,16 @@
         "精測(6510)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 3.15,
+          "shares": 422000,
+          "shares_lot": 422,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 1.4,
           "shares": 20000,
@@ -8091,7 +8101,27 @@
           "change_type": "持平",
           "note": ""
         },
-        "00984A": {
+        "00991A": {
+          "weight_pct": 0.01,
+          "shares": 1000,
+          "shares_lot": 1,
+          "weight_change_pct": 0.01,
+          "shares_change": 1000,
+          "shares_change_lot": 1,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 1.35,
+          "shares": 930000,
+          "shares_lot": 930,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
           "weight_pct": 0.0,
           "shares": 0,
           "shares_lot": 0,
@@ -8111,16 +8141,6 @@
           "change_type": "持平",
           "note": ""
         },
-        "00981A": {
-          "weight_pct": 1.35,
-          "shares": 930000,
-          "shares_lot": 930,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00982A": {
           "weight_pct": 0.94,
           "shares": 126000,
@@ -8131,17 +8151,7 @@
           "change_type": "持平",
           "note": ""
         },
-        "00991A": {
-          "weight_pct": 0.01,
-          "shares": 1000,
-          "shares_lot": 1,
-          "weight_change_pct": 0.01,
-          "shares_change": 1000,
-          "shares_change_lot": 1,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00994A": {
+        "00984A": {
           "weight_pct": 0.0,
           "shares": 0,
           "shares_lot": 0,
@@ -8149,16 +8159,6 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "新增",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 3.15,
-          "shares": 422000,
-          "shares_lot": 422,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
           "note": ""
         }
       },
@@ -8180,10 +8180,60 @@
         "穎崴(6515)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 2.95,
+          "shares": 151000,
+          "shares_lot": 151,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": -0.09,
+          "shares_change": -1000,
+          "shares_change_lot": -1,
+          "change_type": "減碼",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 2.38,
           "shares": 13000,
           "shares_lot": 13,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 1.81,
+          "shares": 85000,
+          "shares_lot": 85,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 1.68,
+          "shares": 442000,
+          "shares_lot": 442,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 1.64,
+          "shares": 9000,
+          "shares_lot": 9,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -8209,56 +8259,6 @@
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
-        },
-        "00981A": {
-          "weight_pct": 1.68,
-          "shares": 442000,
-          "shares_lot": 442,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": -0.09,
-          "shares_change": -1000,
-          "shares_change_lot": -1,
-          "change_type": "減碼",
-          "note": ""
-        },
-        "00991A": {
-          "weight_pct": 1.81,
-          "shares": 85000,
-          "shares_lot": 85,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 1.64,
-          "shares": 9000,
-          "shares_lot": 9,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 2.95,
-          "shares": 151000,
-          "shares_lot": 151,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
         }
       },
       "held_etf_count": 8,
@@ -8279,16 +8279,6 @@
         "愛普*(6531)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
         "00992A": {
           "weight_pct": 1.52,
           "shares": 703000,
@@ -8297,6 +8287,16 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -8318,6 +8318,16 @@
         "南俊國際(6584)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 1.76,
+          "shares": 1337000,
+          "shares_lot": 1337,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00980A": {
           "weight_pct": 1.08,
           "shares": 283000,
@@ -8336,16 +8346,6 @@
           "shares_change": 41000,
           "shares_change_lot": 41,
           "change_type": "新增",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 1.76,
-          "shares": 1337000,
-          "shares_lot": 1337,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
           "note": ""
         }
       },
@@ -8367,50 +8367,10 @@
         "緯穎(6669)"
       ],
       "etfs": {
-        "00995A": {
-          "weight_pct": 3.92,
-          "shares": 41000,
-          "shares_lot": 41,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00980A": {
-          "weight_pct": 2.46,
-          "shares": 83000,
-          "shares_lot": 83,
-          "weight_change_pct": -0.15,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00987A": {
-          "weight_pct": 1.56,
-          "shares": 10000,
-          "shares_lot": 10,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 4.56,
-          "shares": 2294000,
-          "shares_lot": 2294,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 5.24,
-          "shares": 513000,
-          "shares_lot": 513,
+        "00992A": {
+          "weight_pct": 4.75,
+          "shares": 465000,
+          "shares_lot": 465,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -8427,11 +8387,31 @@
           "change_type": "持平",
           "note": "股數持平但比例變動"
         },
+        "00995A": {
+          "weight_pct": 3.92,
+          "shares": 41000,
+          "shares_lot": 41,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00991A": {
           "weight_pct": 3.56,
           "shares": 320000,
           "shares_lot": 320,
           "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 4.56,
+          "shares": 2294000,
+          "shares_lot": 2294,
+          "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -8447,15 +8427,35 @@
           "change_type": "持平",
           "note": ""
         },
-        "00992A": {
-          "weight_pct": 4.75,
-          "shares": 465000,
-          "shares_lot": 465,
+        "00987A": {
+          "weight_pct": 1.56,
+          "shares": 10000,
+          "shares_lot": 10,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 5.24,
+          "shares": 513000,
+          "shares_lot": 513,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
+        },
+        "00980A": {
+          "weight_pct": 2.46,
+          "shares": 83000,
+          "shares_lot": 83,
+          "weight_change_pct": -0.15,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
         }
       },
       "held_etf_count": 9,
@@ -8476,20 +8476,20 @@
         "雍智科技(6683)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.37,
-          "shares": 13000,
-          "shares_lot": 13,
+        "00987A": {
+          "weight_pct": 2.88,
+          "shares": 52000,
+          "shares_lot": 52,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
         },
-        "00987A": {
-          "weight_pct": 2.88,
-          "shares": 52000,
-          "shares_lot": 52,
+        "00984A": {
+          "weight_pct": 0.37,
+          "shares": 13000,
+          "shares_lot": 13,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -8573,16 +8573,6 @@
         "AES-KY(6781)"
       ],
       "etfs": {
-        "00987A": {
-          "weight_pct": 1.43,
-          "shares": 42000,
-          "shares_lot": 42,
-          "weight_change_pct": 1.43,
-          "shares_change": 42000,
-          "shares_change_lot": 42,
-          "change_type": "新增",
-          "note": ""
-        },
         "00985A": {
           "weight_pct": 1.35,
           "shares": 127000,
@@ -8591,6 +8581,16 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 1.43,
+          "shares": 42000,
+          "shares_lot": 42,
+          "weight_change_pct": 1.43,
+          "shares_change": 42000,
+          "shares_change_lot": 42,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -8641,6 +8641,16 @@
         "富世達(6805)"
       ],
       "etfs": {
+        "00985A": {
+          "weight_pct": 1.22,
+          "shares": 77000,
+          "shares_lot": 77,
+          "weight_change_pct": -0.01,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 0.36,
           "shares": 11000,
@@ -8649,6 +8659,46 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 1.19,
+          "shares": 1761000,
+          "shares_lot": 1761,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 3.89,
+          "shares": 76000,
+          "shares_lot": 76,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.0,
+          "shares": 1000,
+          "shares_lot": 1,
+          "weight_change_pct": 0.0,
+          "shares_change": 1000,
+          "shares_change_lot": 1,
+          "change_type": "新增",
           "note": ""
         },
         "00980A": {
@@ -8669,56 +8719,6 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 3.89,
-          "shares": 76000,
-          "shares_lot": 76,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 1.19,
-          "shares": 1761000,
-          "shares_lot": 1761,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 0.0,
-          "shares": 1000,
-          "shares_lot": 1,
-          "weight_change_pct": 0.0,
-          "shares_change": 1000,
-          "shares_change_lot": 1,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 1.22,
-          "shares": 77000,
-          "shares_lot": 77,
-          "weight_change_pct": -0.01,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00994A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
           "note": ""
         }
       },
@@ -8837,6 +8837,16 @@
         "竑騰(7751)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 1.26,
+          "shares": 387000,
+          "shares_lot": 387,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 0.46,
           "shares": 15000,
@@ -8855,16 +8865,6 @@
           "shares_change": 19000,
           "shares_change_lot": 19,
           "change_type": "新增",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 1.26,
-          "shares": 387000,
-          "shares_lot": 387,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
           "note": ""
         }
       },
@@ -8886,25 +8886,15 @@
         "鴻勁(7769)"
       ],
       "etfs": {
-        "00995A": {
-          "weight_pct": 2.06,
-          "shares": 16000,
-          "shares_lot": 16,
-          "weight_change_pct": 0.0,
+        "00992A": {
+          "weight_pct": 2.67,
+          "shares": 194000,
+          "shares_lot": 194,
+          "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
-        },
-        "00980A": {
-          "weight_pct": 3.44,
-          "shares": 86000,
-          "shares_lot": 86,
-          "weight_change_pct": -0.32,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
         },
         "00985A": {
           "weight_pct": 1.39,
@@ -8914,6 +8904,16 @@
           "shares_change": 22000,
           "shares_change_lot": 22,
           "change_type": "新增",
+          "note": ""
+        },
+        "00995A": {
+          "weight_pct": 2.06,
+          "shares": 16000,
+          "shares_lot": 16,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         },
         "00991A": {
@@ -8936,15 +8936,15 @@
           "change_type": "持平",
           "note": ""
         },
-        "00992A": {
-          "weight_pct": 2.67,
-          "shares": 194000,
-          "shares_lot": 194,
-          "weight_change_pct": -0.0,
+        "00980A": {
+          "weight_pct": 3.44,
+          "shares": 86000,
+          "shares_lot": 86,
+          "weight_change_pct": -0.32,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
-          "note": ""
+          "note": "股數持平但比例變動"
         }
       },
       "held_etf_count": 6,
@@ -9052,6 +9052,26 @@
         "南電(8046)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 2.6,
+          "shares": 1658000,
+          "shares_lot": 1658,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 0.97,
+          "shares": 134000,
+          "shares_lot": 134,
+          "weight_change_pct": -0.05,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 2.24,
           "shares": 152000,
@@ -9062,20 +9082,30 @@
           "change_type": "持平",
           "note": ""
         },
-        "00984A": {
-          "weight_pct": 0.37,
-          "shares": 30000,
-          "shares_lot": 30,
-          "weight_change_pct": 0.37,
-          "shares_change": 30000,
-          "shares_change_lot": 30,
-          "change_type": "新增",
+        "00991A": {
+          "weight_pct": 2.82,
+          "shares": 1650000,
+          "shares_lot": 1650,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
           "note": ""
         },
         "00981A": {
           "weight_pct": 3.87,
           "shares": 12658000,
           "shares_lot": 12658,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 1.07,
+          "shares": 73000,
+          "shares_lot": 73,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -9092,44 +9122,14 @@
           "change_type": "持平",
           "note": ""
         },
-        "00985A": {
-          "weight_pct": 0.97,
-          "shares": 134000,
-          "shares_lot": 134,
-          "weight_change_pct": -0.05,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 2.82,
-          "shares": 1650000,
-          "shares_lot": 1650,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 1.07,
-          "shares": 73000,
-          "shares_lot": 73,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 2.6,
-          "shares": 1658000,
-          "shares_lot": 1658,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
+        "00984A": {
+          "weight_pct": 0.37,
+          "shares": 30000,
+          "shares_lot": 30,
+          "weight_change_pct": 0.37,
+          "shares_change": 30000,
+          "shares_change_lot": 30,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -9238,16 +9238,6 @@
         "南茂(8150)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
         "00981A": {
           "weight_pct": 0.36,
           "shares": 11334000,
@@ -9256,6 +9246,16 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
           "note": ""
         }
       },
@@ -9277,21 +9277,21 @@
         "博智(8155)"
       ],
       "etfs": {
-        "00984A": {
-          "weight_pct": 0.45,
-          "shares": 73000,
-          "shares_lot": 73,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
         "00987A": {
           "weight_pct": 3.15,
           "shares": 262000,
           "shares_lot": 262,
           "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00984A": {
+          "weight_pct": 0.45,
+          "shares": 73000,
+          "shares_lot": 73,
+          "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
@@ -9316,6 +9316,16 @@
         "勤誠(8210)"
       ],
       "etfs": {
+        "00985A": {
+          "weight_pct": 0.41,
+          "shares": 32000,
+          "shares_lot": 32,
+          "weight_change_pct": 0.41,
+          "shares_change": 32000,
+          "shares_change_lot": 32,
+          "change_type": "新增",
+          "note": ""
+        },
         "00995A": {
           "weight_pct": 1.58,
           "shares": 60000,
@@ -9324,6 +9334,46 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 1.9,
+          "shares": 620000,
+          "shares_lot": 620,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 1.08,
+          "shares": 1967000,
+          "shares_lot": 1967,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 0.42,
+          "shares": 16000,
+          "shares_lot": 16,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
           "note": ""
         },
         "00980A": {
@@ -9345,56 +9395,6 @@
           "shares_change_lot": 10,
           "change_type": "新增",
           "note": ""
-        },
-        "00987A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 1.08,
-          "shares": 1967000,
-          "shares_lot": 1967,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 0.41,
-          "shares": 32000,
-          "shares_lot": 32,
-          "weight_change_pct": 0.41,
-          "shares_change": 32000,
-          "shares_change_lot": 32,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00991A": {
-          "weight_pct": 1.9,
-          "shares": 620000,
-          "shares_lot": 620,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 0.42,
-          "shares": 16000,
-          "shares_lot": 16,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
         }
       },
       "held_etf_count": 8,
@@ -9415,20 +9415,10 @@
         "群聯(8299)"
       ],
       "etfs": {
-        "00980A": {
-          "weight_pct": 2.3,
-          "shares": 150000,
-          "shares_lot": 150,
-          "weight_change_pct": -0.2,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00987A": {
-          "weight_pct": 3.81,
-          "shares": 46000,
-          "shares_lot": 46,
+        "00992A": {
+          "weight_pct": 3.76,
+          "shares": 711000,
+          "shares_lot": 711,
           "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -9465,15 +9455,25 @@
           "change_type": "持平",
           "note": ""
         },
-        "00992A": {
-          "weight_pct": 3.76,
-          "shares": 711000,
-          "shares_lot": 711,
+        "00987A": {
+          "weight_pct": 3.81,
+          "shares": 46000,
+          "shares_lot": 46,
           "weight_change_pct": -0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
+        },
+        "00980A": {
+          "weight_pct": 2.3,
+          "shares": 150000,
+          "shares_lot": 150,
+          "weight_change_pct": -0.2,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
         }
       },
       "held_etf_count": 6,
@@ -9504,20 +9504,30 @@
           "change_type": "持平",
           "note": ""
         },
-        "00987A": {
-          "weight_pct": 2.47,
-          "shares": 201000,
-          "shares_lot": 201,
+        "00981A": {
+          "weight_pct": 0.3,
+          "shares": 1980000,
+          "shares_lot": 1980,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
           "note": ""
         },
-        "00981A": {
-          "weight_pct": 0.3,
-          "shares": 1980000,
-          "shares_lot": 1980,
+        "00994A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 2.47,
+          "shares": 201000,
+          "shares_lot": 201,
           "weight_change_pct": 0.0,
           "shares_change": 0,
           "shares_change_lot": 0,
@@ -9531,16 +9541,6 @@
           "weight_change_pct": 0.0,
           "shares_change": 1000,
           "shares_change_lot": 1,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
           "change_type": "新增",
           "note": ""
         }
@@ -9621,6 +9621,26 @@
         "高力(8996)"
       ],
       "etfs": {
+        "00992A": {
+          "weight_pct": 3.51,
+          "shares": 1689000,
+          "shares_lot": 1689,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00985A": {
+          "weight_pct": 0.91,
+          "shares": 96000,
+          "shares_lot": 96,
+          "weight_change_pct": -0.01,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": "股數持平但比例變動"
+        },
         "00995A": {
           "weight_pct": 0.62,
           "shares": 32000,
@@ -9629,6 +9649,56 @@
           "shares_change": 0,
           "shares_change_lot": 0,
           "change_type": "持平",
+          "note": ""
+        },
+        "00991A": {
+          "weight_pct": 1.93,
+          "shares": 850000,
+          "shares_lot": 850,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00981A": {
+          "weight_pct": 0.42,
+          "shares": 1034000,
+          "shares_lot": 1034,
+          "weight_change_pct": 0.42,
+          "shares_change": 1034000,
+          "shares_change_lot": 1034,
+          "change_type": "加碼",
+          "note": ""
+        },
+        "00994A": {
+          "weight_pct": 0.0,
+          "shares": 0,
+          "shares_lot": 0,
+          "weight_change_pct": 0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "新增",
+          "note": ""
+        },
+        "00987A": {
+          "weight_pct": 1.01,
+          "shares": 33000,
+          "shares_lot": 33,
+          "weight_change_pct": -0.0,
+          "shares_change": 0,
+          "shares_change_lot": 0,
+          "change_type": "持平",
+          "note": ""
+        },
+        "00982A": {
+          "weight_pct": 0.81,
+          "shares": 389000,
+          "shares_lot": 389,
+          "weight_change_pct": 0.81,
+          "shares_change": 389000,
+          "shares_change_lot": 389,
+          "change_type": "新增",
           "note": ""
         },
         "00980A": {
@@ -9649,76 +9719,6 @@
           "shares_change": 22000,
           "shares_change_lot": 22,
           "change_type": "新增",
-          "note": ""
-        },
-        "00987A": {
-          "weight_pct": 1.01,
-          "shares": 33000,
-          "shares_lot": 33,
-          "weight_change_pct": -0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00981A": {
-          "weight_pct": 0.42,
-          "shares": 1034000,
-          "shares_lot": 1034,
-          "weight_change_pct": 0.42,
-          "shares_change": 1034000,
-          "shares_change_lot": 1034,
-          "change_type": "加碼",
-          "note": ""
-        },
-        "00982A": {
-          "weight_pct": 0.81,
-          "shares": 389000,
-          "shares_lot": 389,
-          "weight_change_pct": 0.81,
-          "shares_change": 389000,
-          "shares_change_lot": 389,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00985A": {
-          "weight_pct": 0.91,
-          "shares": 96000,
-          "shares_lot": 96,
-          "weight_change_pct": -0.01,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": "股數持平但比例變動"
-        },
-        "00991A": {
-          "weight_pct": 1.93,
-          "shares": 850000,
-          "shares_lot": 850,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
-          "note": ""
-        },
-        "00994A": {
-          "weight_pct": 0.0,
-          "shares": 0,
-          "shares_lot": 0,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "新增",
-          "note": ""
-        },
-        "00992A": {
-          "weight_pct": 3.51,
-          "shares": 1689000,
-          "shares_lot": 1689,
-          "weight_change_pct": 0.0,
-          "shares_change": 0,
-          "shares_change_lot": 0,
-          "change_type": "持平",
           "note": ""
         }
       },
