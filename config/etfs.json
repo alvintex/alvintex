@@ -100,24 +100,24 @@
       "note": "由 ETF資訊網主動式 ETF 清單自動發現"
     },
     {
-      "etf_code": "00987A",
-      "etf_name": "主動台新優勢成長",
-      "issuer": "台新",
-      "enabled": true,
-      "priority": 10,
-      "source_type": "etfinfo",
-      "source_url": "https://www.etfinfo.tw/etf/00987A/holdings",
-      "parser": "etfinfo_holdings",
-      "note": "由 ETF資訊網主動式 ETF 清單自動發現"
-    },
-    {
       "etf_code": "00994A",
       "etf_name": "主動第一金台股優",
       "issuer": "第一金",
       "enabled": true,
-      "priority": 11,
+      "priority": 10,
       "source_type": "etfinfo",
       "source_url": "https://www.etfinfo.tw/etf/00994A/holdings",
+      "parser": "etfinfo_holdings",
+      "note": "由 ETF資訊網主動式 ETF 清單自動發現"
+    },
+    {
+      "etf_code": "00987A",
+      "etf_name": "主動台新優勢成長",
+      "issuer": "台新",
+      "enabled": true,
+      "priority": 11,
+      "source_type": "etfinfo",
+      "source_url": "https://www.etfinfo.tw/etf/00987A/holdings",
       "parser": "etfinfo_holdings",
       "note": "由 ETF資訊網主動式 ETF 清單自動發現"
     },
@@ -265,24 +265,24 @@
       "note": "由 ETF資訊網主動式 ETF 清單自動發現"
     },
     {
-      "etf_code": "00404A",
-      "etf_name": "主動聯博動能50",
-      "issuer": "聯博",
-      "enabled": true,
-      "priority": 25,
-      "source_type": "etfinfo",
-      "source_url": "https://www.etfinfo.tw/etf/00404A/holdings",
-      "parser": "etfinfo_holdings",
-      "note": "由 ETF資訊網主動式 ETF 清單自動發現"
-    },
-    {
       "etf_code": "00984D",
       "etf_name": "主動聯博全球非投",
       "issuer": "聯博",
       "enabled": true,
-      "priority": 26,
+      "priority": 25,
       "source_type": "etfinfo",
       "source_url": "https://www.etfinfo.tw/etf/00984D/holdings",
+      "parser": "etfinfo_holdings",
+      "note": "由 ETF資訊網主動式 ETF 清單自動發現"
+    },
+    {
+      "etf_code": "00404A",
+      "etf_name": "主動聯博動能50",
+      "issuer": "聯博",
+      "enabled": true,
+      "priority": 26,
+      "source_type": "etfinfo",
+      "source_url": "https://www.etfinfo.tw/etf/00404A/holdings",
       "parser": "etfinfo_holdings",
       "note": "由 ETF資訊網主動式 ETF 清單自動發現"
     },
@@ -331,24 +331,24 @@
       "note": "由 ETF資訊網主動式 ETF 清單自動發現"
     },
     {
-      "etf_code": "00402A",
-      "etf_name": "主動安聯美國科技",
-      "issuer": "安聯",
-      "enabled": true,
-      "priority": 31,
-      "source_type": "etfinfo",
-      "source_url": "https://www.etfinfo.tw/etf/00402A/holdings",
-      "parser": "etfinfo_holdings",
-      "note": "由 ETF資訊網主動式 ETF 清單自動發現"
-    },
-    {
       "etf_code": "00980D",
       "etf_name": "主動聯博投等入息",
       "issuer": "聯博",
       "enabled": true,
-      "priority": 32,
+      "priority": 31,
       "source_type": "etfinfo",
       "source_url": "https://www.etfinfo.tw/etf/00980D/holdings",
+      "parser": "etfinfo_holdings",
+      "note": "由 ETF資訊網主動式 ETF 清單自動發現"
+    },
+    {
+      "etf_code": "00402A",
+      "etf_name": "主動安聯美國科技",
+      "issuer": "安聯",
+      "enabled": true,
+      "priority": 32,
+      "source_type": "etfinfo",
+      "source_url": "https://www.etfinfo.tw/etf/00402A/holdings",
       "parser": "etfinfo_holdings",
       "note": "由 ETF資訊網主動式 ETF 清單自動發現"
     },
