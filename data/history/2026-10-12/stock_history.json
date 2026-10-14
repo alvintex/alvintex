@@ -110,7 +110,8 @@
       "2026-10-08",
       "2026-10-09",
       "2026-10-12",
-      "2026-10-13"
+      "2026-10-13",
+      "2026-10-14"
     ],
     "available_dates": [
       "2026-05-14",
@@ -219,7 +220,8 @@
       "2026-10-08",
       "2026-10-09",
       "2026-10-12",
-      "2026-10-13"
+      "2026-10-13",
+      "2026-10-14"
     ],
     "dates": [
       "2026-10-06",
@@ -230,7 +232,7 @@
     ],
     "compare_start_date": null,
     "compare_end_date": "2026-10-12",
-    "stock_count": 2117
+    "stock_count": 2120
   },
   "stocks": {
     "2330": {
@@ -652,15 +654,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 24,
-          "avg_weight_pct": 8.63,
-          "total_shares": 31340957,
-          "total_lots": 31341.0,
+          "held_etf_count": 27,
+          "avg_weight_pct": 8.38,
+          "total_shares": 31693957,
+          "total_lots": 31694.0,
           "etfs": {
             "00401A": {
               "weight_pct": 20.1681,
               "shares": 300960,
               "shares_lot": 301.0
+            },
+            "00986A": {
+              "weight_pct": 7.9355,
+              "shares": 18000,
+              "shares_lot": 18
             },
             "00404A": {
               "weight_pct": 22.511529,
@@ -706,6 +713,11 @@
               "weight_pct": 9.2454,
               "shares": 90000,
               "shares_lot": 90
+            },
+            "00997A": {
+              "weight_pct": 2.744,
+              "shares": 132000,
+              "shares_lot": 132
             },
             "00990A": {
               "weight_pct": 2.8,
@@ -766,6 +778,11 @@
               "weight_pct": 8.39,
               "shares": 159000,
               "shares_lot": 159
+            },
+            "00412A": {
+              "weight_pct": 8.54,
+              "shares": 203000,
+              "shares_lot": 203
             },
             "00403A": {
               "weight_pct": 13.65,
@@ -1200,15 +1217,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 24,
-          "avg_weight_pct": 4.59,
-          "total_shares": 11184210,
-          "total_lots": 11184.2,
+          "held_etf_count": 27,
+          "avg_weight_pct": 4.19,
+          "total_shares": 11216210,
+          "total_lots": 11216.2,
           "etfs": {
             "00401A": {
               "weight_pct": 6.1755,
               "shares": 50610,
               "shares_lot": 50.6
+            },
+            "00986A": {
+              "weight_pct": 1.6055,
+              "shares": 2000,
+              "shares_lot": 2
             },
             "00404A": {
               "weight_pct": 6.794918,
@@ -1259,6 +1281,11 @@
               "weight_pct": 5.9856,
               "shares": 32000,
               "shares_lot": 32
+            },
+            "00997A": {
+              "weight_pct": 0.9462,
+              "shares": 25000,
+              "shares_lot": 25
             },
             "00990A": {
               "weight_pct": 2.07,
@@ -1314,6 +1341,11 @@
               "weight_pct": 5.86,
               "shares": 61000,
               "shares_lot": 61
+            },
+            "00412A": {
+              "weight_pct": 0.38,
+              "shares": 5000,
+              "shares_lot": 5
             },
             "00403A": {
               "weight_pct": 6.29,
@@ -1723,10 +1755,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 24,
-          "avg_weight_pct": 2.18,
-          "total_shares": 14724390,
-          "total_lots": 14724.4,
+          "held_etf_count": 26,
+          "avg_weight_pct": 2.13,
+          "total_shares": 14819390,
+          "total_lots": 14819.4,
           "etfs": {
             "00401A": {
               "weight_pct": 2.5059,
@@ -1779,6 +1811,11 @@
               "shares_lot": 66.5
             },
             "00987A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
+            "00997A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
@@ -1837,6 +1874,11 @@
               "weight_pct": 4.78,
               "shares": 121000,
               "shares_lot": 121
+            },
+            "00412A": {
+              "weight_pct": 2.99,
+              "shares": 95000,
+              "shares_lot": 95
             },
             "00403A": {
               "weight_pct": 3.84,
@@ -2211,10 +2253,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 22,
-          "avg_weight_pct": 1.45,
-          "total_shares": 15064001,
-          "total_lots": 15064.0,
+          "held_etf_count": 23,
+          "avg_weight_pct": 1.47,
+          "total_shares": 15214001,
+          "total_lots": 15214.0,
           "etfs": {
             "00401A": {
               "weight_pct": 2.714,
@@ -2315,6 +2357,11 @@
               "weight_pct": 0.08,
               "shares": 5000,
               "shares_lot": 5
+            },
+            "00412A": {
+              "weight_pct": 1.89,
+              "shares": 150000,
+              "shares_lot": 150
             },
             "00403A": {
               "weight_pct": 0.0,
@@ -2714,10 +2761,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 23,
-          "avg_weight_pct": 4.34,
-          "total_shares": 42088000,
-          "total_lots": 42088.0,
+          "held_etf_count": 24,
+          "avg_weight_pct": 4.31,
+          "total_shares": 42448000,
+          "total_lots": 42448.0,
           "etfs": {
             "00401A": {
               "weight_pct": 2.4502,
@@ -2768,6 +2815,11 @@
               "weight_pct": 5.8878,
               "shares": 116000,
               "shares_lot": 116
+            },
+            "00997A": {
+              "weight_pct": 3.6976,
+              "shares": 360000,
+              "shares_lot": 360
             },
             "00990A": {
               "weight_pct": 2.27,
@@ -3152,10 +3204,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 18,
-          "avg_weight_pct": 1.58,
-          "total_shares": 1111108,
-          "total_lots": 1111.1,
+          "held_etf_count": 19,
+          "avg_weight_pct": 1.66,
+          "total_shares": 1136108,
+          "total_lots": 1136.1,
           "etfs": {
             "00401A": {
               "weight_pct": 2.5332,
@@ -3236,6 +3288,11 @@
               "weight_pct": 3.68,
               "shares": 10000,
               "shares_lot": 10
+            },
+            "00412A": {
+              "weight_pct": 3.03,
+              "shares": 25000,
+              "shares_lot": 25
             },
             "00403A": {
               "weight_pct": 1.24,
@@ -3595,10 +3652,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 21,
-          "avg_weight_pct": 1.38,
-          "total_shares": 130534000,
-          "total_lots": 130534,
+          "held_etf_count": 22,
+          "avg_weight_pct": 1.37,
+          "total_shares": 130979000,
+          "total_lots": 130979,
           "etfs": {
             "00401A": {
               "weight_pct": 2.3186,
@@ -3694,6 +3751,11 @@
               "weight_pct": 2.3,
               "shares": 760000,
               "shares_lot": 760
+            },
+            "00412A": {
+              "weight_pct": 1.07,
+              "shares": 445000,
+              "shares_lot": 445
             },
             "00403A": {
               "weight_pct": 2.03,
@@ -4634,10 +4696,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 20,
-          "avg_weight_pct": 1.81,
-          "total_shares": 647926,
-          "total_lots": 647.9,
+          "held_etf_count": 21,
+          "avg_weight_pct": 1.84,
+          "total_shares": 655926,
+          "total_lots": 655.9,
           "etfs": {
             "00401A": {
               "weight_pct": 1.8515,
@@ -4728,6 +4790,11 @@
               "weight_pct": 1.62,
               "shares": 28400,
               "shares_lot": 28.4
+            },
+            "00412A": {
+              "weight_pct": 2.34,
+              "shares": 8000,
+              "shares_lot": 8
             },
             "00403A": {
               "weight_pct": 1.45,
@@ -5290,10 +5357,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 21,
-          "avg_weight_pct": 2.58,
-          "total_shares": 10101329,
-          "total_lots": 10101.3,
+          "held_etf_count": 22,
+          "avg_weight_pct": 2.5,
+          "total_shares": 10125329,
+          "total_lots": 10125.3,
           "etfs": {
             "00401A": {
               "weight_pct": 1.9257,
@@ -5389,6 +5456,11 @@
               "weight_pct": 2.74,
               "shares": 55518,
               "shares_lot": 55.5
+            },
+            "00412A": {
+              "weight_pct": 0.9,
+              "shares": 24000,
+              "shares_lot": 24
             },
             "00403A": {
               "weight_pct": 2.7,
@@ -6753,10 +6825,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 23,
-          "avg_weight_pct": 2.87,
-          "total_shares": 5427305,
-          "total_lots": 5427.3,
+          "held_etf_count": 24,
+          "avg_weight_pct": 2.79,
+          "total_shares": 5437305,
+          "total_lots": 5437.3,
           "etfs": {
             "00401A": {
               "weight_pct": 1.7974,
@@ -6862,6 +6934,11 @@
               "weight_pct": 2.42,
               "shares": 19000,
               "shares_lot": 19
+            },
+            "00412A": {
+              "weight_pct": 1.01,
+              "shares": 10000,
+              "shares_lot": 10
             },
             "00403A": {
               "weight_pct": 3.98,
@@ -8143,10 +8220,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 24,
-          "avg_weight_pct": 0.98,
-          "total_shares": 2708120,
-          "total_lots": 2708.1,
+          "held_etf_count": 25,
+          "avg_weight_pct": 0.97,
+          "total_shares": 2731120,
+          "total_lots": 2731.1,
           "etfs": {
             "00401A": {
               "weight_pct": 1.4426,
@@ -8257,6 +8334,11 @@
               "weight_pct": 0.1,
               "shares": 2000,
               "shares_lot": 2
+            },
+            "00412A": {
+              "weight_pct": 0.9,
+              "shares": 23000,
+              "shares_lot": 23
             },
             "00403A": {
               "weight_pct": 0.0,
@@ -8586,10 +8668,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 19,
-          "avg_weight_pct": 1.28,
-          "total_shares": 6976000,
-          "total_lots": 6976,
+          "held_etf_count": 20,
+          "avg_weight_pct": 1.3,
+          "total_shares": 7163000,
+          "total_lots": 7163,
           "etfs": {
             "00401A": {
               "weight_pct": 1.4409,
@@ -8675,6 +8757,11 @@
               "weight_pct": 6.15,
               "shares": 509000,
               "shares_lot": 509
+            },
+            "00412A": {
+              "weight_pct": 1.8,
+              "shares": 187000,
+              "shares_lot": 187
             },
             "00403A": {
               "weight_pct": 0,
@@ -10091,10 +10178,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 25,
-          "avg_weight_pct": 4.75,
-          "total_shares": 9446022,
-          "total_lots": 9446.0,
+          "held_etf_count": 27,
+          "avg_weight_pct": 4.51,
+          "total_shares": 9495022,
+          "total_lots": 9495.0,
           "etfs": {
             "00401A": {
               "weight_pct": 1.2202,
@@ -10150,6 +10237,11 @@
               "weight_pct": 7.2131,
               "shares": 29000,
               "shares_lot": 29
+            },
+            "00997A": {
+              "weight_pct": 2.0636,
+              "shares": 41000,
+              "shares_lot": 41
             },
             "00990A": {
               "weight_pct": 2.24,
@@ -10210,6 +10302,11 @@
               "weight_pct": 4.09,
               "shares": 32000,
               "shares_lot": 32
+            },
+            "00412A": {
+              "weight_pct": 0.81,
+              "shares": 8000,
+              "shares_lot": 8
             },
             "00403A": {
               "weight_pct": 6.01,
@@ -10564,8 +10661,8 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 19,
-          "avg_weight_pct": 0.5,
+          "held_etf_count": 20,
+          "avg_weight_pct": 0.48,
           "total_shares": 344200,
           "total_lots": 344.2,
           "etfs": {
@@ -10618,6 +10715,11 @@
               "weight_pct": 1.9494,
               "shares": 8000,
               "shares_lot": 8
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
             },
             "00999A": {
               "weight_pct": 2.12,
@@ -11778,10 +11880,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 19,
-          "avg_weight_pct": 2.05,
-          "total_shares": 927451,
-          "total_lots": 927.5,
+          "held_etf_count": 20,
+          "avg_weight_pct": 1.99,
+          "total_shares": 931726,
+          "total_lots": 931.8,
           "etfs": {
             "00401A": {
               "weight_pct": 0.8237,
@@ -11867,6 +11969,11 @@
               "weight_pct": 2.65,
               "shares": 5000,
               "shares_lot": 5
+            },
+            "00412A": {
+              "weight_pct": 0.75,
+              "shares": 4275,
+              "shares_lot": 4.3
             },
             "00403A": {
               "weight_pct": 0.55,
@@ -14442,8 +14549,8 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 21,
-          "avg_weight_pct": 1.26,
+          "held_etf_count": 22,
+          "avg_weight_pct": 1.2,
           "total_shares": 37074000,
           "total_lots": 37074,
           "etfs": {
@@ -14493,6 +14600,11 @@
               "shares_lot": 85
             },
             "00987A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
+            "00997A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
@@ -15436,10 +15548,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 23,
-          "avg_weight_pct": 1.73,
-          "total_shares": 11981423,
-          "total_lots": 11981.4,
+          "held_etf_count": 25,
+          "avg_weight_pct": 1.63,
+          "total_shares": 12008423,
+          "total_lots": 12008.4,
           "etfs": {
             "00401A": {
               "weight_pct": 0.3609,
@@ -15487,6 +15599,11 @@
               "shares_lot": 31
             },
             "00987A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
+            "00997A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
@@ -15545,6 +15662,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 0.95,
+              "shares": 27000,
+              "shares_lot": 27
             },
             "00403A": {
               "weight_pct": 2.38,
@@ -19098,10 +19220,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 15,
-          "avg_weight_pct": 0.67,
-          "total_shares": 370000,
-          "total_lots": 370,
+          "held_etf_count": 16,
+          "avg_weight_pct": 0.68,
+          "total_shares": 388000,
+          "total_lots": 388,
           "etfs": {
             "00401A": {
               "weight_pct": 0,
@@ -19172,6 +19294,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 0.85,
+              "shares": 18000,
+              "shares_lot": 18
             },
             "00403A": {
               "weight_pct": 0,
@@ -74817,15 +74944,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 5,
-          "avg_weight_pct": 4.71,
-          "total_shares": 656938,
-          "total_lots": 657.0,
+          "held_etf_count": 9,
+          "avg_weight_pct": 4.87,
+          "total_shares": 804514,
+          "total_lots": 804.6,
           "etfs": {
+            "00986A": {
+              "weight_pct": 6.2776,
+              "shares": 5000,
+              "shares_lot": 5
+            },
             "00409A": {
               "weight_pct": 4.215,
               "shares": 80000,
               "shares_lot": 80
+            },
+            "00997A": {
+              "weight_pct": 3.4688,
+              "shares": 58576,
+              "shares_lot": 58.6
             },
             "00990A": {
               "weight_pct": 4.57,
@@ -74842,10 +74979,20 @@
               "shares": 290000,
               "shares_lot": 290
             },
+            "00402A": {
+              "weight_pct": 8.53,
+              "shares": 67700,
+              "shares_lot": 67.7
+            },
             "00411A": {
               "weight_pct": 7.88,
               "shares": 50262,
               "shares_lot": 50.3
+            },
+            "00412A": {
+              "weight_pct": 1.95,
+              "shares": 16300,
+              "shares_lot": 16.3
             }
           }
         }
@@ -75005,15 +75152,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 5,
-          "avg_weight_pct": 0.26,
-          "total_shares": 4111,
-          "total_lots": 4.2,
+          "held_etf_count": 8,
+          "avg_weight_pct": 1.55,
+          "total_shares": 44503,
+          "total_lots": 44.6,
           "etfs": {
+            "00986A": {
+              "weight_pct": 5.8702,
+              "shares": 3000,
+              "shares_lot": 3
+            },
             "00409A": {
               "weight_pct": 0.082,
               "shares": 1000,
               "shares_lot": 1
+            },
+            "00997A": {
+              "weight_pct": 1.882,
+              "shares": 20392,
+              "shares_lot": 20.4
             },
             "00990A": {
               "weight_pct": 0,
@@ -75029,6 +75186,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 3.33,
+              "shares": 17000,
+              "shares_lot": 17
             },
             "00411A": {
               "weight_pct": 0.65,
@@ -75198,15 +75360,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 5,
-          "avg_weight_pct": 3.47,
-          "total_shares": 179139,
-          "total_lots": 179.2,
+          "held_etf_count": 9,
+          "avg_weight_pct": 3.57,
+          "total_shares": 222587,
+          "total_lots": 222.6,
           "etfs": {
+            "00986A": {
+              "weight_pct": 4.6152,
+              "shares": 1400,
+              "shares_lot": 1.4
+            },
             "00409A": {
               "weight_pct": 2.214,
               "shares": 16000,
               "shares_lot": 16
+            },
+            "00997A": {
+              "weight_pct": 3.2883,
+              "shares": 21148,
+              "shares_lot": 21.1
             },
             "00990A": {
               "weight_pct": 4.19,
@@ -75223,10 +75395,20 @@
               "shares": 68000,
               "shares_lot": 68
             },
+            "00402A": {
+              "weight_pct": 5.93,
+              "shares": 18000,
+              "shares_lot": 18
+            },
             "00411A": {
               "weight_pct": 4.97,
               "shares": 12077,
               "shares_lot": 12.1
+            },
+            "00412A": {
+              "weight_pct": 0.91,
+              "shares": 2900,
+              "shares_lot": 2.9
             }
           }
         }
@@ -75371,15 +75553,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 2.32,
-          "total_shares": 76576,
-          "total_lots": 76.6,
+          "held_etf_count": 7,
+          "avg_weight_pct": 3.44,
+          "total_shares": 105781,
+          "total_lots": 105.8,
           "etfs": {
+            "00986A": {
+              "weight_pct": 4.3894,
+              "shares": 800,
+              "shares_lot": 0.8
+            },
             "00409A": {
               "weight_pct": 3.523,
               "shares": 15300,
               "shares_lot": 15.3
+            },
+            "00997A": {
+              "weight_pct": 4.6337,
+              "shares": 17905,
+              "shares_lot": 17.9
             },
             "00990A": {
               "weight_pct": 2.33,
@@ -75390,6 +75582,11 @@
               "weight_pct": 1.97,
               "shares": 32000,
               "shares_lot": 32
+            },
+            "00402A": {
+              "weight_pct": 5.76,
+              "shares": 10500,
+              "shares_lot": 10.5
             },
             "00411A": {
               "weight_pct": 1.47,
@@ -75544,15 +75741,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 6.9,
-          "total_shares": 243398,
-          "total_lots": 243.4,
+          "held_etf_count": 8,
+          "avg_weight_pct": 5.04,
+          "total_shares": 269310,
+          "total_lots": 269.3,
           "etfs": {
+            "00986A": {
+              "weight_pct": 4.3072,
+              "shares": 780,
+              "shares_lot": 0.8
+            },
             "00409A": {
               "weight_pct": 5.909,
               "shares": 25500,
               "shares_lot": 25.5
+            },
+            "00997A": {
+              "weight_pct": 4.7748,
+              "shares": 18332,
+              "shares_lot": 18.3
             },
             "00990A": {
               "weight_pct": 7.88,
@@ -75564,10 +75771,20 @@
               "shares": 117000,
               "shares_lot": 117
             },
+            "00402A": {
+              "weight_pct": 1.88,
+              "shares": 3400,
+              "shares_lot": 3.4
+            },
             "00411A": {
               "weight_pct": 6.58,
               "shares": 9539,
               "shares_lot": 9.5
+            },
+            "00412A": {
+              "weight_pct": 1.79,
+              "shares": 3400,
+              "shares_lot": 3.4
             }
           }
         }
@@ -75712,15 +75929,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 3.19,
-          "total_shares": 308916,
-          "total_lots": 309.0,
+          "held_etf_count": 7,
+          "avg_weight_pct": 3.31,
+          "total_shares": 386673,
+          "total_lots": 386.8,
           "etfs": {
+            "00986A": {
+              "weight_pct": 4.3772,
+              "shares": 3000,
+              "shares_lot": 3
+            },
             "00409A": {
               "weight_pct": 3.368,
               "shares": 55000,
               "shares_lot": 55
+            },
+            "00997A": {
+              "weight_pct": 4.374,
+              "shares": 63557,
+              "shares_lot": 63.6
             },
             "00990A": {
               "weight_pct": 1.69,
@@ -75731,6 +75958,11 @@
               "weight_pct": 2.46,
               "shares": 150754,
               "shares_lot": 150.8
+            },
+            "00402A": {
+              "weight_pct": 1.63,
+              "shares": 11200,
+              "shares_lot": 11.2
             },
             "00411A": {
               "weight_pct": 5.26,
@@ -75880,15 +76112,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 0.81,
-          "total_shares": 6204,
-          "total_lots": 6.2,
+          "held_etf_count": 7,
+          "avg_weight_pct": 1.64,
+          "total_shares": 38404,
+          "total_lots": 38.4,
           "etfs": {
+            "00986A": {
+              "weight_pct": 4.0313,
+              "shares": 2800,
+              "shares_lot": 2.8
+            },
             "00409A": {
               "weight_pct": 0.06,
               "shares": 1000,
               "shares_lot": 1
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
             },
             "00990A": {
               "weight_pct": 0,
@@ -75899,6 +76141,11 @@
               "weight_pct": 2.8,
               "shares": 3097,
               "shares_lot": 3.1
+            },
+            "00402A": {
+              "weight_pct": 4.23,
+              "shares": 29400,
+              "shares_lot": 29.4
             },
             "00411A": {
               "weight_pct": 0.38,
@@ -76038,11 +76285,21 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 0.5,
-          "total_shares": 1211,
-          "total_lots": 1.2,
+          "held_etf_count": 7,
+          "avg_weight_pct": 1.52,
+          "total_shares": 37928,
+          "total_lots": 37.9,
           "etfs": {
+            "00986A": {
+              "weight_pct": 3.5422,
+              "shares": 1800,
+              "shares_lot": 1.8
+            },
+            "00997A": {
+              "weight_pct": 1.0226,
+              "shares": 11017,
+              "shares_lot": 11.0
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
@@ -76057,6 +76314,16 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 2.15,
+              "shares": 10900,
+              "shares_lot": 10.9
+            },
+            "00412A": {
+              "weight_pct": 2.43,
+              "shares": 13000,
+              "shares_lot": 13
             }
           }
         }
@@ -76141,11 +76408,21 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 1.19,
-          "total_shares": 300000,
-          "total_lots": 300,
+          "held_etf_count": 3,
+          "avg_weight_pct": 1.23,
+          "total_shares": 307000,
+          "total_lots": 307,
           "etfs": {
+            "00986A": {
+              "weight_pct": 2.4899,
+              "shares": 7000,
+              "shares_lot": 7
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00988A": {
               "weight_pct": 1.19,
               "shares": 300000,
@@ -76294,15 +76571,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 1.41,
-          "total_shares": 86543,
-          "total_lots": 86.6,
+          "held_etf_count": 7,
+          "avg_weight_pct": 2.19,
+          "total_shares": 115529,
+          "total_lots": 115.6,
           "etfs": {
+            "00986A": {
+              "weight_pct": 3.002,
+              "shares": 1000,
+              "shares_lot": 1
+            },
             "00409A": {
               "weight_pct": 1.89,
               "shares": 15000,
               "shares_lot": 15
+            },
+            "00997A": {
+              "weight_pct": 1.4989,
+              "shares": 10586,
+              "shares_lot": 10.6
             },
             "00990A": {
               "weight_pct": 3.3,
@@ -76313,6 +76600,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 5.22,
+              "shares": 17400,
+              "shares_lot": 17.4
             },
             "00411A": {
               "weight_pct": 0.44,
@@ -76402,11 +76694,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 0.37,
-          "total_shares": 179,
-          "total_lots": 0.2,
+          "held_etf_count": 3,
+          "avg_weight_pct": 1.23,
+          "total_shares": 629,
+          "total_lots": 0.7,
           "etfs": {
+            "00986A": {
+              "weight_pct": 2.9523,
+              "shares": 450,
+              "shares_lot": 0.5
+            },
             "00409A": {
               "weight_pct": 0,
               "shares": 0,
@@ -76463,6 +76760,20 @@
           "etfs": {
             "00986A": {
               "weight_pct": 0.9728,
+              "shares": 200,
+              "shares_lot": 0.2
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.99,
+          "total_shares": 200,
+          "total_lots": 0.2,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 0.9918,
               "shares": 200,
               "shares_lot": 0.2
             }
@@ -76549,11 +76860,21 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 3,
+          "avg_weight_pct": 0.92,
+          "total_shares": 500,
+          "total_lots": 0.5,
           "etfs": {
+            "00986A": {
+              "weight_pct": 2.7649,
+              "shares": 500,
+              "shares_lot": 0.5
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00988A": {
               "weight_pct": 0,
               "shares": 0,
@@ -76702,15 +77023,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 0.11,
-          "total_shares": 6300,
-          "total_lots": 6.3,
+          "held_etf_count": 7,
+          "avg_weight_pct": 0.54,
+          "total_shares": 15800,
+          "total_lots": 15.8,
           "etfs": {
+            "00986A": {
+              "weight_pct": 2.0771,
+              "shares": 1300,
+              "shares_lot": 1.3
+            },
             "00409A": {
               "weight_pct": 0.422,
               "shares": 6300,
               "shares_lot": 6.3
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
             },
             "00990A": {
               "weight_pct": 0,
@@ -76721,6 +77052,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 1.31,
+              "shares": 8200,
+              "shares_lot": 8.2
             },
             "00411A": {
               "weight_pct": 0,
@@ -76773,6 +77109,20 @@
           "etfs": {
             "00986A": {
               "weight_pct": 2.3395,
+              "shares": 1000,
+              "shares_lot": 1
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 2.37,
+          "total_shares": 1000,
+          "total_lots": 1,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 2.3671,
               "shares": 1000,
               "shares_lot": 1
             }
@@ -76904,11 +77254,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 5,
-          "avg_weight_pct": 2.13,
-          "total_shares": 191765,
-          "total_lots": 191.7,
+          "held_etf_count": 6,
+          "avg_weight_pct": 2.17,
+          "total_shares": 192965,
+          "total_lots": 192.9,
           "etfs": {
+            "00986A": {
+              "weight_pct": 2.3358,
+              "shares": 1200,
+              "shares_lot": 1.2
+            },
             "00409A": {
               "weight_pct": 1.724,
               "shares": 21100,
@@ -77032,11 +77387,21 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 4,
+          "avg_weight_pct": 1.17,
+          "total_shares": 21750,
+          "total_lots": 21.8,
           "etfs": {
+            "00986A": {
+              "weight_pct": 1.932,
+              "shares": 700,
+              "shares_lot": 0.7
+            },
+            "00997A": {
+              "weight_pct": 2.7404,
+              "shares": 21050,
+              "shares_lot": 21.1
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
@@ -77093,6 +77458,20 @@
           "etfs": {
             "00986A": {
               "weight_pct": 2.0157,
+              "shares": 7000,
+              "shares_lot": 7
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.95,
+          "total_shares": 7000,
+          "total_lots": 7,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 1.9543,
               "shares": 7000,
               "shares_lot": 7
             }
@@ -77254,15 +77633,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 5,
-          "avg_weight_pct": 2.11,
-          "total_shares": 232920,
-          "total_lots": 232.9,
+          "held_etf_count": 8,
+          "avg_weight_pct": 1.84,
+          "total_shares": 246883,
+          "total_lots": 246.9,
           "etfs": {
+            "00986A": {
+              "weight_pct": 2.1991,
+              "shares": 1100,
+              "shares_lot": 1.1
+            },
             "00409A": {
               "weight_pct": 1.636,
               "shares": 19500,
               "shares_lot": 19.5
+            },
+            "00997A": {
+              "weight_pct": 0.5622,
+              "shares": 5963,
+              "shares_lot": 6.0
             },
             "00990A": {
               "weight_pct": 3.16,
@@ -77278,6 +77667,11 @@
               "weight_pct": 2.24,
               "shares": 100000,
               "shares_lot": 100
+            },
+            "00402A": {
+              "weight_pct": 1.38,
+              "shares": 6900,
+              "shares_lot": 6.9
             },
             "00411A": {
               "weight_pct": 2.93,
@@ -77349,6 +77743,25 @@
               "shares_lot": 15.1
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.44,
+          "total_shares": 15147,
+          "total_lots": 15.1,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
+            "00997A": {
+              "weight_pct": 0.8751,
+              "shares": 15147,
+              "shares_lot": 15.1
+            }
+          }
         }
       ]
     },
@@ -77416,11 +77829,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 2.28,
-          "total_shares": 15000,
-          "total_lots": 15,
+          "held_etf_count": 2,
+          "avg_weight_pct": 2.16,
+          "total_shares": 16100,
+          "total_lots": 16.1,
           "etfs": {
+            "00986A": {
+              "weight_pct": 2.04,
+              "shares": 1100,
+              "shares_lot": 1.1
+            },
             "00998A": {
               "weight_pct": 2.276,
               "shares": 15000,
@@ -77494,11 +77912,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 1.0,
+          "total_shares": 2200,
+          "total_lots": 2.2,
           "etfs": {
+            "00986A": {
+              "weight_pct": 2.0074,
+              "shares": 2200,
+              "shares_lot": 2.2
+            },
             "00988A": {
               "weight_pct": 0,
               "shares": 0,
@@ -77632,15 +78055,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 0.35,
-          "total_shares": 4000,
-          "total_lots": 4,
+          "held_etf_count": 6,
+          "avg_weight_pct": 0.85,
+          "total_shares": 11368,
+          "total_lots": 11.4,
           "etfs": {
+            "00986A": {
+              "weight_pct": 0.9076,
+              "shares": 110,
+              "shares_lot": 0.1
+            },
             "00409A": {
               "weight_pct": 1.385,
               "shares": 4000,
               "shares_lot": 4
+            },
+            "00997A": {
+              "weight_pct": 2.8246,
+              "shares": 7258,
+              "shares_lot": 7.3
             },
             "00990A": {
               "weight_pct": 0,
@@ -77755,15 +78188,30 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 4,
+          "avg_weight_pct": 2.95,
+          "total_shares": 66023,
+          "total_lots": 66.0,
           "etfs": {
+            "00986A": {
+              "weight_pct": 2.0807,
+              "shares": 1100,
+              "shares_lot": 1.1
+            },
+            "00997A": {
+              "weight_pct": 2.2771,
+              "shares": 25523,
+              "shares_lot": 25.5
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 7.45,
+              "shares": 39400,
+              "shares_lot": 39.4
             }
           }
         }
@@ -77811,6 +78259,20 @@
           "etfs": {
             "00986A": {
               "weight_pct": 1.4493,
+              "shares": 900,
+              "shares_lot": 0.9
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.48,
+          "total_shares": 900,
+          "total_lots": 0.9,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 1.4846,
               "shares": 900,
               "shares_lot": 0.9
             }
@@ -77864,6 +78326,20 @@
               "shares_lot": 40
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.72,
+          "total_shares": 40000,
+          "total_lots": 40,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 1.7243,
+              "shares": 40000,
+              "shares_lot": 40
+            }
+          }
         }
       ]
     },
@@ -77909,6 +78385,20 @@
           "etfs": {
             "00986A": {
               "weight_pct": 1.2068,
+              "shares": 120,
+              "shares_lot": 0.1
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.18,
+          "total_shares": 120,
+          "total_lots": 0.1,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 1.1755,
               "shares": 120,
               "shares_lot": 0.1
             }
@@ -78010,11 +78500,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 0.29,
-          "total_shares": 17000,
-          "total_lots": 17,
+          "held_etf_count": 4,
+          "avg_weight_pct": 0.47,
+          "total_shares": 17850,
+          "total_lots": 17.8,
           "etfs": {
+            "00986A": {
+              "weight_pct": 1.0209,
+              "shares": 850,
+              "shares_lot": 0.8
+            },
             "00409A": {
               "weight_pct": 0.857,
               "shares": 17000,
@@ -78128,11 +78623,21 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 1.22,
-          "total_shares": 98000,
-          "total_lots": 98,
+          "held_etf_count": 4,
+          "avg_weight_pct": 1.11,
+          "total_shares": 110584,
+          "total_lots": 110.6,
           "etfs": {
+            "00986A": {
+              "weight_pct": 1.1156,
+              "shares": 700,
+              "shares_lot": 0.7
+            },
+            "00997A": {
+              "weight_pct": 0.8933,
+              "shares": 11884,
+              "shares_lot": 11.9
+            },
             "00990A": {
               "weight_pct": 2.44,
               "shares": 98000,
@@ -78211,11 +78716,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.58,
+          "total_shares": 350,
+          "total_lots": 0.3,
           "etfs": {
+            "00986A": {
+              "weight_pct": 1.1554,
+              "shares": 350,
+              "shares_lot": 0.3
+            },
             "00409A": {
               "weight_pct": 0,
               "shares": 0,
@@ -78271,6 +78781,20 @@
               "shares_lot": 8
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.97,
+          "total_shares": 8000,
+          "total_lots": 8,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 0.9702,
+              "shares": 8000,
+              "shares_lot": 8
+            }
+          }
         }
       ]
     },
@@ -78316,6 +78840,20 @@
           "etfs": {
             "00986A": {
               "weight_pct": 0.9081,
+              "shares": 750,
+              "shares_lot": 0.8
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.87,
+          "total_shares": 750,
+          "total_lots": 0.8,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 0.874,
               "shares": 750,
               "shares_lot": 0.8
             }
@@ -78462,15 +79000,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 5,
-          "avg_weight_pct": 2.25,
-          "total_shares": 546028,
-          "total_lots": 546.0,
+          "held_etf_count": 7,
+          "avg_weight_pct": 1.71,
+          "total_shares": 547228,
+          "total_lots": 547.2,
           "etfs": {
+            "00986A": {
+              "weight_pct": 0.7271,
+              "shares": 1200,
+              "shares_lot": 1.2
+            },
             "00409A": {
               "weight_pct": 2.797,
               "shares": 110000,
               "shares_lot": 110
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
             },
             "00990A": {
               "weight_pct": 0,
@@ -78560,11 +79108,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 1.76,
-          "total_shares": 1823,
-          "total_lots": 1.8,
+          "held_etf_count": 2,
+          "avg_weight_pct": 1.19,
+          "total_shares": 2224,
+          "total_lots": 2.2,
           "etfs": {
+            "00986A": {
+              "weight_pct": 0.6155,
+              "shares": 401,
+              "shares_lot": 0.4
+            },
             "00983A": {
               "weight_pct": 1.76,
               "shares": 1823,
@@ -78609,6 +79162,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -78669,6 +79236,20 @@
               "shares_lot": 0
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
         }
       ]
     },
@@ -78707,6 +79288,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -78785,11 +79380,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.05,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.03,
           "total_shares": 108,
           "total_lots": 0.1,
           "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00983A": {
               "weight_pct": 0.05,
               "shares": 108,
@@ -78834,6 +79434,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -78957,12 +79571,22 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 6,
+          "avg_weight_pct": 0.15,
+          "total_shares": 8700,
+          "total_lots": 8.7,
           "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00409A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
+            "00997A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
@@ -78976,6 +79600,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 0.92,
+              "shares": 8700,
+              "shares_lot": 8.7
             }
           }
         }
@@ -79090,20 +79719,35 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 0.45,
-          "total_shares": 12500,
-          "total_lots": 12.5,
+          "held_etf_count": 5,
+          "avg_weight_pct": 1.14,
+          "total_shares": 54738,
+          "total_lots": 54.7,
           "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00409A": {
               "weight_pct": 0.901,
               "shares": 12500,
               "shares_lot": 12.5
             },
+            "00997A": {
+              "weight_pct": 2.182,
+              "shares": 26938,
+              "shares_lot": 26.9
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 2.63,
+              "shares": 15300,
+              "shares_lot": 15.3
             }
           }
         }
@@ -79233,15 +79877,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 2.44,
-          "total_shares": 293600,
-          "total_lots": 293.6,
+          "held_etf_count": 6,
+          "avg_weight_pct": 2.16,
+          "total_shares": 361585,
+          "total_lots": 361.6,
           "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00409A": {
               "weight_pct": 2.463,
               "shares": 39800,
               "shares_lot": 39.8
+            },
+            "00997A": {
+              "weight_pct": 3.9225,
+              "shares": 56385,
+              "shares_lot": 56.4
             },
             "00990A": {
               "weight_pct": 2.39,
@@ -79252,6 +79906,11 @@
               "weight_pct": 2.48,
               "shares": 150000,
               "shares_lot": 150
+            },
+            "00402A": {
+              "weight_pct": 1.71,
+              "shares": 11600,
+              "shares_lot": 11.6
             }
           }
         }
@@ -79381,11 +80040,21 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 0.22,
-          "total_shares": 491,
-          "total_lots": 0.5,
+          "held_etf_count": 6,
+          "avg_weight_pct": 0.42,
+          "total_shares": 4791,
+          "total_lots": 4.8,
           "etfs": {
+            "00986A": {
+              "weight_pct": 1.0647,
+              "shares": 500,
+              "shares_lot": 0.5
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
@@ -79400,6 +80069,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 0.81,
+              "shares": 3800,
+              "shares_lot": 3.8
             }
           }
         }
@@ -79514,12 +80188,22 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 3.4,
+          "held_etf_count": 5,
+          "avg_weight_pct": 2.04,
           "total_shares": 10955,
           "total_lots": 11.0,
           "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00409A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
+            "00997A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
@@ -79584,6 +80268,20 @@
               "shares_lot": 0
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
         }
       ]
     },
@@ -79622,6 +80320,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00986A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -80725,10 +81437,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 24,
-          "avg_weight_pct": 4.0,
-          "total_shares": 13350400,
-          "total_lots": 13350.4,
+          "held_etf_count": 25,
+          "avg_weight_pct": 3.94,
+          "total_shares": 13395400,
+          "total_lots": 13395.4,
           "etfs": {
             "00404A": {
               "weight_pct": 1.293826,
@@ -80839,6 +81551,11 @@
               "weight_pct": 2.18,
               "shares": 31000,
               "shares_lot": 31
+            },
+            "00412A": {
+              "weight_pct": 2.52,
+              "shares": 45000,
+              "shares_lot": 45
             },
             "00403A": {
               "weight_pct": 4.96,
@@ -82767,10 +83484,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 14,
+          "held_etf_count": 15,
           "avg_weight_pct": 0.44,
-          "total_shares": 2566000,
-          "total_lots": 2566,
+          "total_shares": 2673000,
+          "total_lots": 2673,
           "etfs": {
             "00404A": {
               "weight_pct": 0.683523,
@@ -82831,6 +83548,11 @@
               "weight_pct": 0.76,
               "shares": 43000,
               "shares_lot": 43
+            },
+            "00412A": {
+              "weight_pct": 0.48,
+              "shares": 107000,
+              "shares_lot": 107
             },
             "00403A": {
               "weight_pct": 0.0,
@@ -83145,10 +83867,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 19,
-          "avg_weight_pct": 2.77,
-          "total_shares": 2374050,
-          "total_lots": 2374.1,
+          "held_etf_count": 20,
+          "avg_weight_pct": 2.76,
+          "total_shares": 2392050,
+          "total_lots": 2392.1,
           "etfs": {
             "00404A": {
               "weight_pct": 0.967503,
@@ -83234,6 +83956,11 @@
               "weight_pct": 4.21,
               "shares": 25000,
               "shares_lot": 25
+            },
+            "00412A": {
+              "weight_pct": 2.41,
+              "shares": 18000,
+              "shares_lot": 18
             },
             "00403A": {
               "weight_pct": 3.62,
@@ -89574,8 +90301,8 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 0.11,
+          "held_etf_count": 4,
+          "avg_weight_pct": 0.08,
           "total_shares": 143000,
           "total_lots": 143,
           "etfs": {
@@ -89585,6 +90312,11 @@
               "shares_lot": 0
             },
             "00993A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
+            "00997A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
@@ -96420,10 +97152,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 21,
-          "avg_weight_pct": 1.94,
-          "total_shares": 11797001,
-          "total_lots": 11797.0,
+          "held_etf_count": 22,
+          "avg_weight_pct": 1.9,
+          "total_shares": 11833001,
+          "total_lots": 11833.0,
           "etfs": {
             "00992A": {
               "weight_pct": 0.4995,
@@ -96519,6 +97251,11 @@
               "weight_pct": 1.34,
               "shares": 37000,
               "shares_lot": 37
+            },
+            "00412A": {
+              "weight_pct": 1.03,
+              "shares": 36000,
+              "shares_lot": 36
             },
             "00403A": {
               "weight_pct": 2.54,
@@ -98206,10 +98943,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 4,
+          "avg_weight_pct": 0.23,
+          "total_shares": 36000,
+          "total_lots": 36,
           "etfs": {
             "00992A": {
               "weight_pct": 0,
@@ -98225,6 +98962,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 0.92,
+              "shares": 36000,
+              "shares_lot": 36
             }
           }
         }
@@ -99652,10 +100394,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 18,
+          "held_etf_count": 19,
           "avg_weight_pct": 0.78,
-          "total_shares": 1374000,
-          "total_lots": 1374,
+          "total_shares": 1396000,
+          "total_lots": 1396,
           "etfs": {
             "00992A": {
               "weight_pct": 0,
@@ -99736,6 +100478,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 0.83,
+              "shares": 22000,
+              "shares_lot": 22
             },
             "00403A": {
               "weight_pct": 0.27,
@@ -99830,10 +100577,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 4,
+          "avg_weight_pct": 0.12,
+          "total_shares": 10000,
+          "total_lots": 10,
           "etfs": {
             "00992A": {
               "weight_pct": 0,
@@ -99844,6 +100591,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 0.48,
+              "shares": 10000,
+              "shares_lot": 10
             },
             "00984A": {
               "weight_pct": 0,
@@ -100450,10 +101202,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 2.21,
-          "total_shares": 176000,
-          "total_lots": 176,
+          "held_etf_count": 3,
+          "avg_weight_pct": 2.32,
+          "total_shares": 320000,
+          "total_lots": 320,
           "etfs": {
             "00993A": {
               "weight_pct": 1.19,
@@ -100464,6 +101216,11 @@
               "weight_pct": 3.22,
               "shares": 60000,
               "shares_lot": 60
+            },
+            "00412A": {
+              "weight_pct": 2.55,
+              "shares": 144000,
+              "shares_lot": 144
             }
           }
         }
@@ -109237,15 +109994,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 6.58,
-          "total_shares": 801492,
-          "total_lots": 801.5,
+          "held_etf_count": 6,
+          "avg_weight_pct": 4.77,
+          "total_shares": 822790,
+          "total_lots": 822.8,
           "etfs": {
+            "00986A": {
+              "weight_pct": 0.873,
+              "shares": 600,
+              "shares_lot": 0.6
+            },
             "00409A": {
               "weight_pct": 5.19,
               "shares": 85000,
               "shares_lot": 85
+            },
+            "00997A": {
+              "weight_pct": 1.4204,
+              "shares": 20698,
+              "shares_lot": 20.7
             },
             "00990A": {
               "weight_pct": 5.66,
@@ -109410,15 +110177,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 5,
-          "avg_weight_pct": 4.77,
-          "total_shares": 634450,
-          "total_lots": 634.4,
+          "held_etf_count": 8,
+          "avg_weight_pct": 3.54,
+          "total_shares": 677806,
+          "total_lots": 677.8,
           "etfs": {
+            "00986A": {
+              "weight_pct": 0.9275,
+              "shares": 800,
+              "shares_lot": 0.8
+            },
             "00409A": {
               "weight_pct": 5.62,
               "shares": 115500,
               "shares_lot": 115.5
+            },
+            "00997A": {
+              "weight_pct": 1.2882,
+              "shares": 23556,
+              "shares_lot": 23.6
             },
             "00990A": {
               "weight_pct": 3.39,
@@ -109434,6 +110211,11 @@
               "weight_pct": 3.57,
               "shares": 275000,
               "shares_lot": 275
+            },
+            "00402A": {
+              "weight_pct": 2.2,
+              "shares": 19000,
+              "shares_lot": 19
             },
             "00411A": {
               "weight_pct": 7.43,
@@ -109523,10 +110305,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 2.66,
-          "total_shares": 26765,
-          "total_lots": 26.8,
+          "held_etf_count": 3,
+          "avg_weight_pct": 2.27,
+          "total_shares": 32765,
+          "total_lots": 32.8,
           "etfs": {
             "00409A": {
               "weight_pct": 2.586,
@@ -109537,6 +110319,11 @@
               "weight_pct": 2.73,
               "shares": 1765,
               "shares_lot": 1.8
+            },
+            "00402A": {
+              "weight_pct": 1.48,
+              "shares": 6000,
+              "shares_lot": 6
             }
           }
         }
@@ -109681,15 +110468,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 5,
-          "avg_weight_pct": 5.56,
-          "total_shares": 966090,
-          "total_lots": 966.1,
+          "held_etf_count": 7,
+          "avg_weight_pct": 4.44,
+          "total_shares": 1033006,
+          "total_lots": 1033.0,
           "etfs": {
             "00409A": {
               "weight_pct": 2.663,
               "shares": 70000,
               "shares_lot": 70
+            },
+            "00997A": {
+              "weight_pct": 2.4979,
+              "shares": 58416,
+              "shares_lot": 58.4
             },
             "00990A": {
               "weight_pct": 3.63,
@@ -109705,6 +110497,11 @@
               "weight_pct": 5.58,
               "shares": 550000,
               "shares_lot": 550
+            },
+            "00402A": {
+              "weight_pct": 0.77,
+              "shares": 8500,
+              "shares_lot": 8.5
             },
             "00411A": {
               "weight_pct": 8.7,
@@ -109877,8 +110674,8 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 1.06,
+          "held_etf_count": 3,
+          "avg_weight_pct": 0.7,
           "total_shares": 28000,
           "total_lots": 28,
           "etfs": {
@@ -109886,6 +110683,11 @@
               "weight_pct": 2.113,
               "shares": 28000,
               "shares_lot": 28
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
             },
             "00990A": {
               "weight_pct": 0,
@@ -110108,15 +110910,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 1.57,
-          "total_shares": 565600,
-          "total_lots": 565.6,
+          "held_etf_count": 5,
+          "avg_weight_pct": 1.77,
+          "total_shares": 691961,
+          "total_lots": 692.0,
           "etfs": {
             "00409A": {
               "weight_pct": 1.18,
               "shares": 50000,
               "shares_lot": 50
+            },
+            "00997A": {
+              "weight_pct": 2.6562,
+              "shares": 100161,
+              "shares_lot": 100.2
             },
             "00990A": {
               "weight_pct": 1.02,
@@ -110127,6 +110934,11 @@
               "weight_pct": 2.52,
               "shares": 400000,
               "shares_lot": 400
+            },
+            "00402A": {
+              "weight_pct": 1.47,
+              "shares": 26200,
+              "shares_lot": 26.2
             }
           }
         }
@@ -110201,10 +111013,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 3,
+          "avg_weight_pct": 0.62,
+          "total_shares": 2954,
+          "total_lots": 3.0,
           "etfs": {
             "00409A": {
               "weight_pct": 0,
@@ -110215,6 +111027,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 1.87,
+              "shares": 2954,
+              "shares_lot": 3.0
             }
           }
         }
@@ -110314,15 +111131,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 0.82,
-          "total_shares": 16116,
-          "total_lots": 16.1,
+          "held_etf_count": 4,
+          "avg_weight_pct": 1.26,
+          "total_shares": 33116,
+          "total_lots": 33.1,
           "etfs": {
             "00409A": {
               "weight_pct": 2.014,
               "shares": 15000,
               "shares_lot": 15
+            },
+            "00997A": {
+              "weight_pct": 2.5656,
+              "shares": 17000,
+              "shares_lot": 17
             },
             "00990A": {
               "weight_pct": 0,
@@ -110447,15 +111269,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 2.61,
-          "total_shares": 234255,
-          "total_lots": 234.3,
+          "held_etf_count": 5,
+          "avg_weight_pct": 2.7,
+          "total_shares": 273134,
+          "total_lots": 273.2,
           "etfs": {
             "00409A": {
               "weight_pct": 2.003,
               "shares": 21300,
               "shares_lot": 21.3
+            },
+            "00997A": {
+              "weight_pct": 2.7134,
+              "shares": 25679,
+              "shares_lot": 25.7
             },
             "00990A": {
               "weight_pct": 1.68,
@@ -110466,6 +111293,11 @@
               "weight_pct": 4.14,
               "shares": 165000,
               "shares_lot": 165
+            },
+            "00402A": {
+              "weight_pct": 2.96,
+              "shares": 13200,
+              "shares_lot": 13.2
             }
           }
         }
@@ -110570,15 +111402,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 2.52,
-          "total_shares": 1898400,
-          "total_lots": 1898.4,
+          "held_etf_count": 5,
+          "avg_weight_pct": 1.88,
+          "total_shares": 1968000,
+          "total_lots": 1968.0,
           "etfs": {
             "00409A": {
               "weight_pct": 1.522,
               "shares": 130000,
               "shares_lot": 130
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
             },
             "00990A": {
               "weight_pct": 1.82,
@@ -110589,6 +111426,11 @@
               "weight_pct": 4.22,
               "shares": 1350000,
               "shares_lot": 1350
+            },
+            "00412A": {
+              "weight_pct": 1.85,
+              "shares": 69600,
+              "shares_lot": 69.6
             }
           }
         }
@@ -110781,10 +111623,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 0.67,
-          "total_shares": 123000,
-          "total_lots": 123,
+          "held_etf_count": 4,
+          "avg_weight_pct": 1.0,
+          "total_shares": 176800,
+          "total_lots": 176.8,
           "etfs": {
             "00409A": {
               "weight_pct": 2.012,
@@ -110800,6 +111642,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 1.99,
+              "shares": 53800,
+              "shares_lot": 53.8
             }
           }
         }
@@ -110919,15 +111766,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 0.49,
-          "total_shares": 5150,
-          "total_lots": 5.1,
+          "held_etf_count": 6,
+          "avg_weight_pct": 0.72,
+          "total_shares": 24312,
+          "total_lots": 24.3,
           "etfs": {
+            "00986A": {
+              "weight_pct": 0.3641,
+              "shares": 165,
+              "shares_lot": 0.2
+            },
             "00409A": {
               "weight_pct": 0.37,
               "shares": 4000,
               "shares_lot": 4
+            },
+            "00997A": {
+              "weight_pct": 1.9772,
+              "shares": 18997,
+              "shares_lot": 19.0
             },
             "00990A": {
               "weight_pct": 0,
@@ -111351,15 +112208,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 1.07,
-          "total_shares": 117200,
-          "total_lots": 117.2,
+          "held_etf_count": 5,
+          "avg_weight_pct": 1.46,
+          "total_shares": 154300,
+          "total_lots": 154.3,
           "etfs": {
             "00409A": {
               "weight_pct": 0.856,
               "shares": 14000,
               "shares_lot": 14
+            },
+            "00997A": {
+              "weight_pct": 1.0312,
+              "shares": 15000,
+              "shares_lot": 15
             },
             "00990A": {
               "weight_pct": 2.35,
@@ -111370,6 +112232,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 3.06,
+              "shares": 22100,
+              "shares_lot": 22.1
             }
           }
         }
@@ -111474,15 +112341,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 0.53,
-          "total_shares": 850000,
-          "total_lots": 850,
+          "held_etf_count": 5,
+          "avg_weight_pct": 0.5,
+          "total_shares": 917000,
+          "total_lots": 917,
           "etfs": {
             "00409A": {
               "weight_pct": 0.301,
               "shares": 50000,
               "shares_lot": 50
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
             },
             "00990A": {
               "weight_pct": 0,
@@ -111493,6 +112365,11 @@
               "weight_pct": 1.28,
               "shares": 800000,
               "shares_lot": 800
+            },
+            "00412A": {
+              "weight_pct": 0.91,
+              "shares": 67000,
+              "shares_lot": 67
             }
           }
         }
@@ -111607,8 +112484,8 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 1.11,
+          "held_etf_count": 5,
+          "avg_weight_pct": 0.89,
           "total_shares": 33591,
           "total_lots": 33.6,
           "etfs": {
@@ -111616,6 +112493,11 @@
               "weight_pct": 0.22,
               "shares": 4500,
               "shares_lot": 4.5
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
             },
             "00990A": {
               "weight_pct": 0,
@@ -111715,8 +112597,8 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 1.4,
+          "held_etf_count": 3,
+          "avg_weight_pct": 0.93,
           "total_shares": 130500,
           "total_lots": 130.5,
           "etfs": {
@@ -111724,6 +112606,11 @@
               "weight_pct": 0.691,
               "shares": 10500,
               "shares_lot": 10.5
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
             },
             "00988A": {
               "weight_pct": 2.11,
@@ -112049,15 +112936,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 0.68,
-          "total_shares": 231000,
-          "total_lots": 231,
+          "held_etf_count": 5,
+          "avg_weight_pct": 0.61,
+          "total_shares": 244300,
+          "total_lots": 244.3,
           "etfs": {
             "00409A": {
               "weight_pct": 0.033,
               "shares": 1000,
               "shares_lot": 1
+            },
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
             },
             "00990A": {
               "weight_pct": 0,
@@ -112068,6 +112960,11 @@
               "weight_pct": 2.0,
               "shares": 230000,
               "shares_lot": 230
+            },
+            "00402A": {
+              "weight_pct": 1.04,
+              "shares": 13300,
+              "shares_lot": 13.3
             }
           }
         }
@@ -112152,15 +113049,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 2.42,
-          "total_shares": 70000,
-          "total_lots": 70,
+          "held_etf_count": 3,
+          "avg_weight_pct": 2.51,
+          "total_shares": 79224,
+          "total_lots": 79.2,
           "etfs": {
             "00409A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00997A": {
+              "weight_pct": 2.6914,
+              "shares": 9224,
+              "shares_lot": 9.2
             },
             "00988A": {
               "weight_pct": 4.85,
@@ -112343,15 +113245,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 0.09,
-          "total_shares": 4800,
-          "total_lots": 4.8,
+          "held_etf_count": 5,
+          "avg_weight_pct": 0.23,
+          "total_shares": 32346,
+          "total_lots": 32.3,
           "etfs": {
             "00409A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00997A": {
+              "weight_pct": 0.7966,
+              "shares": 27546,
+              "shares_lot": 27.5
             },
             "00990A": {
               "weight_pct": 0,
@@ -112569,15 +113476,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 1.0,
-          "total_shares": 285600,
-          "total_lots": 285.6,
+          "held_etf_count": 6,
+          "avg_weight_pct": 1.79,
+          "total_shares": 578928,
+          "total_lots": 578.9,
           "etfs": {
             "00409A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00997A": {
+              "weight_pct": 4.4049,
+              "shares": 231528,
+              "shares_lot": 231.5
             },
             "00990A": {
               "weight_pct": 1.49,
@@ -112593,6 +113505,11 @@
               "weight_pct": 2.49,
               "shares": 49400,
               "shares_lot": 49.4
+            },
+            "00412A": {
+              "weight_pct": 2.37,
+              "shares": 61800,
+              "shares_lot": 61.8
             }
           }
         }
@@ -113498,12 +114415,17 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
+          "held_etf_count": 2,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
           "total_lots": 0,
           "etfs": {
             "00409A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
+            "00997A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
@@ -113699,15 +114621,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 4,
-          "avg_weight_pct": 0.05,
-          "total_shares": 411,
-          "total_lots": 0.4,
+          "held_etf_count": 6,
+          "avg_weight_pct": 0.54,
+          "total_shares": 12984,
+          "total_lots": 13.0,
           "etfs": {
             "00409A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00997A": {
+              "weight_pct": 1.9656,
+              "shares": 9973,
+              "shares_lot": 10.0
             },
             "00990A": {
               "weight_pct": 0,
@@ -113718,6 +114645,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 1.09,
+              "shares": 2600,
+              "shares_lot": 2.6
             },
             "00411A": {
               "weight_pct": 0.21,
@@ -115066,6 +115998,20 @@
               "shares_lot": 174.1
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 2.97,
+          "total_shares": 174101,
+          "total_lots": 174.1,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 2.9725,
+              "shares": 174101,
+              "shares_lot": 174.1
+            }
+          }
         }
       ]
     },
@@ -115143,11 +116089,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 0.15,
-          "total_shares": 465,
-          "total_lots": 0.5,
+          "held_etf_count": 3,
+          "avg_weight_pct": 0.92,
+          "total_shares": 49091,
+          "total_lots": 49.1,
           "etfs": {
+            "00997A": {
+              "weight_pct": 2.4549,
+              "shares": 48626,
+              "shares_lot": 48.6
+            },
             "00983A": {
               "weight_pct": 0.31,
               "shares": 465,
@@ -115256,11 +116207,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 4,
+          "avg_weight_pct": 0.75,
+          "total_shares": 20127,
+          "total_lots": 20.1,
           "etfs": {
+            "00997A": {
+              "weight_pct": 1.1873,
+              "shares": 11727,
+              "shares_lot": 11.7
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
@@ -115270,6 +116226,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 1.8,
+              "shares": 8400,
+              "shares_lot": 8.4
             }
           }
         }
@@ -115354,15 +116315,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 1.64,
-          "total_shares": 291600,
-          "total_lots": 291.6,
+          "held_etf_count": 4,
+          "avg_weight_pct": 1.91,
+          "total_shares": 337347,
+          "total_lots": 337.3,
           "etfs": {
             "00409A": {
               "weight_pct": 0.476,
               "shares": 9000,
               "shares_lot": 9
+            },
+            "00997A": {
+              "weight_pct": 2.7182,
+              "shares": 45747,
+              "shares_lot": 45.7
             },
             "00990A": {
               "weight_pct": 1.63,
@@ -115472,15 +116438,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 1.84,
-          "total_shares": 25228,
-          "total_lots": 25.2,
+          "held_etf_count": 4,
+          "avg_weight_pct": 1.54,
+          "total_shares": 62201,
+          "total_lots": 62.2,
           "etfs": {
+            "00997A": {
+              "weight_pct": 1.6373,
+              "shares": 29673,
+              "shares_lot": 29.7
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 0.85,
+              "shares": 7300,
+              "shares_lot": 7.3
             },
             "00411A": {
               "weight_pct": 3.68,
@@ -115585,11 +116561,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 4,
+          "avg_weight_pct": 0.49,
+          "total_shares": 22363,
+          "total_lots": 22.4,
           "etfs": {
+            "00997A": {
+              "weight_pct": 1.0928,
+              "shares": 16363,
+              "shares_lot": 16.4
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
@@ -115599,6 +116580,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 0.85,
+              "shares": 6000,
+              "shares_lot": 6
             }
           }
         }
@@ -115646,6 +116632,20 @@
           "etfs": {
             "00997A": {
               "weight_pct": 1.1489,
+              "shares": 52516,
+              "shares_lot": 52.5
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.18,
+          "total_shares": 52516,
+          "total_lots": 52.5,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 1.1843,
               "shares": 52516,
               "shares_lot": 52.5
             }
@@ -115717,11 +116717,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.44,
+          "total_shares": 13073,
+          "total_lots": 13.1,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0.8873,
+              "shares": 13073,
+              "shares_lot": 13.1
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
@@ -115792,6 +116797,25 @@
               "shares_lot": 8.3
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 2,
+          "avg_weight_pct": 1.4,
+          "total_shares": 17077,
+          "total_lots": 17.1,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0.9329,
+              "shares": 8777,
+              "shares_lot": 8.8
+            },
+            "00402A": {
+              "weight_pct": 1.87,
+              "shares": 8300,
+              "shares_lot": 8.3
+            }
+          }
         }
       ]
     },
@@ -115837,6 +116861,20 @@
           "etfs": {
             "00997A": {
               "weight_pct": 0.9424,
+              "shares": 31992,
+              "shares_lot": 32.0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.97,
+          "total_shares": 31992,
+          "total_lots": 32.0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0.9655,
               "shares": 31992,
               "shares_lot": 32.0
             }
@@ -115890,6 +116928,20 @@
               "shares_lot": 10.9
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.88,
+          "total_shares": 10935,
+          "total_lots": 10.9,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0.8831,
+              "shares": 10935,
+              "shares_lot": 10.9
+            }
+          }
         }
       ]
     },
@@ -115935,6 +116987,20 @@
           "etfs": {
             "00997A": {
               "weight_pct": 0.7584,
+              "shares": 12136,
+              "shares_lot": 12.1
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.76,
+          "total_shares": 12136,
+          "total_lots": 12.1,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0.7601,
               "shares": 12136,
               "shares_lot": 12.1
             }
@@ -116026,15 +117092,30 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 4,
+          "avg_weight_pct": 0.99,
+          "total_shares": 30954,
+          "total_lots": 31.0,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0.7338,
+              "shares": 9954,
+              "shares_lot": 10.0
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 2.28,
+              "shares": 14600,
+              "shares_lot": 14.6
+            },
+            "00412A": {
+              "weight_pct": 0.95,
+              "shares": 6400,
+              "shares_lot": 6.4
             }
           }
         }
@@ -116104,11 +117185,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.33,
+          "total_shares": 4854,
+          "total_lots": 4.9,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0.6501,
+              "shares": 4854,
+              "shares_lot": 4.9
+            },
             "00988A": {
               "weight_pct": 0,
               "shares": 0,
@@ -116197,15 +117283,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 3,
+          "avg_weight_pct": 0.72,
+          "total_shares": 26545,
+          "total_lots": 26.5,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0.5594,
+              "shares": 11245,
+              "shares_lot": 11.2
+            },
             "00988A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 1.61,
+              "shares": 15300,
+              "shares_lot": 15.3
             }
           }
         }
@@ -116268,6 +117364,25 @@
             },
             "00402A": {
               "weight_pct": 1.55,
+              "shares": 7800,
+              "shares_lot": 7.8
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.96,
+          "total_shares": 12205,
+          "total_lots": 12.2,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0.4016,
+              "shares": 4405,
+              "shares_lot": 4.4
+            },
+            "00402A": {
+              "weight_pct": 1.51,
               "shares": 7800,
               "shares_lot": 7.8
             }
@@ -116339,11 +117454,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.5,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.25,
           "total_shares": 227,
           "total_lots": 0.2,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00983A": {
               "weight_pct": 0.5,
               "shares": 227,
@@ -116417,11 +117537,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
+          "held_etf_count": 2,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
           "total_lots": 0,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
@@ -116477,6 +117602,20 @@
               "shares_lot": 0
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
         }
       ]
     },
@@ -116515,6 +117654,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -116593,11 +117746,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
+          "held_etf_count": 2,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
           "total_lots": 0,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00988A": {
               "weight_pct": 0,
               "shares": 0,
@@ -116642,6 +117800,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -116735,15 +117907,25 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 3,
+          "avg_weight_pct": 0.18,
+          "total_shares": 2400,
+          "total_lots": 2.4,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 0.55,
+              "shares": 2400,
+              "shares_lot": 2.4
             }
           }
         }
@@ -116813,11 +117995,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
+          "held_etf_count": 2,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
           "total_lots": 0,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00988A": {
               "weight_pct": 0,
               "shares": 0,
@@ -116921,11 +118108,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 4,
+          "avg_weight_pct": 0.31,
+          "total_shares": 5500,
+          "total_lots": 5.5,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
@@ -116935,6 +118127,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 1.24,
+              "shares": 5500,
+              "shares_lot": 5.5
             }
           }
         }
@@ -116975,6 +118172,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -117035,6 +118246,20 @@
               "shares_lot": 0
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
         }
       ]
     },
@@ -117073,6 +118298,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -117166,11 +118405,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 4,
+          "avg_weight_pct": 0.35,
+          "total_shares": 18200,
+          "total_lots": 18.2,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
@@ -117180,6 +118424,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 1.41,
+              "shares": 18200,
+              "shares_lot": 18.2
             }
           }
         }
@@ -117220,6 +118469,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -117295,6 +118558,25 @@
               "shares_lot": 22.6
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.26,
+          "total_shares": 22600,
+          "total_lots": 22.6,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 0.52,
+              "shares": 22600,
+              "shares_lot": 22.6
+            }
+          }
         }
       ]
     },
@@ -117333,6 +118615,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -117441,11 +118737,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 3.58,
-          "total_shares": 82140,
-          "total_lots": 82.1,
+          "held_etf_count": 4,
+          "avg_weight_pct": 2.73,
+          "total_shares": 91240,
+          "total_lots": 91.2,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00990A": {
               "weight_pct": 5.24,
               "shares": 81400,
@@ -117455,6 +118756,11 @@
               "weight_pct": 1.91,
               "shares": 740,
               "shares_lot": 0.7
+            },
+            "00402A": {
+              "weight_pct": 3.75,
+              "shares": 9100,
+              "shares_lot": 9.1
             }
           }
         }
@@ -117524,11 +118830,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
+          "held_etf_count": 2,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
           "total_lots": 0,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00988A": {
               "weight_pct": 0,
               "shares": 0,
@@ -117617,11 +118928,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
+          "held_etf_count": 3,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
           "total_lots": 0,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
@@ -117682,6 +118998,20 @@
               "shares_lot": 0
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
         }
       ]
     },
@@ -117720,6 +119050,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -117780,6 +119124,20 @@
               "shares_lot": 0
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
         }
       ]
     },
@@ -117829,6 +119187,20 @@
               "shares_lot": 0
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
         }
       ]
     },
@@ -117867,6 +119239,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -117945,11 +119331,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 1.23,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.61,
           "total_shares": 129000,
           "total_lots": 129,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00990A": {
               "weight_pct": 1.23,
               "shares": 129000,
@@ -118023,11 +119414,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
+          "held_etf_count": 2,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
           "total_lots": 0,
           "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
             "00988A": {
               "weight_pct": 0,
               "shares": 0,
@@ -118072,6 +119468,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00997A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -118155,10 +119565,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 1.34,
-          "total_shares": 147823,
-          "total_lots": 147.8,
+          "held_etf_count": 3,
+          "avg_weight_pct": 1.33,
+          "total_shares": 162523,
+          "total_lots": 162.5,
           "etfs": {
             "00990A": {
               "weight_pct": 2.08,
@@ -118169,6 +119579,11 @@
               "weight_pct": 0.6,
               "shares": 5123,
               "shares_lot": 5.1
+            },
+            "00412A": {
+              "weight_pct": 1.31,
+              "shares": 14700,
+              "shares_lot": 14.7
             }
           }
         }
@@ -118268,10 +119683,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 3,
-          "avg_weight_pct": 2.77,
-          "total_shares": 212353,
-          "total_lots": 212.4,
+          "held_etf_count": 4,
+          "avg_weight_pct": 2.38,
+          "total_shares": 224453,
+          "total_lots": 224.5,
           "etfs": {
             "00990A": {
               "weight_pct": 3.17,
@@ -118282,6 +119697,11 @@
               "weight_pct": 5.15,
               "shares": 8253,
               "shares_lot": 8.3
+            },
+            "00402A": {
+              "weight_pct": 1.2,
+              "shares": 12100,
+              "shares_lot": 12.1
             },
             "00998A": {
               "weight_pct": 0,
@@ -118502,15 +119922,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 1.36,
-          "total_shares": 45160,
-          "total_lots": 45.2,
+          "held_etf_count": 2,
+          "avg_weight_pct": 1.33,
+          "total_shares": 51960,
+          "total_lots": 52.0,
           "etfs": {
             "00990A": {
               "weight_pct": 1.36,
               "shares": 45160,
               "shares_lot": 45.2
+            },
+            "00402A": {
+              "weight_pct": 1.31,
+              "shares": 6800,
+              "shares_lot": 6.8
             }
           }
         }
@@ -118711,15 +120136,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.62,
-          "total_shares": 80300,
-          "total_lots": 80.3,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.78,
+          "total_shares": 100100,
+          "total_lots": 100.1,
           "etfs": {
             "00990A": {
               "weight_pct": 0.62,
               "shares": 80300,
               "shares_lot": 80.3
+            },
+            "00412A": {
+              "weight_pct": 0.93,
+              "shares": 19800,
+              "shares_lot": 19.8
             }
           }
         }
@@ -119192,10 +120622,10 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 2,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 3,
+          "avg_weight_pct": 0.38,
+          "total_shares": 99200,
+          "total_lots": 99.2,
           "etfs": {
             "00990A": {
               "weight_pct": 0,
@@ -119206,6 +120636,11 @@
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 1.13,
+              "shares": 99200,
+              "shares_lot": 99.2
             }
           }
         }
@@ -119411,15 +120846,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.5,
+          "total_shares": 4900,
+          "total_lots": 4.9,
           "etfs": {
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 1.0,
+              "shares": 4900,
+              "shares_lot": 4.9
             }
           }
         }
@@ -120282,15 +121722,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.58,
+          "total_shares": 1200,
+          "total_lots": 1.2,
           "etfs": {
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 1.17,
+              "shares": 1200,
+              "shares_lot": 1.2
             }
           }
         }
@@ -120569,15 +122014,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.18,
+          "total_shares": 25100,
+          "total_lots": 25.1,
           "etfs": {
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 0.37,
+              "shares": 25100,
+              "shares_lot": 25.1
             }
           }
         }
@@ -121025,12 +122475,17 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
+          "held_etf_count": 2,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
           "total_lots": 0,
           "etfs": {
             "00990A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            },
+            "00402A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
@@ -121521,15 +122976,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.17,
+          "total_shares": 1200,
+          "total_lots": 1.2,
           "etfs": {
             "00990A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 0.35,
+              "shares": 1200,
+              "shares_lot": 1.2
             }
           }
         }
@@ -125424,15 +126884,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 1.61,
-          "total_shares": 1323,
-          "total_lots": 1.3,
+          "held_etf_count": 2,
+          "avg_weight_pct": 2.46,
+          "total_shares": 18423,
+          "total_lots": 18.4,
           "etfs": {
             "00983A": {
               "weight_pct": 1.61,
               "shares": 1323,
               "shares_lot": 1.3
+            },
+            "00402A": {
+              "weight_pct": 3.31,
+              "shares": 17100,
+              "shares_lot": 17.1
             }
           }
         }
@@ -126361,15 +127826,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.23,
+          "total_shares": 7700,
+          "total_lots": 7.7,
           "etfs": {
             "00983A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 0.47,
+              "shares": 7700,
+              "shares_lot": 7.7
             }
           }
         }
@@ -127132,15 +128602,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.71,
+          "total_shares": 14362,
+          "total_lots": 14.4,
           "etfs": {
             "00988A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00412A": {
+              "weight_pct": 1.42,
+              "shares": 14362,
+              "shares_lot": 14.4
             }
           }
         }
@@ -127966,15 +129441,20 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.23,
+          "total_shares": 4300,
+          "total_lots": 4.3,
           "etfs": {
             "00988A": {
               "weight_pct": 0,
               "shares": 0,
               "shares_lot": 0
+            },
+            "00402A": {
+              "weight_pct": 0.46,
+              "shares": 4300,
+              "shares_lot": 4.3
             }
           }
         }
@@ -133002,6 +134482,20 @@
               "shares_lot": 30.5
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.25,
+          "total_shares": 30500,
+          "total_lots": 30.5,
+          "etfs": {
+            "00402A": {
+              "weight_pct": 1.25,
+              "shares": 30500,
+              "shares_lot": 30.5
+            }
+          }
         }
       ]
     },
@@ -133047,6 +134541,20 @@
           "etfs": {
             "00402A": {
               "weight_pct": 1.24,
+              "shares": 12800,
+              "shares_lot": 12.8
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.15,
+          "total_shares": 12800,
+          "total_lots": 12.8,
+          "etfs": {
+            "00402A": {
+              "weight_pct": 1.15,
               "shares": 12800,
               "shares_lot": 12.8
             }
@@ -133118,11 +134626,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 3.0,
-          "total_shares": 17000,
-          "total_lots": 17,
+          "held_etf_count": 2,
+          "avg_weight_pct": 2.06,
+          "total_shares": 22200,
+          "total_lots": 22.2,
           "etfs": {
+            "00402A": {
+              "weight_pct": 1.12,
+              "shares": 5200,
+              "shares_lot": 5.2
+            },
             "00998A": {
               "weight_pct": 3.003,
               "shares": 17000,
@@ -133178,6 +134691,20 @@
               "shares_lot": 24.1
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.94,
+          "total_shares": 24100,
+          "total_lots": 24.1,
+          "etfs": {
+            "00402A": {
+              "weight_pct": 0.94,
+              "shares": 24100,
+              "shares_lot": 24.1
+            }
+          }
         }
       ]
     },
@@ -133223,6 +134750,20 @@
           "etfs": {
             "00402A": {
               "weight_pct": 0.58,
+              "shares": 4900,
+              "shares_lot": 4.9
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.57,
+          "total_shares": 4900,
+          "total_lots": 4.9,
+          "etfs": {
+            "00402A": {
+              "weight_pct": 0.57,
               "shares": 4900,
               "shares_lot": 4.9
             }
@@ -133276,6 +134817,20 @@
               "shares_lot": 3.8
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.52,
+          "total_shares": 3800,
+          "total_lots": 3.8,
+          "etfs": {
+            "00402A": {
+              "weight_pct": 0.52,
+              "shares": 3800,
+              "shares_lot": 3.8
+            }
+          }
         }
       ]
     },
@@ -133325,6 +134880,20 @@
               "shares_lot": 5.6
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.49,
+          "total_shares": 5600,
+          "total_lots": 5.6,
+          "etfs": {
+            "00402A": {
+              "weight_pct": 0.49,
+              "shares": 5600,
+              "shares_lot": 5.6
+            }
+          }
         }
       ]
     },
@@ -133363,6 +134932,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.38,
+          "total_shares": 1800,
+          "total_lots": 1.8,
+          "etfs": {
+            "00402A": {
+              "weight_pct": 0.38,
+              "shares": 1800,
+              "shares_lot": 1.8
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.38,
           "total_shares": 1800,
@@ -133441,11 +135024,16 @@
         },
         {
           "date": "2026-10-12",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.0,
-          "total_shares": 0,
-          "total_lots": 0,
+          "held_etf_count": 2,
+          "avg_weight_pct": 0.15,
+          "total_shares": 7700,
+          "total_lots": 7.7,
           "etfs": {
+            "00402A": {
+              "weight_pct": 0.31,
+              "shares": 7700,
+              "shares_lot": 7.7
+            },
             "00411A": {
               "weight_pct": 0,
               "shares": 0,
@@ -133490,6 +135078,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00402A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -133550,6 +135152,20 @@
               "shares_lot": 0
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00402A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
         }
       ]
     },
@@ -133599,6 +135215,20 @@
               "shares_lot": 0
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00402A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
         }
       ]
     },
@@ -133637,6 +135267,20 @@
         },
         {
           "date": "2026-10-08",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.0,
+          "total_shares": 0,
+          "total_lots": 0,
+          "etfs": {
+            "00402A": {
+              "weight_pct": 0,
+              "shares": 0,
+              "shares_lot": 0
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
           "held_etf_count": 1,
           "avg_weight_pct": 0.0,
           "total_shares": 0,
@@ -159027,6 +160671,20 @@
               "shares_lot": 184.2
             }
           }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.45,
+          "total_shares": 184200,
+          "total_lots": 184.2,
+          "etfs": {
+            "00412A": {
+              "weight_pct": 1.45,
+              "shares": 184200,
+              "shares_lot": 184.2
+            }
+          }
         }
       ]
     },
@@ -159044,6 +160702,20 @@
           "etfs": {
             "00412A": {
               "weight_pct": 0.93,
+              "shares": 16000,
+              "shares_lot": 16
+            }
+          }
+        },
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.94,
+          "total_shares": 16000,
+          "total_lots": 16,
+          "etfs": {
+            "00412A": {
+              "weight_pct": 0.94,
               "shares": 16000,
               "shares_lot": 16
             }
@@ -159417,6 +161089,69 @@
               "weight_pct": 0.022,
               "shares": 60000,
               "shares_lot": 60
+            }
+          }
+        }
+      ]
+    },
+    "002463 C2": {
+      "stock_id": "002463 C2",
+      "stock_name": "WUS Printed Circuit Kunshan Co Ltd",
+      "stock_display": "WUS Printed Circuit Kunshan Co Ltd(002463 C2)",
+      "history": [
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.98,
+          "total_shares": 113700,
+          "total_lots": 113.7,
+          "etfs": {
+            "00412A": {
+              "weight_pct": 0.98,
+              "shares": 113700,
+              "shares_lot": 113.7
+            }
+          }
+        }
+      ]
+    },
+    "LSCC US": {
+      "stock_id": "LSCC US",
+      "stock_name": "Lattice Semiconductor Corp",
+      "stock_display": "Lattice Semiconductor Corp(LSCC US)",
+      "history": [
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.98,
+          "total_shares": 15100,
+          "total_lots": 15.1,
+          "etfs": {
+            "00412A": {
+              "weight_pct": 0.98,
+              "shares": 15100,
+              "shares_lot": 15.1
+            }
+          }
+        }
+      ]
+    },
+    "600183 C1": {
+      "stock_id": "600183 C1",
+      "stock_name": "Shengyi Technology Co Ltd",
+      "stock_display": "Shengyi Technology Co Ltd(600183 C1)",
+      "history": [
+        {
+          "date": "2026-10-12",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.97,
+          "total_shares": 102800,
+          "total_lots": 102.8,
+          "etfs": {
+            "00412A": {
+              "weight_pct": 0.97,
+              "shares": 102800,
+              "shares_lot": 102.8
             }
           }
         }
