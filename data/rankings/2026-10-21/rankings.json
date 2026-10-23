@@ -1,7 +1,7 @@
 {
   "meta": {
     "data_date": "2026-10-21",
-    "generated_at": "2026-10-22T23:30:46+08:00",
+    "generated_at": "2026-10-23T23:23:33+08:00",
     "source": "matrix"
   },
   "rankings": {
@@ -111,7 +111,7 @@
         "stock_name": "布魯姆能源公司",
         "stock_display": "布魯姆能源公司(BE US)",
         "add_etf_count": 3,
-        "avg_weight_pct": 6.02,
+        "avg_weight_pct": 5.05,
         "total_shares_change_lot": 83.2,
         "strong_add_flag": false,
         "flag_text": ""
@@ -271,7 +271,7 @@
         "stock_name": "台積電",
         "stock_display": "台積電(2330)",
         "add_etf_count": 2,
-        "avg_weight_pct": 9.25,
+        "avg_weight_pct": 9.2,
         "total_shares_change_lot": 29.0,
         "strong_add_flag": false,
         "flag_text": ""
@@ -281,7 +281,7 @@
         "stock_name": "超微半導體公司",
         "stock_display": "超微半導體公司(AMD US)",
         "add_etf_count": 2,
-        "avg_weight_pct": 3.97,
+        "avg_weight_pct": 4.09,
         "total_shares_change_lot": 26.4,
         "strong_add_flag": false,
         "flag_text": ""
@@ -308,20 +308,20 @@
       },
       {
         "stock_id": "AMZN US",
-        "stock_name": "亞馬遜公司",
-        "stock_display": "亞馬遜公司(AMZN US)",
+        "stock_name": "AMAZON. COM INC",
+        "stock_display": "AMAZON. COM INC(AMZN US)",
         "add_etf_count": 2,
-        "avg_weight_pct": 1.78,
+        "avg_weight_pct": 2.31,
         "total_shares_change_lot": 19.8,
         "strong_add_flag": false,
         "flag_text": ""
       },
       {
         "stock_id": "GOOGL US",
-        "stock_name": "Alphabet公司",
-        "stock_display": "Alphabet公司(GOOGL US)",
+        "stock_name": "Alphabet 公司",
+        "stock_display": "Alphabet 公司(GOOGL US)",
         "add_etf_count": 2,
-        "avg_weight_pct": 1.35,
+        "avg_weight_pct": 2.14,
         "total_shares_change_lot": 16.0,
         "strong_add_flag": false,
         "flag_text": ""
@@ -341,7 +341,7 @@
         "stock_name": "禮來公司",
         "stock_display": "禮來公司(LLY US)",
         "add_etf_count": 2,
-        "avg_weight_pct": 1.37,
+        "avg_weight_pct": 2.06,
         "total_shares_change_lot": 1.8,
         "strong_add_flag": false,
         "flag_text": ""
@@ -361,7 +361,7 @@
         "stock_name": "聯發科",
         "stock_display": "聯發科(2454)",
         "add_etf_count": 2,
-        "avg_weight_pct": 4.28,
+        "avg_weight_pct": 4.17,
         "total_shares_change_lot": -55.0,
         "strong_add_flag": false,
         "flag_text": ""
@@ -671,7 +671,7 @@
         "stock_name": "帕蘭提爾科技公司",
         "stock_display": "帕蘭提爾科技公司(PLTR US)",
         "add_etf_count": 1,
-        "avg_weight_pct": 5.06,
+        "avg_weight_pct": 4.4,
         "total_shares_change_lot": 40.0,
         "strong_add_flag": false,
         "flag_text": ""
@@ -758,10 +758,10 @@
       },
       {
         "stock_id": "NVDA US",
-        "stock_name": "輝達公司",
-        "stock_display": "輝達公司(NVDA US)",
+        "stock_name": "輝達",
+        "stock_display": "輝達(NVDA US)",
         "add_etf_count": 1,
-        "avg_weight_pct": 5.22,
+        "avg_weight_pct": 5.46,
         "total_shares_change_lot": 0.3,
         "strong_add_flag": false,
         "flag_text": ""
@@ -1550,8 +1550,8 @@
         "stock_id": "2330",
         "stock_name": "台積電",
         "stock_display": "台積電(2330)",
-        "unchanged_etf_count": 23,
-        "avg_weight_pct": 9.25,
+        "unchanged_etf_count": 24,
+        "avg_weight_pct": 9.2,
         "core_holding_flag": true,
         "flag_text": "💎 核心續抱 >3%"
       },
@@ -1561,6 +1561,15 @@
         "stock_display": "台光電(2383)",
         "unchanged_etf_count": 22,
         "avg_weight_pct": 4.31,
+        "core_holding_flag": true,
+        "flag_text": "💎 核心續抱 >3%"
+      },
+      {
+        "stock_id": "2454",
+        "stock_name": "聯發科",
+        "stock_display": "聯發科(2454)",
+        "unchanged_etf_count": 22,
+        "avg_weight_pct": 4.17,
         "core_holding_flag": true,
         "flag_text": "💎 核心續抱 >3%"
       },
@@ -1590,15 +1599,6 @@
         "avg_weight_pct": 0.81,
         "core_holding_flag": false,
         "flag_text": ""
-      },
-      {
-        "stock_id": "2454",
-        "stock_name": "聯發科",
-        "stock_display": "聯發科(2454)",
-        "unchanged_etf_count": 21,
-        "avg_weight_pct": 4.28,
-        "core_holding_flag": true,
-        "flag_text": "💎 核心續抱 >3%"
       },
       {
         "stock_id": "6515",
@@ -2339,6 +2339,33 @@
         "flag_text": ""
       },
       {
+        "stock_id": "NET US",
+        "stock_name": "Cloudflare公司",
+        "stock_display": "Cloudflare公司(NET US)",
+        "unchanged_etf_count": 6,
+        "avg_weight_pct": 2.17,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "SNOW US",
+        "stock_name": "Snowflake公司",
+        "stock_display": "Snowflake公司(SNOW US)",
+        "unchanged_etf_count": 6,
+        "avg_weight_pct": 2.14,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "HOOD US",
+        "stock_name": "羅賓漢市場公司",
+        "stock_display": "羅賓漢市場公司(HOOD US)",
+        "unchanged_etf_count": 6,
+        "avg_weight_pct": 1.39,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "6505",
         "stock_name": "台塑化",
         "stock_display": "台塑化(6505)",
@@ -2519,20 +2546,56 @@
         "flag_text": ""
       },
       {
-        "stock_id": "NET US",
-        "stock_name": "Cloudflare公司",
-        "stock_display": "Cloudflare公司(NET US)",
+        "stock_id": "NVDA US",
+        "stock_name": "輝達",
+        "stock_display": "輝達(NVDA US)",
         "unchanged_etf_count": 5,
-        "avg_weight_pct": 2.16,
-        "core_holding_flag": false,
-        "flag_text": ""
+        "avg_weight_pct": 5.46,
+        "core_holding_flag": true,
+        "flag_text": "💎 核心續抱 >3%"
       },
       {
-        "stock_id": "SNOW US",
-        "stock_name": "Snowflake公司",
-        "stock_display": "Snowflake公司(SNOW US)",
+        "stock_id": "PLTR US",
+        "stock_name": "帕蘭提爾科技公司",
+        "stock_display": "帕蘭提爾科技公司(PLTR US)",
         "unchanged_etf_count": 5,
-        "avg_weight_pct": 2.14,
+        "avg_weight_pct": 4.4,
+        "core_holding_flag": true,
+        "flag_text": "💎 核心續抱 >3%"
+      },
+      {
+        "stock_id": "LITE US",
+        "stock_name": "魯門特姆控股公司",
+        "stock_display": "魯門特姆控股公司(LITE US)",
+        "unchanged_etf_count": 5,
+        "avg_weight_pct": 4.3,
+        "core_holding_flag": true,
+        "flag_text": "💎 核心續抱 >3%"
+      },
+      {
+        "stock_id": "MSFT US",
+        "stock_name": "Microsoft Corp",
+        "stock_display": "Microsoft Corp(MSFT US)",
+        "unchanged_etf_count": 5,
+        "avg_weight_pct": 3.57,
+        "core_holding_flag": true,
+        "flag_text": "💎 核心續抱 >3%"
+      },
+      {
+        "stock_id": "CRWD US",
+        "stock_name": "Crowdstrike控股公司",
+        "stock_display": "Crowdstrike控股公司(CRWD US)",
+        "unchanged_etf_count": 5,
+        "avg_weight_pct": 3.44,
+        "core_holding_flag": true,
+        "flag_text": "💎 核心續抱 >3%"
+      },
+      {
+        "stock_id": "MU US",
+        "stock_name": "美光科技公司",
+        "stock_display": "美光科技公司(MU US)",
+        "unchanged_etf_count": 5,
+        "avg_weight_pct": 2.35,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -2546,20 +2609,20 @@
         "flag_text": ""
       },
       {
-        "stock_id": "HOOD US",
-        "stock_name": "羅賓漢市場公司",
-        "stock_display": "羅賓漢市場公司(HOOD US)",
-        "unchanged_etf_count": 5,
-        "avg_weight_pct": 1.53,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
         "stock_id": "2890",
         "stock_name": "永豐金",
         "stock_display": "永豐金(2890)",
         "unchanged_etf_count": 5,
         "avg_weight_pct": 0.93,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "NTRA US",
+        "stock_name": "那提拉公司",
+        "stock_display": "那提拉公司(NTRA US)",
+        "unchanged_etf_count": 5,
+        "avg_weight_pct": 0.74,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -2627,6 +2690,24 @@
         "flag_text": ""
       },
       {
+        "stock_id": "COHR US",
+        "stock_name": "連貫公司",
+        "stock_display": "連貫公司(COHR US)",
+        "unchanged_etf_count": 5,
+        "avg_weight_pct": 0.0,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "SNDK US",
+        "stock_name": "晟碟公司（德拉瓦州）",
+        "stock_display": "晟碟公司（德拉瓦州）(SNDK US)",
+        "unchanged_etf_count": 5,
+        "avg_weight_pct": 0.0,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "TLTW US",
         "stock_name": "iShares 20+ Year Treasury Bo",
         "stock_display": "iShares 20+ Year Treasury Bo(TLTW US)",
@@ -2636,47 +2717,11 @@
         "flag_text": "💎 核心續抱 >3%"
       },
       {
-        "stock_id": "NVDA US",
-        "stock_name": "輝達公司",
-        "stock_display": "輝達公司(NVDA US)",
+        "stock_id": "AMD US",
+        "stock_name": "超微半導體公司",
+        "stock_display": "超微半導體公司(AMD US)",
         "unchanged_etf_count": 4,
-        "avg_weight_pct": 5.22,
-        "core_holding_flag": true,
-        "flag_text": "💎 核心續抱 >3%"
-      },
-      {
-        "stock_id": "PLTR US",
-        "stock_name": "帕蘭提爾科技公司",
-        "stock_display": "帕蘭提爾科技公司(PLTR US)",
-        "unchanged_etf_count": 4,
-        "avg_weight_pct": 5.06,
-        "core_holding_flag": true,
-        "flag_text": "💎 核心續抱 >3%"
-      },
-      {
-        "stock_id": "LITE US",
-        "stock_name": "魯門特姆控股公司",
-        "stock_display": "魯門特姆控股公司(LITE US)",
-        "unchanged_etf_count": 4,
-        "avg_weight_pct": 4.37,
-        "core_holding_flag": true,
-        "flag_text": "💎 核心續抱 >3%"
-      },
-      {
-        "stock_id": "MSFT US",
-        "stock_name": "微軟公司",
-        "stock_display": "微軟公司(MSFT US)",
-        "unchanged_etf_count": 4,
-        "avg_weight_pct": 3.66,
-        "core_holding_flag": true,
-        "flag_text": "💎 核心續抱 >3%"
-      },
-      {
-        "stock_id": "CRWD US",
-        "stock_name": "Crowdstrike控股公司",
-        "stock_display": "Crowdstrike控股公司(CRWD US)",
-        "unchanged_etf_count": 4,
-        "avg_weight_pct": 3.21,
+        "avg_weight_pct": 4.09,
         "core_holding_flag": true,
         "flag_text": "💎 核心續抱 >3%"
       },
@@ -2699,6 +2744,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "TSLA US",
+        "stock_name": "特斯拉公司",
+        "stock_display": "特斯拉公司(TSLA US)",
+        "unchanged_etf_count": 4,
+        "avg_weight_pct": 2.47,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "SHOP US",
         "stock_name": "Shopify公司",
         "stock_display": "Shopify公司(SHOP US)",
@@ -2708,11 +2762,20 @@
         "flag_text": ""
       },
       {
-        "stock_id": "MU US",
-        "stock_name": "美光科技公司",
-        "stock_display": "美光科技公司(MU US)",
+        "stock_id": "GOOGL US",
+        "stock_name": "Alphabet 公司",
+        "stock_display": "Alphabet 公司(GOOGL US)",
         "unchanged_etf_count": 4,
-        "avg_weight_pct": 1.83,
+        "avg_weight_pct": 2.14,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "MRVL US",
+        "stock_name": "Marvell Technology Inc",
+        "stock_display": "Marvell Technology Inc(MRVL US)",
+        "unchanged_etf_count": 4,
+        "avg_weight_pct": 1.51,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -2753,11 +2816,29 @@
         "flag_text": ""
       },
       {
+        "stock_id": "AVGO US",
+        "stock_name": "博通公司",
+        "stock_display": "博通公司(AVGO US)",
+        "unchanged_etf_count": 4,
+        "avg_weight_pct": 1.3,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "1815",
         "stock_name": "富喬",
         "stock_display": "富喬(1815)",
         "unchanged_etf_count": 4,
         "avg_weight_pct": 1.27,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "DDOG US",
+        "stock_name": "數據狗公司",
+        "stock_display": "數據狗公司(DDOG US)",
+        "unchanged_etf_count": 4,
+        "avg_weight_pct": 1.2,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -2801,15 +2882,6 @@
         "stock_id": "6278",
         "stock_name": "台表科",
         "stock_display": "台表科(6278)",
-        "unchanged_etf_count": 4,
-        "avg_weight_pct": 0.74,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
-        "stock_id": "NTRA US",
-        "stock_name": "那提拉公司",
-        "stock_display": "那提拉公司(NTRA US)",
         "unchanged_etf_count": 4,
         "avg_weight_pct": 0.74,
         "core_holding_flag": false,
@@ -2879,6 +2951,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "TER US",
+        "stock_name": "泰瑞達公司",
+        "stock_display": "泰瑞達公司(TER US)",
+        "unchanged_etf_count": 4,
+        "avg_weight_pct": 0.41,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "2618",
         "stock_name": "長榮航空",
         "stock_display": "長榮航空(2618)",
@@ -2900,6 +2981,15 @@
         "stock_id": "6121",
         "stock_name": "新普科技",
         "stock_display": "新普科技(6121)",
+        "unchanged_etf_count": 4,
+        "avg_weight_pct": 0.33,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "TSEM US",
+        "stock_name": "塔爾半導體有限公司",
+        "stock_display": "塔爾半導體有限公司(TSEM US)",
         "unchanged_etf_count": 4,
         "avg_weight_pct": 0.33,
         "core_holding_flag": false,
@@ -3014,9 +3104,9 @@
         "flag_text": ""
       },
       {
-        "stock_id": "COHR US",
-        "stock_name": "高意公司",
-        "stock_display": "高意公司(COHR US)",
+        "stock_id": "CRDO US",
+        "stock_name": "Credo Technology Group Holding",
+        "stock_display": "Credo Technology Group Holding(CRDO US)",
         "unchanged_etf_count": 4,
         "avg_weight_pct": 0.0,
         "core_holding_flag": false,
@@ -3059,15 +3149,6 @@
         "flag_text": ""
       },
       {
-        "stock_id": "SNDK US",
-        "stock_name": "晟碟公司（德拉瓦州）",
-        "stock_display": "晟碟公司（德拉瓦州）(SNDK US)",
-        "unchanged_etf_count": 4,
-        "avg_weight_pct": 0.0,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
         "stock_id": "STX US",
         "stock_name": "希捷科技控股公開有限公司",
         "stock_display": "希捷科技控股公開有限公司(STX US)",
@@ -3095,24 +3176,6 @@
         "flag_text": "💎 核心續抱 >3%"
       },
       {
-        "stock_id": "AMD US",
-        "stock_name": "超微半導體公司",
-        "stock_display": "超微半導體公司(AMD US)",
-        "unchanged_etf_count": 3,
-        "avg_weight_pct": 3.97,
-        "core_holding_flag": true,
-        "flag_text": "💎 核心續抱 >3%"
-      },
-      {
-        "stock_id": "TSLA US",
-        "stock_name": "特斯拉公司",
-        "stock_display": "特斯拉公司(TSLA US)",
-        "unchanged_etf_count": 3,
-        "avg_weight_pct": 3.29,
-        "core_holding_flag": true,
-        "flag_text": "💎 核心續抱 >3%"
-      },
-      {
         "stock_id": "PANW US",
         "stock_name": "Palo Alto Networks Inc",
         "stock_display": "Palo Alto Networks Inc(PANW US)",
@@ -3131,11 +3194,11 @@
         "flag_text": ""
       },
       {
-        "stock_id": "MRVL US",
-        "stock_name": "Marvell Technology Inc",
-        "stock_display": "Marvell Technology Inc(MRVL US)",
+        "stock_id": "AMZN US",
+        "stock_name": "AMAZON. COM INC",
+        "stock_display": "AMAZON. COM INC(AMZN US)",
         "unchanged_etf_count": 3,
-        "avg_weight_pct": 2.02,
+        "avg_weight_pct": 2.31,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -3172,6 +3235,15 @@
         "stock_display": "BATSLN 7.081 08/02/53(US054989AD07)",
         "unchanged_etf_count": 3,
         "avg_weight_pct": 1.7,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "AAPL US",
+        "stock_name": "蘋果公司",
+        "stock_display": "蘋果公司(AAPL US)",
+        "unchanged_etf_count": 3,
+        "avg_weight_pct": 1.63,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -3221,15 +3293,6 @@
         "flag_text": ""
       },
       {
-        "stock_id": "GOOGL US",
-        "stock_name": "Alphabet公司",
-        "stock_display": "Alphabet公司(GOOGL US)",
-        "unchanged_etf_count": 3,
-        "avg_weight_pct": 1.35,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
         "stock_id": "US37045VAL45",
         "stock_name": "GM 6 3/4 04/01/46",
         "stock_display": "GM 6 3/4 04/01/46(US37045VAL45)",
@@ -3262,15 +3325,6 @@
         "stock_display": "名幸電子股份有限公司(6787 JP)",
         "unchanged_etf_count": 3,
         "avg_weight_pct": 1.24,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
-        "stock_id": "DDOG US",
-        "stock_name": "數據狗公司",
-        "stock_display": "數據狗公司(DDOG US)",
-        "unchanged_etf_count": 3,
-        "avg_weight_pct": 1.22,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -3509,15 +3563,6 @@
         "flag_text": ""
       },
       {
-        "stock_id": "AVGO US",
-        "stock_name": "BROADCOM INC",
-        "stock_display": "BROADCOM INC(AVGO US)",
-        "unchanged_etf_count": 3,
-        "avg_weight_pct": 0.51,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
         "stock_id": "6981 JP",
         "stock_name": "村田製作所有限公司",
         "stock_display": "村田製作所有限公司(6981 JP)",
@@ -3680,15 +3725,6 @@
         "flag_text": ""
       },
       {
-        "stock_id": "TER US",
-        "stock_name": "TERADYNE INC",
-        "stock_display": "TERADYNE INC(TER US)",
-        "unchanged_etf_count": 3,
-        "avg_weight_pct": 0.2,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
         "stock_id": "5871",
         "stock_name": "中租-KY",
         "stock_display": "中租-KY(5871)",
@@ -3710,15 +3746,6 @@
         "stock_id": "6271",
         "stock_name": "同欣電",
         "stock_display": "同欣電(6271)",
-        "unchanged_etf_count": 3,
-        "avg_weight_pct": 0.11,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
-        "stock_id": "TSEM US",
-        "stock_name": "塔爾半導體有限公司",
-        "stock_display": "塔爾半導體有限公司(TSEM US)",
         "unchanged_etf_count": 3,
         "avg_weight_pct": 0.11,
         "core_holding_flag": false,
@@ -3950,6 +3977,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "AMAT US",
+        "stock_name": "應用材料",
+        "stock_display": "應用材料(AMAT US)",
+        "unchanged_etf_count": 3,
+        "avg_weight_pct": 0.0,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "AXTI US",
         "stock_name": "AXT公司",
         "stock_display": "AXT公司(AXTI US)",
@@ -3959,18 +3995,18 @@
         "flag_text": ""
       },
       {
-        "stock_id": "CRDO US",
-        "stock_name": "Credo科技集團控股有限公司",
-        "stock_display": "Credo科技集團控股有限公司(CRDO US)",
+        "stock_id": "DA_USD",
+        "stock_name": "AFTER DEDUCTING SECURITIES PURCHASES AMOUNT",
+        "stock_display": "AFTER DEDUCTING SECURITIES PURCHASES AMOUNT(DA_USD)",
         "unchanged_etf_count": 3,
         "avg_weight_pct": 0.0,
         "core_holding_flag": false,
         "flag_text": ""
       },
       {
-        "stock_id": "DA_USD",
-        "stock_name": "AFTER DEDUCTING SECURITIES PURCHASES AMOUNT",
-        "stock_display": "AFTER DEDUCTING SECURITIES PURCHASES AMOUNT(DA_USD)",
+        "stock_id": "LRCX US",
+        "stock_name": "科林研發股份有限公司",
+        "stock_display": "科林研發股份有限公司(LRCX US)",
         "unchanged_etf_count": 3,
         "avg_weight_pct": 0.0,
         "core_holding_flag": false,
@@ -4045,6 +4081,15 @@
         "stock_display": "IShares LQD Premium Income+ ETF(LQDW US)",
         "unchanged_etf_count": 2,
         "avg_weight_pct": 8.33,
+        "core_holding_flag": true,
+        "flag_text": "💎 核心續抱 >3%"
+      },
+      {
+        "stock_id": "BE US",
+        "stock_name": "布魯姆能源公司",
+        "stock_display": "布魯姆能源公司(BE US)",
+        "unchanged_etf_count": 2,
+        "avg_weight_pct": 5.05,
         "core_holding_flag": true,
         "flag_text": "💎 核心續抱 >3%"
       },
@@ -4130,6 +4175,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "JPM US",
+        "stock_name": "摩根大通銀行",
+        "stock_display": "摩根大通銀行(JPM US)",
+        "unchanged_etf_count": 2,
+        "avg_weight_pct": 2.25,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "US406216AY74",
         "stock_name": "HAL 7.45 09/15/39",
         "stock_display": "HAL 7.45 09/15/39(US406216AY74)",
@@ -4162,15 +4216,6 @@
         "stock_display": "威士卡(V US)",
         "unchanged_etf_count": 2,
         "avg_weight_pct": 1.8,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
-        "stock_id": "AMZN US",
-        "stock_name": "亞馬遜公司",
-        "stock_display": "亞馬遜公司(AMZN US)",
-        "unchanged_etf_count": 2,
-        "avg_weight_pct": 1.78,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -4238,6 +4283,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "GEV US",
+        "stock_name": "奇異維諾瓦公司",
+        "stock_display": "奇異維諾瓦公司(GEV US)",
+        "unchanged_etf_count": 2,
+        "avg_weight_pct": 1.4,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "US36962G4B75",
         "stock_name": "GE 6 7/8 01/10/39",
         "stock_display": "GE 6 7/8 01/10/39(US36962G4B75)",
@@ -4265,20 +4319,20 @@
         "flag_text": ""
       },
       {
-        "stock_id": "AAPL US",
-        "stock_name": "蘋果公司",
-        "stock_display": "蘋果公司(AAPL US)",
+        "stock_id": "USC07885AL76",
+        "stock_name": "BAUSCH HEALTH COS INC SER REGS (REG) (REG S) 11% 30SEP2028",
+        "stock_display": "BAUSCH HEALTH COS INC SER REGS (REG) (REG S) 11% 30SEP2028(USC07885AL76)",
         "unchanged_etf_count": 2,
         "avg_weight_pct": 1.3,
         "core_holding_flag": false,
         "flag_text": ""
       },
       {
-        "stock_id": "USC07885AL76",
-        "stock_name": "BAUSCH HEALTH COS INC SER REGS (REG) (REG S) 11% 30SEP2028",
-        "stock_display": "BAUSCH HEALTH COS INC SER REGS (REG) (REG S) 11% 30SEP2028(USC07885AL76)",
+        "stock_id": "ILMN US",
+        "stock_name": "伊魯米納公司",
+        "stock_display": "伊魯米納公司(ILMN US)",
         "unchanged_etf_count": 2,
-        "avg_weight_pct": 1.3,
+        "avg_weight_pct": 1.24,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -4340,6 +4394,15 @@
         "stock_id": "ALAB US",
         "stock_name": "Astera實驗室公司",
         "stock_display": "Astera實驗室公司(ALAB US)",
+        "unchanged_etf_count": 2,
+        "avg_weight_pct": 1.15,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "IFX GY",
+        "stock_name": "英飛凌科技股份有限公司",
+        "stock_display": "英飛凌科技股份有限公司(IFX GY)",
         "unchanged_etf_count": 2,
         "avg_weight_pct": 1.15,
         "core_holding_flag": false,
@@ -4432,6 +4495,15 @@
         "stock_display": "PRA GROUP INC SER 144A 8.875% 31JAN2030(US69354NAF33)",
         "unchanged_etf_count": 2,
         "avg_weight_pct": 1.02,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "ENR GY",
+        "stock_name": "Siemens Energy AG",
+        "stock_display": "Siemens Energy AG(ENR GY)",
+        "unchanged_etf_count": 2,
+        "avg_weight_pct": 1.0,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -4657,6 +4729,15 @@
         "stock_display": "IEP 9.75 01/15/29(US451102CF29)",
         "unchanged_etf_count": 2,
         "avg_weight_pct": 0.67,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "MA US",
+        "stock_name": "萬事達卡",
+        "stock_display": "萬事達卡(MA US)",
+        "unchanged_etf_count": 2,
+        "avg_weight_pct": 0.66,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -5579,6 +5660,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "BWXT US",
+        "stock_name": "BWX科技股份有限公司",
+        "stock_display": "BWX科技股份有限公司(BWXT US)",
+        "unchanged_etf_count": 2,
+        "avg_weight_pct": 0.03,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "6177",
         "stock_name": "達麗",
         "stock_display": "達麗(6177)",
@@ -6011,15 +6101,6 @@
         "flag_text": ""
       },
       {
-        "stock_id": "AMAT US",
-        "stock_name": "APPLIED MATERIALS INC",
-        "stock_display": "APPLIED MATERIALS INC(AMAT US)",
-        "unchanged_etf_count": 2,
-        "avg_weight_pct": 0.0,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
         "stock_id": "ARM US",
         "stock_name": "ARM HOLDINGS PLC-ADR",
         "stock_display": "ARM HOLDINGS PLC-ADR(ARM US)",
@@ -6095,15 +6176,6 @@
         "stock_id": "LQDWUS",
         "stock_name": "ISHARESINVESTMENTGRADECORPO",
         "stock_display": "ISHARESINVESTMENTGRADECORPO(LQDWUS)",
-        "unchanged_etf_count": 2,
-        "avg_weight_pct": 0.0,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
-        "stock_id": "LRCX US",
-        "stock_name": "科林研發股份有限公司",
-        "stock_display": "科林研發股份有限公司(LRCX US)",
         "unchanged_etf_count": 2,
         "avg_weight_pct": 0.0,
         "core_holding_flag": false,
@@ -6304,15 +6376,6 @@
         "stock_display": "JPM 8 3/4 09/01/30(US06423AAJ25)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 7.17,
-        "core_holding_flag": true,
-        "flag_text": "💎 核心續抱 >3%"
-      },
-      {
-        "stock_id": "BE US",
-        "stock_name": "布魯姆能源公司",
-        "stock_display": "布魯姆能源公司(BE US)",
-        "unchanged_etf_count": 1,
-        "avg_weight_pct": 6.02,
         "core_holding_flag": true,
         "flag_text": "💎 核心續抱 >3%"
       },
@@ -6650,6 +6713,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "ETN US",
+        "stock_name": "伊頓公開有限公司",
+        "stock_display": "伊頓公開有限公司(ETN US)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 2.38,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "US36162JAH95",
         "stock_name": "GEO 10.25 04/15/31",
         "stock_display": "GEO 10.25 04/15/31(US36162JAH95)",
@@ -6707,15 +6779,6 @@
         "stock_id": "GOOG",
         "stock_name": "ALPHABET INC-CL C",
         "stock_display": "ALPHABET INC-CL C(GOOG)",
-        "unchanged_etf_count": 1,
-        "avg_weight_pct": 2.28,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
-        "stock_id": "JPM US",
-        "stock_name": "摩根大通銀行",
-        "stock_display": "摩根大通銀行(JPM US)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 2.28,
         "core_holding_flag": false,
@@ -6812,6 +6875,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "LLY US",
+        "stock_name": "禮來公司",
+        "stock_display": "禮來公司(LLY US)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 2.06,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "DB1 GY",
         "stock_name": "德意志證交所",
         "stock_display": "德意志證交所(DB1 GY)",
@@ -6902,11 +6974,20 @@
         "flag_text": ""
       },
       {
-        "stock_id": "ILMN US",
-        "stock_name": "伊魯米納公司",
-        "stock_display": "伊魯米納公司(ILMN US)",
+        "stock_id": "6981 JT",
+        "stock_name": "村田製作所有限公司",
+        "stock_display": "村田製作所有限公司(6981 JT)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 1.8,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "GLEN LN",
+        "stock_name": "嘉能可公司",
+        "stock_display": "嘉能可公司(GLEN LN)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 1.78,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -6952,6 +7033,15 @@
         "stock_display": "DTV 8 7/8 02/01/30(USU2541MAC48)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 1.67,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "ASML NA",
+        "stock_name": "艾司摩爾控股公司",
+        "stock_display": "艾司摩爾控股公司(ASML NA)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 1.62,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -7006,6 +7096,15 @@
         "stock_display": "Alphabet公司 Class C(GOOG US)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 1.53,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "SU FP",
+        "stock_name": "施奈德電機公司",
+        "stock_display": "施奈德電機公司(SU FP)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 1.52,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -7271,15 +7370,6 @@
         "flag_text": ""
       },
       {
-        "stock_id": "IFX GY",
-        "stock_name": "INFINEON TECHNOLOGIES AG",
-        "stock_display": "INFINEON TECHNOLOGIES AG(IFX GY)",
-        "unchanged_etf_count": 1,
-        "avg_weight_pct": 1.23,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
         "stock_id": "VCTR US",
         "stock_name": "Victory Capital Holdings Inc",
         "stock_display": "Victory Capital Holdings Inc(VCTR US)",
@@ -7451,6 +7541,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "GS US",
+        "stock_name": "高盛集團",
+        "stock_display": "高盛集團(GS US)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 1.09,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "TEM",
         "stock_name": "TEMPUS AI INC",
         "stock_display": "TEMPUS AI INC(TEM)",
@@ -7474,6 +7573,15 @@
         "stock_display": "法國巴黎銀行股份有限公司(BNP FP)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 1.06,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "8306 JT",
+        "stock_name": "三菱UFJ金融集團公司",
+        "stock_display": "三菱UFJ金融集團公司(8306 JT)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 1.05,
         "core_holding_flag": false,
         "flag_text": ""
       },
@@ -7904,6 +8012,15 @@
         "stock_id": "MDB",
         "stock_name": "MONGODB INC",
         "stock_display": "MONGODB INC(MDB)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 0.78,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "NBIS UW",
+        "stock_name": "尼比厄斯集團公眾有限公司",
+        "stock_display": "尼比厄斯集團公眾有限公司(NBIS UW)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 0.78,
         "core_holding_flag": false,
@@ -13895,15 +14012,6 @@
         "flag_text": ""
       },
       {
-        "stock_id": "BWXT US",
-        "stock_name": "BWX科技股份有限公司",
-        "stock_display": "BWX科技股份有限公司(BWXT US)",
-        "unchanged_etf_count": 1,
-        "avg_weight_pct": 0.05,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
         "stock_id": "US00033GAB14",
         "stock_name": "GLOBAL AUTO HO/AAG FH UK SER 144A 8.75% 15JAN2032",
         "stock_display": "GLOBAL AUTO HO/AAG FH UK SER 144A 8.75% 15JAN2032(US00033GAB14)",
@@ -15101,6 +15209,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "4062 JT",
+        "stock_name": "Ibiden Co Ltd",
+        "stock_display": "Ibiden Co Ltd(4062 JT)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "4105",
         "stock_name": "台灣東洋藥品工業",
         "stock_display": "台灣東洋藥品工業(4105)",
@@ -15392,6 +15509,24 @@
         "stock_id": "6469",
         "stock_name": "大樹醫藥",
         "stock_display": "大樹醫藥(6469)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "6501 JT",
+        "stock_name": "日立製作所有限公司",
+        "stock_display": "日立製作所有限公司(6501 JT)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "6506 JT",
+        "stock_name": "安川電機公司",
+        "stock_display": "安川電機公司(6506 JT)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 0.0,
         "core_holding_flag": false,
@@ -16280,6 +16415,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "CAT US",
+        "stock_name": "Caterpillar Inc",
+        "stock_display": "Caterpillar Inc(CAT US)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "CBG_20360601",
         "stock_name": "CBRE SERVICES INC",
         "stock_display": "CBRE SERVICES INC(CBG_20360601)",
@@ -16622,15 +16766,6 @@
         "flag_text": ""
       },
       {
-        "stock_id": "ENR GY",
-        "stock_name": "SIEMENS ENERGY AG",
-        "stock_display": "SIEMENS ENERGY AG(ENR GY)",
-        "unchanged_etf_count": 1,
-        "avg_weight_pct": 0.0,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
         "stock_id": "EOG_20360115",
         "stock_name": "EOG RESOURCES INC",
         "stock_display": "EOG RESOURCES INC(EOG_20360115)",
@@ -16910,15 +17045,6 @@
         "flag_text": ""
       },
       {
-        "stock_id": "GEV US",
-        "stock_name": "GE VERNOVA INC",
-        "stock_display": "GE VERNOVA INC(GEV US)",
-        "unchanged_etf_count": 1,
-        "avg_weight_pct": 0.0,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
         "stock_id": "GFS",
         "stock_name": "GLOBALFOUNDRIES INC",
         "stock_display": "GLOBALFOUNDRIES INC(GFS)",
@@ -17030,6 +17156,15 @@
         "stock_id": "HUM_20540415",
         "stock_name": "HUMANA INC",
         "stock_display": "HUMANA INC(HUM_20540415)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "HWM US",
+        "stock_name": "Howmet航太公司",
+        "stock_display": "Howmet航太公司(HWM US)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 0.0,
         "core_holding_flag": false,
@@ -17309,15 +17444,6 @@
         "stock_id": "LUMN",
         "stock_name": "LUMEN TECHNOLOGIES INC",
         "stock_display": "LUMEN TECHNOLOGIES INC(LUMN)",
-        "unchanged_etf_count": 1,
-        "avg_weight_pct": 0.0,
-        "core_holding_flag": false,
-        "flag_text": ""
-      },
-      {
-        "stock_id": "MA US",
-        "stock_name": "萬事達卡",
-        "stock_display": "萬事達卡(MA US)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 0.0,
         "core_holding_flag": false,
@@ -20033,6 +20159,15 @@
         "flag_text": ""
       },
       {
+        "stock_id": "VRTX US",
+        "stock_name": "福泰製藥公司",
+        "stock_display": "福泰製藥公司(VRTX US)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
         "stock_id": "VRT_20560315",
         "stock_name": "VERTIV HOLDINGS CO",
         "stock_display": "VERTIV HOLDINGS CO(VRT_20560315)",
@@ -20117,6 +20252,15 @@
         "stock_id": "WMB_20560315",
         "stock_name": "WILLIAMS COMPANIES INC",
         "stock_display": "WILLIAMS COMPANIES INC(WMB_20560315)",
+        "unchanged_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "core_holding_flag": false,
+        "flag_text": ""
+      },
+      {
+        "stock_id": "WMT UN",
+        "stock_name": "沃爾瑪公司",
+        "stock_display": "沃爾瑪公司(WMT UN)",
         "unchanged_etf_count": 1,
         "avg_weight_pct": 0.0,
         "core_holding_flag": false,
@@ -20242,6 +20386,15 @@
     ],
     "most_held_rank": [
       {
+        "stock_id": "2330",
+        "stock_name": "台積電",
+        "stock_display": "台積電(2330)",
+        "held_etf_count": 26,
+        "avg_weight_pct": 9.2,
+        "total_shares": 39311759,
+        "total_lots": 39311.8
+      },
+      {
         "stock_id": "2383",
         "stock_name": "台光電",
         "stock_display": "台光電(2383)",
@@ -20251,22 +20404,13 @@
         "total_lots": 10996.4
       },
       {
-        "stock_id": "2330",
-        "stock_name": "台積電",
-        "stock_display": "台積電(2330)",
-        "held_etf_count": 25,
-        "avg_weight_pct": 9.25,
-        "total_shares": 39293759,
-        "total_lots": 39293.8
-      },
-      {
         "stock_id": "2454",
         "stock_name": "聯發科",
         "stock_display": "聯發科(2454)",
-        "held_etf_count": 25,
-        "avg_weight_pct": 4.28,
-        "total_shares": 12297710,
-        "total_lots": 12297.7
+        "held_etf_count": 26,
+        "avg_weight_pct": 4.17,
+        "total_shares": 12299710,
+        "total_lots": 12299.7
       },
       {
         "stock_id": "3017",
@@ -21079,6 +21223,69 @@
         "total_lots": 24
       },
       {
+        "stock_id": "NVDA US",
+        "stock_name": "輝達",
+        "stock_display": "輝達(NVDA US)",
+        "held_etf_count": 6,
+        "avg_weight_pct": 5.46,
+        "total_shares": 710643,
+        "total_lots": 710.7
+      },
+      {
+        "stock_id": "PLTR US",
+        "stock_name": "帕蘭提爾科技公司",
+        "stock_display": "帕蘭提爾科技公司(PLTR US)",
+        "held_etf_count": 6,
+        "avg_weight_pct": 4.4,
+        "total_shares": 736843,
+        "total_lots": 736.8
+      },
+      {
+        "stock_id": "AMD US",
+        "stock_name": "超微半導體公司",
+        "stock_display": "超微半導體公司(AMD US)",
+        "held_etf_count": 6,
+        "avg_weight_pct": 4.09,
+        "total_shares": 218642,
+        "total_lots": 218.7
+      },
+      {
+        "stock_id": "NET US",
+        "stock_name": "Cloudflare公司",
+        "stock_display": "Cloudflare公司(NET US)",
+        "held_etf_count": 6,
+        "avg_weight_pct": 2.17,
+        "total_shares": 200537,
+        "total_lots": 200.5
+      },
+      {
+        "stock_id": "SNOW US",
+        "stock_name": "Snowflake公司",
+        "stock_display": "Snowflake公司(SNOW US)",
+        "held_etf_count": 6,
+        "avg_weight_pct": 2.14,
+        "total_shares": 242020,
+        "total_lots": 242.0
+      },
+      {
+        "stock_id": "GOOGL US",
+        "stock_name": "Alphabet 公司",
+        "stock_display": "Alphabet 公司(GOOGL US)",
+        "held_etf_count": 6,
+        "avg_weight_pct": 2.14,
+        "total_shares": 61099,
+        "total_lots": 61.1
+      },
+      {
+        "stock_id": "HOOD US",
+        "stock_name": "羅賓漢市場公司",
+        "stock_display": "羅賓漢市場公司(HOOD US)",
+        "held_etf_count": 6,
+        "avg_weight_pct": 1.39,
+        "total_shares": 371355,
+        "total_lots": 371.4
+      },
+      {
         "stock_id": "2890",
         "stock_name": "永豐金",
         "stock_display": "永豐金(2890)",
@@ -21259,49 +21466,58 @@
         "total_lots": 1020.1
       },
       {
-        "stock_id": "NVDA US",
-        "stock_name": "輝達公司",
-        "stock_display": "輝達公司(NVDA US)",
+        "stock_id": "BE US",
+        "stock_name": "布魯姆能源公司",
+        "stock_display": "布魯姆能源公司(BE US)",
         "held_etf_count": 5,
-        "avg_weight_pct": 5.22,
-        "total_shares": 705643,
-        "total_lots": 705.7
+        "avg_weight_pct": 5.05,
+        "total_shares": 800583,
+        "total_lots": 800.6
       },
       {
-        "stock_id": "PLTR US",
-        "stock_name": "帕蘭提爾科技公司",
-        "stock_display": "帕蘭提爾科技公司(PLTR US)",
+        "stock_id": "LITE US",
+        "stock_name": "魯門特姆控股公司",
+        "stock_display": "魯門特姆控股公司(LITE US)",
         "held_etf_count": 5,
-        "avg_weight_pct": 5.06,
-        "total_shares": 735943,
-        "total_lots": 735.9
+        "avg_weight_pct": 4.3,
+        "total_shares": 163756,
+        "total_lots": 163.8
       },
       {
-        "stock_id": "AMD US",
-        "stock_name": "超微半導體公司",
-        "stock_display": "超微半導體公司(AMD US)",
+        "stock_id": "MSFT US",
+        "stock_name": "Microsoft Corp",
+        "stock_display": "Microsoft Corp(MSFT US)",
         "held_etf_count": 5,
-        "avg_weight_pct": 3.97,
-        "total_shares": 217242,
-        "total_lots": 217.3
+        "avg_weight_pct": 3.57,
+        "total_shares": 203941,
+        "total_lots": 204.0
       },
       {
-        "stock_id": "NET US",
-        "stock_name": "Cloudflare公司",
-        "stock_display": "Cloudflare公司(NET US)",
+        "stock_id": "CRWD US",
+        "stock_name": "Crowdstrike控股公司",
+        "stock_display": "Crowdstrike控股公司(CRWD US)",
         "held_etf_count": 5,
-        "avg_weight_pct": 2.16,
-        "total_shares": 199337,
-        "total_lots": 199.3
+        "avg_weight_pct": 3.44,
+        "total_shares": 346916,
+        "total_lots": 347.0
       },
       {
-        "stock_id": "SNOW US",
-        "stock_name": "Snowflake公司",
-        "stock_display": "Snowflake公司(SNOW US)",
+        "stock_id": "MU US",
+        "stock_name": "美光科技公司",
+        "stock_display": "美光科技公司(MU US)",
         "held_etf_count": 5,
-        "avg_weight_pct": 2.14,
-        "total_shares": 240920,
-        "total_lots": 240.9
+        "avg_weight_pct": 2.35,
+        "total_shares": 54810,
+        "total_lots": 54.8
+      },
+      {
+        "stock_id": "AMZN US",
+        "stock_name": "AMAZON. COM INC",
+        "stock_display": "AMAZON. COM INC(AMZN US)",
+        "held_etf_count": 5,
+        "avg_weight_pct": 2.31,
+        "total_shares": 87150,
+        "total_lots": 87.1
       },
       {
         "stock_id": "2887",
@@ -21313,15 +21529,6 @@
         "total_lots": 15686.8
       },
       {
-        "stock_id": "HOOD US",
-        "stock_name": "羅賓漢市場公司",
-        "stock_display": "羅賓漢市場公司(HOOD US)",
-        "held_etf_count": 5,
-        "avg_weight_pct": 1.53,
-        "total_shares": 370155,
-        "total_lots": 370.2
-      },
-      {
         "stock_id": "2884",
         "stock_name": "玉山金",
         "stock_display": "玉山金(2884)",
@@ -21331,13 +21538,13 @@
         "total_lots": 14866.6
       },
       {
-        "stock_id": "GOOGL US",
-        "stock_name": "Alphabet公司",
-        "stock_display": "Alphabet公司(GOOGL US)",
+        "stock_id": "NTRA US",
+        "stock_name": "那提拉公司",
+        "stock_display": "那提拉公司(NTRA US)",
         "held_etf_count": 5,
-        "avg_weight_pct": 1.35,
-        "total_shares": 58099,
-        "total_lots": 58.1
+        "avg_weight_pct": 0.74,
+        "total_shares": 14050,
+        "total_lots": 14.0
       },
       {
         "stock_id": "2347",
@@ -21412,6 +21619,24 @@
         "total_lots": 129
       },
       {
+        "stock_id": "COHR US",
+        "stock_name": "連貫公司",
+        "stock_display": "連貫公司(COHR US)",
+        "held_etf_count": 5,
+        "avg_weight_pct": 0.0,
+        "total_shares": 0,
+        "total_lots": 0
+      },
+      {
+        "stock_id": "SNDK US",
+        "stock_name": "晟碟公司（德拉瓦州）",
+        "stock_display": "晟碟公司（德拉瓦州）(SNDK US)",
+        "held_etf_count": 5,
+        "avg_weight_pct": 0.0,
+        "total_shares": 0,
+        "total_lots": 0
+      },
+      {
         "stock_id": "TLTW US",
         "stock_name": "iShares 20+ Year Treasury Bo",
         "stock_display": "iShares 20+ Year Treasury Bo(TLTW US)",
@@ -21419,42 +21644,6 @@
         "avg_weight_pct": 9.04,
         "total_shares": 557482,
         "total_lots": 557.5
-      },
-      {
-        "stock_id": "BE US",
-        "stock_name": "布魯姆能源公司",
-        "stock_display": "布魯姆能源公司(BE US)",
-        "held_etf_count": 4,
-        "avg_weight_pct": 6.02,
-        "total_shares": 799783,
-        "total_lots": 799.8
-      },
-      {
-        "stock_id": "LITE US",
-        "stock_name": "魯門特姆控股公司",
-        "stock_display": "魯門特姆控股公司(LITE US)",
-        "held_etf_count": 4,
-        "avg_weight_pct": 4.37,
-        "total_shares": 162976,
-        "total_lots": 163.0
-      },
-      {
-        "stock_id": "MSFT US",
-        "stock_name": "微軟公司",
-        "stock_display": "微軟公司(MSFT US)",
-        "held_etf_count": 4,
-        "avg_weight_pct": 3.66,
-        "total_shares": 202941,
-        "total_lots": 203.0
-      },
-      {
-        "stock_id": "CRWD US",
-        "stock_name": "Crowdstrike控股公司",
-        "stock_display": "Crowdstrike控股公司(CRWD US)",
-        "held_etf_count": 4,
-        "avg_weight_pct": 3.21,
-        "total_shares": 343916,
-        "total_lots": 344.0
       },
       {
         "stock_id": "US172967EW71",
@@ -21475,6 +21664,15 @@
         "total_lots": 113.3
       },
       {
+        "stock_id": "TSLA US",
+        "stock_name": "特斯拉公司",
+        "stock_display": "特斯拉公司(TSLA US)",
+        "held_etf_count": 4,
+        "avg_weight_pct": 2.47,
+        "total_shares": 10548,
+        "total_lots": 10.6
+      },
+      {
         "stock_id": "NOW US",
         "stock_name": "ServiceNow公司",
         "stock_display": "ServiceNow公司(NOW US)",
@@ -21493,24 +21691,6 @@
         "total_lots": 222.4
       },
       {
-        "stock_id": "MU US",
-        "stock_name": "美光科技公司",
-        "stock_display": "美光科技公司(MU US)",
-        "held_etf_count": 4,
-        "avg_weight_pct": 1.83,
-        "total_shares": 54010,
-        "total_lots": 54.0
-      },
-      {
-        "stock_id": "AMZN US",
-        "stock_name": "亞馬遜公司",
-        "stock_display": "亞馬遜公司(AMZN US)",
-        "held_etf_count": 4,
-        "avg_weight_pct": 1.78,
-        "total_shares": 84350,
-        "total_lots": 84.3
-      },
-      {
         "stock_id": "US054989AD07",
         "stock_name": "BATSLN 7.081 08/02/53",
         "stock_display": "BATSLN 7.081 08/02/53(US054989AD07)",
@@ -21518,6 +21698,24 @@
         "avg_weight_pct": 1.7,
         "total_shares": 2672000,
         "total_lots": 2672
+      },
+      {
+        "stock_id": "AAPL US",
+        "stock_name": "蘋果公司",
+        "stock_display": "蘋果公司(AAPL US)",
+        "held_etf_count": 4,
+        "avg_weight_pct": 1.63,
+        "total_shares": 137250,
+        "total_lots": 137.2
+      },
+      {
+        "stock_id": "MRVL US",
+        "stock_name": "Marvell Technology Inc",
+        "stock_display": "Marvell Technology Inc(MRVL US)",
+        "held_etf_count": 4,
+        "avg_weight_pct": 1.51,
+        "total_shares": 235800,
+        "total_lots": 235.8
       },
       {
         "stock_id": "US682680BN20",
@@ -21547,6 +21745,15 @@
         "total_lots": 1344
       },
       {
+        "stock_id": "AVGO US",
+        "stock_name": "博通公司",
+        "stock_display": "博通公司(AVGO US)",
+        "held_etf_count": 4,
+        "avg_weight_pct": 1.3,
+        "total_shares": 3093,
+        "total_lots": 3.1
+      },
+      {
         "stock_id": "1815",
         "stock_name": "富喬",
         "stock_display": "富喬(1815)",
@@ -21554,6 +21761,15 @@
         "avg_weight_pct": 1.27,
         "total_shares": 12784868,
         "total_lots": 12784.9
+      },
+      {
+        "stock_id": "DDOG US",
+        "stock_name": "數據狗公司",
+        "stock_display": "數據狗公司(DDOG US)",
+        "held_etf_count": 4,
+        "avg_weight_pct": 1.2,
+        "total_shares": 115200,
+        "total_lots": 115.2
       },
       {
         "stock_id": "US852060AT99",
@@ -21601,15 +21817,6 @@
         "total_lots": 2854
       },
       {
-        "stock_id": "NTRA US",
-        "stock_name": "那提拉公司",
-        "stock_display": "那提拉公司(NTRA US)",
-        "held_etf_count": 4,
-        "avg_weight_pct": 0.74,
-        "total_shares": 13750,
-        "total_lots": 13.7
-      },
-      {
         "stock_id": "6691",
         "stock_name": "洋基工程",
         "stock_display": "洋基工程(6691)",
@@ -21653,6 +21860,15 @@
         "avg_weight_pct": 0.47,
         "total_shares": 1904000,
         "total_lots": 1904
+      },
+      {
+        "stock_id": "TER US",
+        "stock_name": "泰瑞達公司",
+        "stock_display": "泰瑞達公司(TER US)",
+        "held_etf_count": 4,
+        "avg_weight_pct": 0.41,
+        "total_shares": 991,
+        "total_lots": 1.0
       },
       {
         "stock_id": "2618",
@@ -21707,6 +21923,15 @@
         "avg_weight_pct": 0.33,
         "total_shares": 494000,
         "total_lots": 494
+      },
+      {
+        "stock_id": "TSEM US",
+        "stock_name": "塔爾半導體有限公司",
+        "stock_display": "塔爾半導體有限公司(TSEM US)",
+        "held_etf_count": 4,
+        "avg_weight_pct": 0.33,
+        "total_shares": 7850,
+        "total_lots": 7.8
       },
       {
         "stock_id": "2377",
@@ -21835,9 +22060,9 @@
         "total_lots": 0
       },
       {
-        "stock_id": "COHR US",
-        "stock_name": "高意公司",
-        "stock_display": "高意公司(COHR US)",
+        "stock_id": "CRDO US",
+        "stock_name": "Credo Technology Group Holding",
+        "stock_display": "Credo Technology Group Holding(CRDO US)",
         "held_etf_count": 4,
         "avg_weight_pct": 0.0,
         "total_shares": 0,
@@ -21880,15 +22105,6 @@
         "total_lots": 0
       },
       {
-        "stock_id": "SNDK US",
-        "stock_name": "晟碟公司（德拉瓦州）",
-        "stock_display": "晟碟公司（德拉瓦州）(SNDK US)",
-        "held_etf_count": 4,
-        "avg_weight_pct": 0.0,
-        "total_shares": 0,
-        "total_lots": 0
-      },
-      {
         "stock_id": "STX US",
         "stock_name": "希捷科技控股公開有限公司",
         "stock_display": "希捷科技控股公開有限公司(STX US)",
@@ -21907,15 +22123,6 @@
         "total_lots": 0
       },
       {
-        "stock_id": "TSLA US",
-        "stock_name": "特斯拉公司",
-        "stock_display": "特斯拉公司(TSLA US)",
-        "held_etf_count": 3,
-        "avg_weight_pct": 3.29,
-        "total_shares": 10548,
-        "total_lots": 10.6
-      },
-      {
         "stock_id": "PANW US",
         "stock_name": "Palo Alto Networks Inc",
         "stock_display": "Palo Alto Networks Inc(PANW US)",
@@ -21925,13 +22132,13 @@
         "total_lots": 234.3
       },
       {
-        "stock_id": "MRVL US",
-        "stock_name": "Marvell Technology Inc",
-        "stock_display": "Marvell Technology Inc(MRVL US)",
+        "stock_id": "LLY US",
+        "stock_name": "禮來公司",
+        "stock_display": "禮來公司(LLY US)",
         "held_etf_count": 3,
-        "avg_weight_pct": 2.02,
-        "total_shares": 235800,
-        "total_lots": 235.8
+        "avg_weight_pct": 2.06,
+        "total_shares": 4408,
+        "total_lots": 4.5
       },
       {
         "stock_id": "TWST US",
@@ -22042,15 +22249,6 @@
         "total_lots": 1350
       },
       {
-        "stock_id": "AAPL US",
-        "stock_name": "蘋果公司",
-        "stock_display": "蘋果公司(AAPL US)",
-        "held_etf_count": 3,
-        "avg_weight_pct": 1.3,
-        "total_shares": 136000,
-        "total_lots": 136
-      },
-      {
         "stock_id": "US879385AD49",
         "stock_name": "TELEFO 8 1/4 09/15/30",
         "stock_display": "TELEFO 8 1/4 09/15/30(US879385AD49)",
@@ -22067,15 +22265,6 @@
         "avg_weight_pct": 1.24,
         "total_shares": 293500,
         "total_lots": 293.5
-      },
-      {
-        "stock_id": "DDOG US",
-        "stock_name": "數據狗公司",
-        "stock_display": "數據狗公司(DDOG US)",
-        "held_etf_count": 3,
-        "avg_weight_pct": 1.22,
-        "total_shares": 114500,
-        "total_lots": 114.5
       },
       {
         "stock_id": "INTC US",
@@ -22330,15 +22519,6 @@
         "total_lots": 3090
       },
       {
-        "stock_id": "AVGO US",
-        "stock_name": "BROADCOM INC",
-        "stock_display": "BROADCOM INC(AVGO US)",
-        "held_etf_count": 3,
-        "avg_weight_pct": 0.51,
-        "total_shares": 1293,
-        "total_lots": 1.3
-      },
-      {
         "stock_id": "USU2069EAA83",
         "stock_name": "COREWEAVE INC SER REGS (REG S) 9.25% 01JUN2030",
         "stock_display": "COREWEAVE INC SER REGS (REG S) 9.25% 01JUN2030(USU2069EAA83)",
@@ -22474,15 +22654,6 @@
         "total_lots": 27
       },
       {
-        "stock_id": "TER US",
-        "stock_name": "TERADYNE INC",
-        "stock_display": "TERADYNE INC(TER US)",
-        "held_etf_count": 3,
-        "avg_weight_pct": 0.2,
-        "total_shares": 491,
-        "total_lots": 0.5
-      },
-      {
         "stock_id": "5871",
         "stock_name": "中租-KY",
         "stock_display": "中租-KY(5871)",
@@ -22499,15 +22670,6 @@
         "avg_weight_pct": 0.11,
         "total_shares": 1201000,
         "total_lots": 1201
-      },
-      {
-        "stock_id": "TSEM US",
-        "stock_name": "塔爾半導體有限公司",
-        "stock_display": "塔爾半導體有限公司(TSEM US)",
-        "held_etf_count": 3,
-        "avg_weight_pct": 0.11,
-        "total_shares": 7000,
-        "total_lots": 7
       },
       {
         "stock_id": "6640",
@@ -22762,6 +22924,15 @@
         "total_lots": 0
       },
       {
+        "stock_id": "AMAT US",
+        "stock_name": "應用材料",
+        "stock_display": "應用材料(AMAT US)",
+        "held_etf_count": 3,
+        "avg_weight_pct": 0.0,
+        "total_shares": 0,
+        "total_lots": 0
+      },
+      {
         "stock_id": "AXTI US",
         "stock_name": "AXT公司",
         "stock_display": "AXT公司(AXTI US)",
@@ -22771,18 +22942,18 @@
         "total_lots": 0
       },
       {
-        "stock_id": "CRDO US",
-        "stock_name": "Credo科技集團控股有限公司",
-        "stock_display": "Credo科技集團控股有限公司(CRDO US)",
+        "stock_id": "DA_USD",
+        "stock_name": "AFTER DEDUCTING SECURITIES PURCHASES AMOUNT",
+        "stock_display": "AFTER DEDUCTING SECURITIES PURCHASES AMOUNT(DA_USD)",
         "held_etf_count": 3,
         "avg_weight_pct": 0.0,
         "total_shares": 0,
         "total_lots": 0
       },
       {
-        "stock_id": "DA_USD",
-        "stock_name": "AFTER DEDUCTING SECURITIES PURCHASES AMOUNT",
-        "stock_display": "AFTER DEDUCTING SECURITIES PURCHASES AMOUNT(DA_USD)",
+        "stock_id": "LRCX US",
+        "stock_name": "科林研發股份有限公司",
+        "stock_display": "科林研發股份有限公司(LRCX US)",
         "held_etf_count": 3,
         "avg_weight_pct": 0.0,
         "total_shares": 0,
@@ -22942,6 +23113,15 @@
         "total_lots": 186
       },
       {
+        "stock_id": "JPM US",
+        "stock_name": "摩根大通銀行",
+        "stock_display": "摩根大通銀行(JPM US)",
+        "held_etf_count": 2,
+        "avg_weight_pct": 2.25,
+        "total_shares": 16100,
+        "total_lots": 16.1
+      },
+      {
         "stock_id": "US406216AY74",
         "stock_name": "HAL 7.45 09/15/39",
         "stock_display": "HAL 7.45 09/15/39(US406216AY74)",
@@ -23023,6 +23203,15 @@
         "total_lots": 3065
       },
       {
+        "stock_id": "GEV US",
+        "stock_name": "奇異維諾瓦公司",
+        "stock_display": "奇異維諾瓦公司(GEV US)",
+        "held_etf_count": 2,
+        "avg_weight_pct": 1.4,
+        "total_shares": 500,
+        "total_lots": 0.5
+      },
+      {
         "stock_id": "US037389AK90",
         "stock_name": "AON CORP SER * (REG) 8.205000 % 01JAN2027",
         "stock_display": "AON CORP SER * (REG) 8.205000 % 01JAN2027(US037389AK90)",
@@ -23050,15 +23239,6 @@
         "total_lots": 630
       },
       {
-        "stock_id": "LLY US",
-        "stock_name": "禮來公司",
-        "stock_display": "禮來公司(LLY US)",
-        "held_etf_count": 2,
-        "avg_weight_pct": 1.37,
-        "total_shares": 3958,
-        "total_lots": 4.0
-      },
-      {
         "stock_id": "USU9220NAC57",
         "stock_name": "VENTURE GLOBAL LNG INC SER REGS (REG S) 9.5% 01FEB2029",
         "stock_display": "VENTURE GLOBAL LNG INC SER REGS (REG S) 9.5% 01FEB2029(USU9220NAC57)",
@@ -23075,6 +23255,15 @@
         "avg_weight_pct": 1.3,
         "total_shares": 2827000,
         "total_lots": 2827
+      },
+      {
+        "stock_id": "ILMN US",
+        "stock_name": "伊魯米納公司",
+        "stock_display": "伊魯米納公司(ILMN US)",
+        "held_etf_count": 2,
+        "avg_weight_pct": 1.24,
+        "total_shares": 2224,
+        "total_lots": 2.2
       },
       {
         "stock_id": "009150 KS",
@@ -23138,6 +23327,15 @@
         "avg_weight_pct": 1.15,
         "total_shares": 530000,
         "total_lots": 530
+      },
+      {
+        "stock_id": "IFX GY",
+        "stock_name": "英飛凌科技股份有限公司",
+        "stock_display": "英飛凌科技股份有限公司(IFX GY)",
+        "held_etf_count": 2,
+        "avg_weight_pct": 1.15,
+        "total_shares": 303000,
+        "total_lots": 303
       },
       {
         "stock_id": "ALAB US",
@@ -23219,6 +23417,15 @@
         "avg_weight_pct": 1.02,
         "total_shares": 3296000,
         "total_lots": 3296
+      },
+      {
+        "stock_id": "ENR GY",
+        "stock_name": "Siemens Energy AG",
+        "stock_display": "Siemens Energy AG(ENR GY)",
+        "held_etf_count": 2,
+        "avg_weight_pct": 1.0,
+        "total_shares": 2200,
+        "total_lots": 2.2
       },
       {
         "stock_id": "US404280DW61",
@@ -23462,6 +23669,15 @@
         "avg_weight_pct": 0.66,
         "total_shares": 3718000,
         "total_lots": 3718
+      },
+      {
+        "stock_id": "MA US",
+        "stock_name": "萬事達卡",
+        "stock_display": "萬事達卡(MA US)",
+        "held_etf_count": 2,
+        "avg_weight_pct": 0.66,
+        "total_shares": 350,
+        "total_lots": 0.3
       },
       {
         "stock_id": "USU2919QAA32",
@@ -24382,6 +24598,15 @@
         "total_lots": 200
       },
       {
+        "stock_id": "BWXT US",
+        "stock_name": "BWX科技股份有限公司",
+        "stock_display": "BWX科技股份有限公司(BWXT US)",
+        "held_etf_count": 2,
+        "avg_weight_pct": 0.03,
+        "total_shares": 108,
+        "total_lots": 0.1
+      },
+      {
         "stock_id": "6177",
         "stock_name": "達麗",
         "stock_display": "達麗(6177)",
@@ -24805,15 +25030,6 @@
         "total_lots": 0
       },
       {
-        "stock_id": "AMAT US",
-        "stock_name": "APPLIED MATERIALS INC",
-        "stock_display": "APPLIED MATERIALS INC(AMAT US)",
-        "held_etf_count": 2,
-        "avg_weight_pct": 0.0,
-        "total_shares": 0,
-        "total_lots": 0
-      },
-      {
         "stock_id": "ARM US",
         "stock_name": "ARM HOLDINGS PLC-ADR",
         "stock_display": "ARM HOLDINGS PLC-ADR(ARM US)",
@@ -24889,15 +25105,6 @@
         "stock_id": "LQDWUS",
         "stock_name": "ISHARESINVESTMENTGRADECORPO",
         "stock_display": "ISHARESINVESTMENTGRADECORPO(LQDWUS)",
-        "held_etf_count": 2,
-        "avg_weight_pct": 0.0,
-        "total_shares": 0,
-        "total_lots": 0
-      },
-      {
-        "stock_id": "LRCX US",
-        "stock_name": "科林研發股份有限公司",
-        "stock_display": "科林研發股份有限公司(LRCX US)",
         "held_etf_count": 2,
         "avg_weight_pct": 0.0,
         "total_shares": 0,
@@ -25453,6 +25660,15 @@
         "total_lots": 3600
       },
       {
+        "stock_id": "ETN US",
+        "stock_name": "伊頓公開有限公司",
+        "stock_display": "伊頓公開有限公司(ETN US)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 2.38,
+        "total_shares": 1000,
+        "total_lots": 1
+      },
+      {
         "stock_id": "US37185LAN29",
         "stock_name": "GEL 8.875 04/15/30",
         "stock_display": "GEL 8.875 04/15/30(US37185LAN29)",
@@ -25505,15 +25721,6 @@
         "avg_weight_pct": 2.31,
         "total_shares": 2842,
         "total_lots": 2.8
-      },
-      {
-        "stock_id": "JPM US",
-        "stock_name": "摩根大通銀行",
-        "stock_display": "摩根大通銀行(JPM US)",
-        "held_etf_count": 1,
-        "avg_weight_pct": 2.28,
-        "total_shares": 15000,
-        "total_lots": 15
       },
       {
         "stock_id": "GOOG",
@@ -25705,13 +25912,22 @@
         "total_lots": 2800
       },
       {
-        "stock_id": "ILMN US",
-        "stock_name": "伊魯米納公司",
-        "stock_display": "伊魯米納公司(ILMN US)",
+        "stock_id": "6981 JT",
+        "stock_name": "村田製作所有限公司",
+        "stock_display": "村田製作所有限公司(6981 JT)",
         "held_etf_count": 1,
         "avg_weight_pct": 1.8,
-        "total_shares": 1823,
-        "total_lots": 1.8
+        "total_shares": 7000,
+        "total_lots": 7
+      },
+      {
+        "stock_id": "GLEN LN",
+        "stock_name": "嘉能可公司",
+        "stock_display": "嘉能可公司(GLEN LN)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 1.78,
+        "total_shares": 40000,
+        "total_lots": 40
       },
       {
         "stock_id": "HOOD",
@@ -25757,6 +25973,15 @@
         "avg_weight_pct": 1.67,
         "total_shares": 500000,
         "total_lots": 500
+      },
+      {
+        "stock_id": "ASML NA",
+        "stock_name": "艾司摩爾控股公司",
+        "stock_display": "艾司摩爾控股公司(ASML NA)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 1.62,
+        "total_shares": 160,
+        "total_lots": 0.2
       },
       {
         "stock_id": "ETE GA",
@@ -25820,6 +26045,15 @@
         "avg_weight_pct": 1.52,
         "total_shares": 300000,
         "total_lots": 300
+      },
+      {
+        "stock_id": "SU FP",
+        "stock_name": "施奈德電機公司",
+        "stock_display": "施奈德電機公司(SU FP)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 1.52,
+        "total_shares": 900,
+        "total_lots": 0.9
       },
       {
         "stock_id": "BOND_3d508a54f8617e702641",
@@ -26074,15 +26308,6 @@
         "total_lots": 90
       },
       {
-        "stock_id": "IFX GY",
-        "stock_name": "INFINEON TECHNOLOGIES AG",
-        "stock_display": "INFINEON TECHNOLOGIES AG(IFX GY)",
-        "held_etf_count": 1,
-        "avg_weight_pct": 1.23,
-        "total_shares": 300000,
-        "total_lots": 300
-      },
-      {
         "stock_id": "VCTR US",
         "stock_name": "Victory Capital Holdings Inc",
         "stock_display": "Victory Capital Holdings Inc(VCTR US)",
@@ -26254,6 +26479,15 @@
         "total_lots": 5.3
       },
       {
+        "stock_id": "GS US",
+        "stock_name": "高盛集團",
+        "stock_display": "高盛集團(GS US)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 1.09,
+        "total_shares": 200,
+        "total_lots": 0.2
+      },
+      {
         "stock_id": "RIVN",
         "stock_name": "RIVIAN AUTOMOTIVE INC-A",
         "stock_display": "RIVIAN AUTOMOTIVE INC-A(RIVN)",
@@ -26279,6 +26513,15 @@
         "avg_weight_pct": 1.05,
         "total_shares": 375000,
         "total_lots": 375
+      },
+      {
+        "stock_id": "8306 JT",
+        "stock_name": "三菱UFJ金融集團公司",
+        "stock_display": "三菱UFJ金融集團公司(8306 JT)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 1.05,
+        "total_shares": 8000,
+        "total_lots": 8
       },
       {
         "stock_id": "USU18898AB98",
@@ -26684,6 +26927,15 @@
         "avg_weight_pct": 0.78,
         "total_shares": 60000,
         "total_lots": 60
+      },
+      {
+        "stock_id": "NBIS UW",
+        "stock_name": "尼比厄斯集團公眾有限公司",
+        "stock_display": "尼比厄斯集團公眾有限公司(NBIS UW)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 0.78,
+        "total_shares": 750,
+        "total_lots": 0.8
       },
       {
         "stock_id": "MDB",
@@ -32779,15 +33031,6 @@
         "total_lots": 32
       },
       {
-        "stock_id": "BWXT US",
-        "stock_name": "BWX科技股份有限公司",
-        "stock_display": "BWX科技股份有限公司(BWXT US)",
-        "held_etf_count": 1,
-        "avg_weight_pct": 0.05,
-        "total_shares": 108,
-        "total_lots": 0.1
-      },
-      {
         "stock_id": "2002",
         "stock_name": "中鋼",
         "stock_display": "中鋼(2002)",
@@ -33913,6 +34156,15 @@
         "total_lots": 0
       },
       {
+        "stock_id": "4062 JT",
+        "stock_name": "Ibiden Co Ltd",
+        "stock_display": "Ibiden Co Ltd(4062 JT)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "total_shares": 0,
+        "total_lots": 0
+      },
+      {
         "stock_id": "4105",
         "stock_name": "台灣東洋藥品工業",
         "stock_display": "台灣東洋藥品工業(4105)",
@@ -34186,6 +34438,24 @@
         "stock_id": "6469",
         "stock_name": "大樹醫藥",
         "stock_display": "大樹醫藥(6469)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "total_shares": 0,
+        "total_lots": 0
+      },
+      {
+        "stock_id": "6501 JT",
+        "stock_name": "日立製作所有限公司",
+        "stock_display": "日立製作所有限公司(6501 JT)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "total_shares": 0,
+        "total_lots": 0
+      },
+      {
+        "stock_id": "6506 JT",
+        "stock_name": "安川電機公司",
+        "stock_display": "安川電機公司(6506 JT)",
         "held_etf_count": 1,
         "avg_weight_pct": 0.0,
         "total_shares": 0,
@@ -35074,6 +35344,15 @@
         "total_lots": 0
       },
       {
+        "stock_id": "CAT US",
+        "stock_name": "Caterpillar Inc",
+        "stock_display": "Caterpillar Inc(CAT US)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "total_shares": 0,
+        "total_lots": 0
+      },
+      {
         "stock_id": "CBG_20360601",
         "stock_name": "CBRE SERVICES INC",
         "stock_display": "CBRE SERVICES INC(CBG_20360601)",
@@ -35416,15 +35695,6 @@
         "total_lots": 0
       },
       {
-        "stock_id": "ENR GY",
-        "stock_name": "SIEMENS ENERGY AG",
-        "stock_display": "SIEMENS ENERGY AG(ENR GY)",
-        "held_etf_count": 1,
-        "avg_weight_pct": 0.0,
-        "total_shares": 0,
-        "total_lots": 0
-      },
-      {
         "stock_id": "EOG_20360115",
         "stock_name": "EOG RESOURCES INC",
         "stock_display": "EOG RESOURCES INC(EOG_20360115)",
@@ -35704,15 +35974,6 @@
         "total_lots": 0
       },
       {
-        "stock_id": "GEV US",
-        "stock_name": "GE VERNOVA INC",
-        "stock_display": "GE VERNOVA INC(GEV US)",
-        "held_etf_count": 1,
-        "avg_weight_pct": 0.0,
-        "total_shares": 0,
-        "total_lots": 0
-      },
-      {
         "stock_id": "GFS",
         "stock_name": "GLOBALFOUNDRIES INC",
         "stock_display": "GLOBALFOUNDRIES INC(GFS)",
@@ -35824,6 +36085,15 @@
         "stock_id": "HUM_20540415",
         "stock_name": "HUMANA INC",
         "stock_display": "HUMANA INC(HUM_20540415)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "total_shares": 0,
+        "total_lots": 0
+      },
+      {
+        "stock_id": "HWM US",
+        "stock_name": "Howmet航太公司",
+        "stock_display": "Howmet航太公司(HWM US)",
         "held_etf_count": 1,
         "avg_weight_pct": 0.0,
         "total_shares": 0,
@@ -36103,15 +36373,6 @@
         "stock_id": "LUMN",
         "stock_name": "LUMEN TECHNOLOGIES INC",
         "stock_display": "LUMEN TECHNOLOGIES INC(LUMN)",
-        "held_etf_count": 1,
-        "avg_weight_pct": 0.0,
-        "total_shares": 0,
-        "total_lots": 0
-      },
-      {
-        "stock_id": "MA US",
-        "stock_name": "萬事達卡",
-        "stock_display": "萬事達卡(MA US)",
         "held_etf_count": 1,
         "avg_weight_pct": 0.0,
         "total_shares": 0,
@@ -38845,6 +39106,15 @@
         "total_lots": 0
       },
       {
+        "stock_id": "VRTX US",
+        "stock_name": "福泰製藥公司",
+        "stock_display": "福泰製藥公司(VRTX US)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "total_shares": 0,
+        "total_lots": 0
+      },
+      {
         "stock_id": "VRT_20560315",
         "stock_name": "VERTIV HOLDINGS CO",
         "stock_display": "VERTIV HOLDINGS CO(VRT_20560315)",
@@ -38929,6 +39199,15 @@
         "stock_id": "WMB_20560315",
         "stock_name": "WILLIAMS COMPANIES INC",
         "stock_display": "WILLIAMS COMPANIES INC(WMB_20560315)",
+        "held_etf_count": 1,
+        "avg_weight_pct": 0.0,
+        "total_shares": 0,
+        "total_lots": 0
+      },
+      {
+        "stock_id": "WMT UN",
+        "stock_name": "沃爾瑪公司",
+        "stock_display": "沃爾瑪公司(WMT UN)",
         "held_etf_count": 1,
         "avg_weight_pct": 0.0,
         "total_shares": 0,
@@ -39176,7 +39455,7 @@
         "stock_name": "布魯姆能源公司",
         "stock_display": "布魯姆能源公司(BE US)",
         "add_etf_count": 3,
-        "avg_weight_pct": 6.02,
+        "avg_weight_pct": 5.05,
         "total_shares_change_lot": 83.2,
         "strong_add_flag": false,
         "flag_text": ""
@@ -39224,6 +39503,15 @@
     ],
     "crowded_holding_rank": [
       {
+        "stock_id": "2330",
+        "stock_name": "台積電",
+        "stock_display": "台積電(2330)",
+        "held_etf_count": 26,
+        "avg_weight_pct": 9.2,
+        "total_shares": 39311759,
+        "total_lots": 39311.8
+      },
+      {
         "stock_id": "2383",
         "stock_name": "台光電",
         "stock_display": "台光電(2383)",
@@ -39233,22 +39521,13 @@
         "total_lots": 10996.4
       },
       {
-        "stock_id": "2330",
-        "stock_name": "台積電",
-        "stock_display": "台積電(2330)",
-        "held_etf_count": 25,
-        "avg_weight_pct": 9.25,
-        "total_shares": 39293759,
-        "total_lots": 39293.8
-      },
-      {
         "stock_id": "2454",
         "stock_name": "聯發科",
         "stock_display": "聯發科(2454)",
-        "held_etf_count": 25,
-        "avg_weight_pct": 4.28,
-        "total_shares": 12297710,
-        "total_lots": 12297.7
+        "held_etf_count": 26,
+        "avg_weight_pct": 4.17,
+        "total_shares": 12299710,
+        "total_lots": 12299.7
       },
       {
         "stock_id": "3017",
