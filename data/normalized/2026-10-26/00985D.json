@@ -2,37 +2,22 @@
   "meta": {
     "etf_code": "00985D",
     "etf_name": "主動貝萊德優投等",
-    "data_date": "2026-10-22",
-    "run_date": "2026-10-26",
+    "data_date": "2026-10-26",
+    "run_date": "2026-10-27",
     "source_status": "updated",
     "source_url": "https://www.etfinfo.tw/etf/00985D/holdings",
-    "holdings_count": 411,
-    "compare_date": "2026-10-21"
+    "holdings_count": 412,
+    "compare_date": "2026-10-22"
   },
   "holdings": [
     {
       "stock_id": "TLTW US",
       "stock_name": "iShares TLT Prem Income+ ETF COM",
       "stock_display": "iShares TLT Prem Income+ ETF COM(TLTW US)",
-      "weight_pct": 19.9,
+      "weight_pct": 19.97,
       "shares": 350482,
       "shares_lot": 350.5,
-      "weight_change_pct": 0.08,
-      "shares_change": 0,
-      "shares_change_lot": 0,
-      "source_change_text": "持平",
-      "system_change_type": "持平",
-      "source_status": "updated",
-      "note": "股數持平但比例變動"
-    },
-    {
-      "stock_id": "BOND_3d508a54f8617e702641",
-      "stock_name": "CVS HEALTH CORP",
-      "stock_display": "CVS HEALTH CORP(BOND_3d508a54f8617e702641)",
-      "weight_pct": 1.53,
-      "shares": 575000,
-      "shares_lot": 575,
-      "weight_change_pct": 0.02,
+      "weight_change_pct": 0.07,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
@@ -44,14 +29,29 @@
       "stock_id": "CASH_HSBFT",
       "stock_name": "CASH COLLATERAL USD HSBFT",
       "stock_display": "CASH COLLATERAL USD HSBFT(CASH_HSBFT)",
-      "weight_pct": 1.34,
-      "shares": 496000,
-      "shares_lot": 496,
-      "weight_change_pct": -0.04,
-      "shares_change": -10000,
-      "shares_change_lot": -10,
-      "source_change_text": "減碼",
-      "system_change_type": "減碼",
+      "weight_pct": 1.64,
+      "shares": 606000,
+      "shares_lot": 606,
+      "weight_change_pct": 0.3,
+      "shares_change": 110000,
+      "shares_change_lot": 110,
+      "source_change_text": "加碼",
+      "system_change_type": "加碼",
+      "source_status": "updated",
+      "note": ""
+    },
+    {
+      "stock_id": "BOND_3d508a54f8617e702641",
+      "stock_name": "CVS HEALTH CORP",
+      "stock_display": "CVS HEALTH CORP(BOND_3d508a54f8617e702641)",
+      "weight_pct": 1.53,
+      "shares": 575000,
+      "shares_lot": 575,
+      "weight_change_pct": 0.0,
+      "shares_change": 0,
+      "shares_change_lot": 0,
+      "source_change_text": "持平",
+      "system_change_type": "持平",
       "source_status": "updated",
       "note": ""
     },
@@ -62,13 +62,13 @@
       "weight_pct": 1.1,
       "shares": 400000,
       "shares_lot": 400,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_dfa9429a7df8805c74c7",
@@ -77,13 +77,13 @@
       "weight_pct": 1.06,
       "shares": 375000,
       "shares_lot": 375,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_dbe621dfffaa5654ce74",
@@ -92,13 +92,13 @@
       "weight_pct": 1.03,
       "shares": 350000,
       "shares_lot": 350,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_2594226a6bc98d3fcafd",
@@ -107,13 +107,13 @@
       "weight_pct": 1.01,
       "shares": 400000,
       "shares_lot": 400,
-      "weight_change_pct": 0.02,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_f6865fef9708564fc353",
@@ -122,13 +122,13 @@
       "weight_pct": 1.01,
       "shares": 400000,
       "shares_lot": 400,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_d0912578fa9eca16d6f7",
@@ -137,21 +137,6 @@
       "weight_pct": 0.98,
       "shares": 350000,
       "shares_lot": 350,
-      "weight_change_pct": 0.01,
-      "shares_change": 0,
-      "shares_change_lot": 0,
-      "source_change_text": "持平",
-      "system_change_type": "持平",
-      "source_status": "updated",
-      "note": "股數持平但比例變動"
-    },
-    {
-      "stock_id": "BOND_5e1baa3dd764b18b2e00",
-      "stock_name": "AT&T INC",
-      "stock_display": "AT&T INC(BOND_5e1baa3dd764b18b2e00)",
-      "weight_pct": 0.97,
-      "shares": 400000,
-      "shares_lot": 400,
       "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
@@ -167,13 +152,13 @@
       "weight_pct": 0.96,
       "shares": 325000,
       "shares_lot": 325,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_db801b0f97e57c451981",
@@ -189,6 +174,21 @@
       "system_change_type": "持平",
       "source_status": "updated",
       "note": ""
+    },
+    {
+      "stock_id": "BOND_5e1baa3dd764b18b2e00",
+      "stock_name": "AT&T INC",
+      "stock_display": "AT&T INC(BOND_5e1baa3dd764b18b2e00)",
+      "weight_pct": 0.95,
+      "shares": 400000,
+      "shares_lot": 400,
+      "weight_change_pct": -0.02,
+      "shares_change": 0,
+      "shares_change_lot": 0,
+      "source_change_text": "持平",
+      "system_change_type": "持平",
+      "source_status": "updated",
+      "note": "股數持平但比例變動"
     },
     {
       "stock_id": "BOND_41396834953defbb2951",
@@ -212,13 +212,13 @@
       "weight_pct": 0.92,
       "shares": 300000,
       "shares_lot": 300,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_3bbe89ccea98384fbdf4",
@@ -227,13 +227,13 @@
       "weight_pct": 0.91,
       "shares": 350000,
       "shares_lot": 350,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_f9155eb801c2a42de2e4",
@@ -257,13 +257,13 @@
       "weight_pct": 0.81,
       "shares": 325000,
       "shares_lot": 325,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_190bd447c8164aa81102",
@@ -272,13 +272,13 @@
       "weight_pct": 0.79,
       "shares": 300000,
       "shares_lot": 300,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_731452cdc735a680abbb",
@@ -362,13 +362,13 @@
       "weight_pct": 0.69,
       "shares": 275000,
       "shares_lot": 275,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_f2f9d8cd3572b56ee908",
@@ -377,13 +377,13 @@
       "weight_pct": 0.67,
       "shares": 250000,
       "shares_lot": 250,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_477634a953966cb30a01",
@@ -407,13 +407,13 @@
       "weight_pct": 0.63,
       "shares": 225000,
       "shares_lot": 225,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_ae341d58bf81f3347f4b",
@@ -422,13 +422,13 @@
       "weight_pct": 0.63,
       "shares": 275000,
       "shares_lot": 275,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_6b049096645d80058ebf",
@@ -464,10 +464,10 @@
       "stock_id": "BOND_cec9cd5223c8792b8ecb",
       "stock_name": "BROADCOM INC",
       "stock_display": "BROADCOM INC(BOND_cec9cd5223c8792b8ecb)",
-      "weight_pct": 0.6,
+      "weight_pct": 0.59,
       "shares": 250000,
       "shares_lot": 250,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": -0.01,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
@@ -512,13 +512,13 @@
       "weight_pct": 0.58,
       "shares": 300000,
       "shares_lot": 300,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_22ba3d6cf91b5be9e5d9",
@@ -557,13 +557,13 @@
       "weight_pct": 0.56,
       "shares": 200000,
       "shares_lot": 200,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_b9c01bd4c60e719742b3",
@@ -611,21 +611,6 @@
       "note": ""
     },
     {
-      "stock_id": "BOND_e945ac1b25ef64087eea",
-      "stock_name": "T-MOBILE USA INC",
-      "stock_display": "T-MOBILE USA INC(BOND_e945ac1b25ef64087eea)",
-      "weight_pct": 0.56,
-      "shares": 250000,
-      "shares_lot": 250,
-      "weight_change_pct": 0.0,
-      "shares_change": 0,
-      "shares_change_lot": 0,
-      "source_change_text": "持平",
-      "system_change_type": "持平",
-      "source_status": "updated",
-      "note": ""
-    },
-    {
       "stock_id": "BOND_2aebea3a3e32455e4ba4",
       "stock_name": "HSBC HOLDINGS PLC",
       "stock_display": "HSBC HOLDINGS PLC(BOND_2aebea3a3e32455e4ba4)",
@@ -647,13 +632,13 @@
       "weight_pct": 0.55,
       "shares": 225000,
       "shares_lot": 225,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_85aa4d3db13334c13b15",
@@ -662,13 +647,13 @@
       "weight_pct": 0.55,
       "shares": 225000,
       "shares_lot": 225,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_e2b1a6fc8be8b68ee7bd",
@@ -677,7 +662,22 @@
       "weight_pct": 0.55,
       "shares": 225000,
       "shares_lot": 225,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
+      "shares_change": 0,
+      "shares_change_lot": 0,
+      "source_change_text": "持平",
+      "system_change_type": "持平",
+      "source_status": "updated",
+      "note": ""
+    },
+    {
+      "stock_id": "BOND_e945ac1b25ef64087eea",
+      "stock_name": "T-MOBILE USA INC",
+      "stock_display": "T-MOBILE USA INC(BOND_e945ac1b25ef64087eea)",
+      "weight_pct": 0.55,
+      "shares": 250000,
+      "shares_lot": 250,
+      "weight_change_pct": -0.01,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
@@ -761,9 +761,9 @@
       "note": ""
     },
     {
-      "stock_id": "BOND_8ea57ff646ab9f6e2914",
-      "stock_name": "BOEING CO",
-      "stock_display": "BOEING CO(BOND_8ea57ff646ab9f6e2914)",
+      "stock_id": "BOND_6dea16c1e70d11b2a420",
+      "stock_name": "WILLIAMS COMPANIES INC",
+      "stock_display": "WILLIAMS COMPANIES INC(BOND_6dea16c1e70d11b2a420)",
       "weight_pct": 0.52,
       "shares": 200000,
       "shares_lot": 200,
@@ -776,25 +776,10 @@
       "note": "股數持平但比例變動"
     },
     {
-      "stock_id": "BOND_a929cde411c902f98346",
-      "stock_name": "PHILLIPS 66 CO (NC10.25)",
-      "stock_display": "PHILLIPS 66 CO (NC10.25)(BOND_a929cde411c902f98346)",
+      "stock_id": "BOND_8ea57ff646ab9f6e2914",
+      "stock_name": "BOEING CO",
+      "stock_display": "BOEING CO(BOND_8ea57ff646ab9f6e2914)",
       "weight_pct": 0.52,
-      "shares": 200000,
-      "shares_lot": 200,
-      "weight_change_pct": -0.01,
-      "shares_change": 0,
-      "shares_change_lot": 0,
-      "source_change_text": "持平",
-      "system_change_type": "持平",
-      "source_status": "updated",
-      "note": "股數持平但比例變動"
-    },
-    {
-      "stock_id": "BOND_479653afbdf2caff8713",
-      "stock_name": "EMBRAER NETHERLANDS FINANCE BV",
-      "stock_display": "EMBRAER NETHERLANDS FINANCE BV(BOND_479653afbdf2caff8713)",
-      "weight_pct": 0.51,
       "shares": 200000,
       "shares_lot": 200,
       "weight_change_pct": 0.0,
@@ -806,9 +791,24 @@
       "note": ""
     },
     {
-      "stock_id": "BOND_6dea16c1e70d11b2a420",
-      "stock_name": "WILLIAMS COMPANIES INC",
-      "stock_display": "WILLIAMS COMPANIES INC(BOND_6dea16c1e70d11b2a420)",
+      "stock_id": "BOND_a929cde411c902f98346",
+      "stock_name": "PHILLIPS 66 CO (NC10.25)",
+      "stock_display": "PHILLIPS 66 CO (NC10.25)(BOND_a929cde411c902f98346)",
+      "weight_pct": 0.52,
+      "shares": 200000,
+      "shares_lot": 200,
+      "weight_change_pct": 0.0,
+      "shares_change": 0,
+      "shares_change_lot": 0,
+      "source_change_text": "持平",
+      "system_change_type": "持平",
+      "source_status": "updated",
+      "note": ""
+    },
+    {
+      "stock_id": "BOND_479653afbdf2caff8713",
+      "stock_name": "EMBRAER NETHERLANDS FINANCE BV",
+      "stock_display": "EMBRAER NETHERLANDS FINANCE BV(BOND_479653afbdf2caff8713)",
       "weight_pct": 0.51,
       "shares": 200000,
       "shares_lot": 200,
@@ -857,13 +857,13 @@
       "weight_pct": 0.51,
       "shares": 200000,
       "shares_lot": 200,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_aac6d2b5c5605ed98785",
@@ -896,34 +896,19 @@
       "note": ""
     },
     {
-      "stock_id": "BOND_911e6ef19118974b81da",
-      "stock_name": "COMCAST CORPORATION",
-      "stock_display": "COMCAST CORPORATION(BOND_911e6ef19118974b81da)",
-      "weight_pct": 0.5,
-      "shares": 200000,
-      "shares_lot": 200,
-      "weight_change_pct": 0.01,
-      "shares_change": 0,
-      "shares_change_lot": 0,
-      "source_change_text": "持平",
-      "system_change_type": "持平",
-      "source_status": "updated",
-      "note": "股數持平但比例變動"
-    },
-    {
       "stock_id": "BOND_9e9ba2fbb25518f60c3d",
       "stock_name": "WOODSIDE FINANCE LTD",
       "stock_display": "WOODSIDE FINANCE LTD(BOND_9e9ba2fbb25518f60c3d)",
       "weight_pct": 0.5,
       "shares": 200000,
       "shares_lot": 200,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_b873e31b7f98b6842d7b",
@@ -954,6 +939,21 @@
       "system_change_type": "持平",
       "source_status": "updated",
       "note": ""
+    },
+    {
+      "stock_id": "BOND_911e6ef19118974b81da",
+      "stock_name": "COMCAST CORPORATION",
+      "stock_display": "COMCAST CORPORATION(BOND_911e6ef19118974b81da)",
+      "weight_pct": 0.49,
+      "shares": 200000,
+      "shares_lot": 200,
+      "weight_change_pct": -0.01,
+      "shares_change": 0,
+      "shares_change_lot": 0,
+      "source_change_text": "持平",
+      "system_change_type": "持平",
+      "source_status": "updated",
+      "note": "股數持平但比例變動"
     },
     {
       "stock_id": "BOND_d33ad765f0a3890646f2",
@@ -1007,13 +1007,13 @@
       "weight_pct": 0.48,
       "shares": 200000,
       "shares_lot": 200,
-      "weight_change_pct": -0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_c1a1540eb065972d6e06",
@@ -1022,13 +1022,13 @@
       "weight_pct": 0.48,
       "shares": 175000,
       "shares_lot": 175,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_d9fee990eb8e215bc9b5",
@@ -1052,13 +1052,13 @@
       "weight_pct": 0.47,
       "shares": 200000,
       "shares_lot": 200,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_aa468018414055c0f4ad",
@@ -1067,13 +1067,13 @@
       "weight_pct": 0.47,
       "shares": 200000,
       "shares_lot": 200,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_27746bea6526239636e5",
@@ -1232,13 +1232,13 @@
       "weight_pct": 0.41,
       "shares": 200000,
       "shares_lot": 200,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_51d6fb7ed0ca6c92e621",
@@ -1247,13 +1247,13 @@
       "weight_pct": 0.4,
       "shares": 150000,
       "shares_lot": 150,
-      "weight_change_pct": -0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_656a7f759a74278186fa",
@@ -1286,10 +1286,10 @@
       "note": ""
     },
     {
-      "stock_id": "BOND_d6a24ad98b4a17589424",
-      "stock_name": "SOUTHERN COPPER CORP",
-      "stock_display": "SOUTHERN COPPER CORP(BOND_d6a24ad98b4a17589424)",
-      "weight_pct": 0.4,
+      "stock_id": "BOND_0d122d7c32ab3ff2ac83",
+      "stock_name": "GLP CAPITAL LP",
+      "stock_display": "GLP CAPITAL LP(BOND_0d122d7c32ab3ff2ac83)",
+      "weight_pct": 0.39,
       "shares": 150000,
       "shares_lot": 150,
       "weight_change_pct": 0.0,
@@ -1299,21 +1299,6 @@
       "system_change_type": "持平",
       "source_status": "updated",
       "note": ""
-    },
-    {
-      "stock_id": "BOND_0d122d7c32ab3ff2ac83",
-      "stock_name": "GLP CAPITAL LP",
-      "stock_display": "GLP CAPITAL LP(BOND_0d122d7c32ab3ff2ac83)",
-      "weight_pct": 0.39,
-      "shares": 150000,
-      "shares_lot": 150,
-      "weight_change_pct": 0.01,
-      "shares_change": 0,
-      "shares_change_lot": 0,
-      "source_change_text": "持平",
-      "system_change_type": "持平",
-      "source_status": "updated",
-      "note": "股數持平但比例變動"
     },
     {
       "stock_id": "BOND_197be6ddd3a430880e88",
@@ -1421,19 +1406,34 @@
       "note": ""
     },
     {
-      "stock_id": "BOND_fa47a3c283543647099d",
-      "stock_name": "ROYALTY PHARMA PLC",
-      "stock_display": "ROYALTY PHARMA PLC(BOND_fa47a3c283543647099d)",
+      "stock_id": "BOND_d6a24ad98b4a17589424",
+      "stock_name": "SOUTHERN COPPER CORP",
+      "stock_display": "SOUTHERN COPPER CORP(BOND_d6a24ad98b4a17589424)",
       "weight_pct": 0.39,
       "shares": 150000,
       "shares_lot": 150,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": -0.01,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
       "note": "股數持平但比例變動"
+    },
+    {
+      "stock_id": "BOND_fa47a3c283543647099d",
+      "stock_name": "ROYALTY PHARMA PLC",
+      "stock_display": "ROYALTY PHARMA PLC(BOND_fa47a3c283543647099d)",
+      "weight_pct": 0.39,
+      "shares": 150000,
+      "shares_lot": 150,
+      "weight_change_pct": 0.0,
+      "shares_change": 0,
+      "shares_change_lot": 0,
+      "source_change_text": "持平",
+      "system_change_type": "持平",
+      "source_status": "updated",
+      "note": ""
     },
     {
       "stock_id": "BOND_6a1b2cd8d3e3e972ae73",
@@ -1472,13 +1472,13 @@
       "weight_pct": 0.36,
       "shares": 150000,
       "shares_lot": 150,
-      "weight_change_pct": -0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_dfd72c49c0fe3028795a",
@@ -1496,10 +1496,10 @@
       "note": ""
     },
     {
-      "stock_id": "BOND_91e950a3ad8a354dfe8d",
-      "stock_name": "VALE OVERSEAS LTD",
-      "stock_display": "VALE OVERSEAS LTD(BOND_91e950a3ad8a354dfe8d)",
-      "weight_pct": 0.34,
+      "stock_id": "BOND_4bcb8b36e434f11d6897",
+      "stock_name": "FAIRFAX FINANCIAL HOLDINGS LTD",
+      "stock_display": "FAIRFAX FINANCIAL HOLDINGS LTD(BOND_4bcb8b36e434f11d6897)",
+      "weight_pct": 0.33,
       "shares": 125000,
       "shares_lot": 125,
       "weight_change_pct": 0.0,
@@ -1509,21 +1509,6 @@
       "system_change_type": "持平",
       "source_status": "updated",
       "note": ""
-    },
-    {
-      "stock_id": "BOND_4bcb8b36e434f11d6897",
-      "stock_name": "FAIRFAX FINANCIAL HOLDINGS LTD",
-      "stock_display": "FAIRFAX FINANCIAL HOLDINGS LTD(BOND_4bcb8b36e434f11d6897)",
-      "weight_pct": 0.33,
-      "shares": 125000,
-      "shares_lot": 125,
-      "weight_change_pct": 0.01,
-      "shares_change": 0,
-      "shares_change_lot": 0,
-      "source_change_text": "持平",
-      "system_change_type": "持平",
-      "source_status": "updated",
-      "note": "股數持平但比例變動"
     },
     {
       "stock_id": "BOND_6280c6e60d11d32cbb82",
@@ -1539,6 +1524,21 @@
       "system_change_type": "持平",
       "source_status": "updated",
       "note": ""
+    },
+    {
+      "stock_id": "BOND_91e950a3ad8a354dfe8d",
+      "stock_name": "VALE OVERSEAS LTD",
+      "stock_display": "VALE OVERSEAS LTD(BOND_91e950a3ad8a354dfe8d)",
+      "weight_pct": 0.33,
+      "shares": 125000,
+      "shares_lot": 125,
+      "weight_change_pct": -0.01,
+      "shares_change": 0,
+      "shares_change_lot": 0,
+      "source_change_text": "持平",
+      "system_change_type": "持平",
+      "source_status": "updated",
+      "note": "股數持平但比例變動"
     },
     {
       "stock_id": "BOND_e78e3f893be1a2d5aac1",
@@ -1622,13 +1622,13 @@
       "weight_pct": 0.31,
       "shares": 175000,
       "shares_lot": 175,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_2a2be9e3cd3b5bfb420a",
@@ -1697,13 +1697,13 @@
       "weight_pct": 0.3,
       "shares": 125000,
       "shares_lot": 125,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_71c5d2d16d9ab3a5e00f",
@@ -1727,13 +1727,13 @@
       "weight_pct": 0.28,
       "shares": 125000,
       "shares_lot": 125,
-      "weight_change_pct": 0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_26c35214dcfa885ff032",
@@ -1751,17 +1751,17 @@
       "note": ""
     },
     {
-      "stock_id": "BOND_4cc7fd8aed3dc814a7d6",
-      "stock_name": "CHENIERE ENERGY PARTNERS LP 144A",
-      "stock_display": "CHENIERE ENERGY PARTNERS LP 144A(BOND_4cc7fd8aed3dc814a7d6)",
+      "stock_id": "BOND_40d7be746e5cb2ac6455",
+      "stock_name": "CHENIERE ENERGY PARTNERS LP",
+      "stock_display": "CHENIERE ENERGY PARTNERS LP(BOND_40d7be746e5cb2ac6455)",
       "weight_pct": 0.27,
       "shares": 100000,
       "shares_lot": 100,
-      "weight_change_pct": 0.0,
-      "shares_change": 0,
-      "shares_change_lot": 0,
-      "source_change_text": "持平",
-      "system_change_type": "持平",
+      "weight_change_pct": 0.27,
+      "shares_change": 100000,
+      "shares_change_lot": 100,
+      "source_change_text": "新增",
+      "system_change_type": "新增",
       "source_status": "updated",
       "note": ""
     },
@@ -1772,13 +1772,13 @@
       "weight_pct": 0.27,
       "shares": 100000,
       "shares_lot": 100,
-      "weight_change_pct": -0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_8a645a8bca014524f858",
@@ -1886,21 +1886,6 @@
       "note": ""
     },
     {
-      "stock_id": "CASH_USD",
-      "stock_name": "USD CASH",
-      "stock_display": "USD CASH(CASH_USD)",
-      "weight_pct": 0.27,
-      "shares": 99958,
-      "shares_lot": 100.0,
-      "weight_change_pct": 0.08,
-      "shares_change": 31250,
-      "shares_change_lot": 31.2,
-      "source_change_text": "加碼",
-      "system_change_type": "加碼",
-      "source_status": "updated",
-      "note": ""
-    },
-    {
       "stock_id": "BOND_0f3f8fa1e5b5e20cb421",
       "stock_name": "MPLX LP",
       "stock_display": "MPLX LP(BOND_0f3f8fa1e5b5e20cb421)",
@@ -1922,13 +1907,13 @@
       "weight_pct": 0.26,
       "shares": 100000,
       "shares_lot": 100,
-      "weight_change_pct": -0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_23eb23e32c70bc3d9f01",
@@ -1937,13 +1922,13 @@
       "weight_pct": 0.26,
       "shares": 100000,
       "shares_lot": 100,
-      "weight_change_pct": -0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_277491c7688bb9e0ee5e",
@@ -2012,13 +1997,13 @@
       "weight_pct": 0.26,
       "shares": 100000,
       "shares_lot": 100,
-      "weight_change_pct": -0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_4cfb36d0089687596e20",
@@ -2117,13 +2102,13 @@
       "weight_pct": 0.26,
       "shares": 100000,
       "shares_lot": 100,
-      "weight_change_pct": -0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_a18fa66c900c41958632",
@@ -2132,13 +2117,13 @@
       "weight_pct": 0.26,
       "shares": 100000,
       "shares_lot": 100,
-      "weight_change_pct": -0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_b60b9ce04aab6ae71c1a",
@@ -2342,13 +2327,13 @@
       "weight_pct": 0.25,
       "shares": 100000,
       "shares_lot": 100,
-      "weight_change_pct": -0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_7fbaea6f143a7a2c11fe",
@@ -2582,13 +2567,13 @@
       "weight_pct": 0.24,
       "shares": 100000,
       "shares_lot": 100,
-      "weight_change_pct": -0.01,
+      "weight_change_pct": 0.0,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
       "source_status": "updated",
-      "note": "股數持平但比例變動"
+      "note": ""
     },
     {
       "stock_id": "BOND_e546534d0183c622264c",
@@ -2865,11 +2850,11 @@
       "stock_name": "TWD CASH",
       "stock_display": "TWD CASH(CASH_TWD)",
       "weight_pct": 0.02,
-      "shares": 284190,
-      "shares_lot": 284.2,
-      "weight_change_pct": -0.01,
-      "shares_change": -22478,
-      "shares_change_lot": -22.5,
+      "shares": 261829,
+      "shares_lot": 261.8,
+      "weight_change_pct": 0.0,
+      "shares_change": -22361,
+      "shares_change_lot": -22.4,
       "source_change_text": "減碼",
       "system_change_type": "減碼",
       "source_status": "updated",
@@ -3307,6 +3292,21 @@
       "shares_change_lot": 0,
       "source_change_text": "持平",
       "system_change_type": "持平",
+      "source_status": "updated",
+      "note": ""
+    },
+    {
+      "stock_id": "BOND_4cc7fd8aed3dc814a7d6",
+      "stock_name": "CHENIERE ENERGY PARTNERS LP 144A",
+      "stock_display": "CHENIERE ENERGY PARTNERS LP 144A(BOND_4cc7fd8aed3dc814a7d6)",
+      "weight_pct": 0,
+      "shares": 0,
+      "shares_lot": 0,
+      "weight_change_pct": -0.27,
+      "shares_change": -100000,
+      "shares_change_lot": -100,
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
       "source_status": "updated",
       "note": ""
     },
@@ -4200,13 +4200,13 @@
       "stock_name": "US LONG BOND DEC 26",
       "stock_display": "US LONG BOND DEC 26(FUTURE_USZ6)",
       "weight_pct": 0.0,
-      "shares": 10,
+      "shares": 26,
       "shares_lot": 0.0,
       "weight_change_pct": 0.0,
-      "shares_change": 0,
-      "shares_change_lot": 0,
-      "source_change_text": "持平",
-      "system_change_type": "持平",
+      "shares_change": 16,
+      "shares_change_lot": 0.0,
+      "source_change_text": "加碼",
+      "system_change_type": "加碼",
       "source_status": "updated",
       "note": ""
     },
@@ -6161,13 +6161,28 @@
       "note": ""
     },
     {
+      "stock_id": "CASH_USD",
+      "stock_name": "USD CASH",
+      "stock_display": "USD CASH(CASH_USD)",
+      "weight_pct": -0.03,
+      "shares": -9628,
+      "shares_lot": -9.6,
+      "weight_change_pct": -0.3,
+      "shares_change": -109586,
+      "shares_change_lot": -109.6,
+      "source_change_text": "減碼",
+      "system_change_type": "減碼",
+      "source_status": "updated",
+      "note": ""
+    },
+    {
       "stock_id": "OTHER_USZ26C",
       "stock_name": "DEC26 USZ6 C @ 104.0",
       "stock_display": "DEC26 USZ6 C @ 104.0(OTHER_USZ26C)",
-      "weight_pct": -0.97,
+      "weight_pct": -0.9,
       "shares": -87,
       "shares_lot": -0.1,
-      "weight_change_pct": -0.38,
+      "weight_change_pct": 0.07,
       "shares_change": 0,
       "shares_change_lot": 0,
       "source_change_text": "持平",
