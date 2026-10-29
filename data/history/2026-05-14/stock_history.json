@@ -120,7 +120,8 @@
       "2026-10-22",
       "2026-10-26",
       "2026-10-27",
-      "2026-10-28"
+      "2026-10-28",
+      "2026-10-29"
     ],
     "available_dates": [
       "2026-05-14",
@@ -239,7 +240,8 @@
       "2026-10-22",
       "2026-10-26",
       "2026-10-27",
-      "2026-10-28"
+      "2026-10-28",
+      "2026-10-29"
     ],
     "dates": [
       "2026-05-14"
@@ -266,15 +268,15 @@
               "shares": 11657000,
               "shares_lot": 11657
             },
-            "00990A": {
-              "weight_pct": 3.64,
-              "shares": 531000,
-              "shares_lot": 531
-            },
             "00988A": {
               "weight_pct": 1.7,
               "shares": 270000,
               "shares_lot": 270
+            },
+            "00990A": {
+              "weight_pct": 3.64,
+              "shares": 531000,
+              "shares_lot": 531
             }
           }
         }
@@ -297,15 +299,15 @@
               "shares": 4723000,
               "shares_lot": 4723
             },
-            "00990A": {
-              "weight_pct": 2.14,
-              "shares": 144000,
-              "shares_lot": 144
-            },
             "00988A": {
               "weight_pct": 3.03,
               "shares": 217000,
               "shares_lot": 217
+            },
+            "00990A": {
+              "weight_pct": 2.14,
+              "shares": 144000,
+              "shares_lot": 144
             }
           }
         }
@@ -349,15 +351,15 @@
               "shares": 4263000,
               "shares_lot": 4263
             },
-            "00990A": {
-              "weight_pct": 0.51,
-              "shares": 50000,
-              "shares_lot": 50
-            },
             "00988A": {
               "weight_pct": 3.12,
               "shares": 315000,
               "shares_lot": 315
+            },
+            "00990A": {
+              "weight_pct": 0.51,
+              "shares": 50000,
+              "shares_lot": 50
             }
           }
         }
@@ -380,15 +382,15 @@
               "shares": 6572000,
               "shares_lot": 6572
             },
-            "00990A": {
-              "weight_pct": 4.09,
-              "shares": 628000,
-              "shares_lot": 628
-            },
             "00988A": {
               "weight_pct": 1.89,
               "shares": 307000,
               "shares_lot": 307
+            },
+            "00990A": {
+              "weight_pct": 4.09,
+              "shares": 628000,
+              "shares_lot": 628
             }
           }
         }
@@ -437,15 +439,15 @@
               "shares": 4925000,
               "shares_lot": 4925
             },
-            "00990A": {
-              "weight_pct": 1.0,
-              "shares": 130000,
-              "shares_lot": 130
-            },
             "00988A": {
               "weight_pct": 1.58,
               "shares": 215000,
               "shares_lot": 215
+            },
+            "00990A": {
+              "weight_pct": 1.0,
+              "shares": 130000,
+              "shares_lot": 130
             }
           }
         }
@@ -552,15 +554,15 @@
               "shares": 10822000,
               "shares_lot": 10822
             },
-            "00990A": {
-              "weight_pct": 1.69,
-              "shares": 634000,
-              "shares_lot": 634
-            },
             "00988A": {
               "weight_pct": 2.27,
               "shares": 897000,
               "shares_lot": 897
+            },
+            "00990A": {
+              "weight_pct": 1.69,
+              "shares": 634000,
+              "shares_lot": 634
             }
           }
         }
@@ -604,15 +606,15 @@
               "shares": 483000,
               "shares_lot": 483
             },
-            "00990A": {
-              "weight_pct": 0.54,
-              "shares": 10000,
-              "shares_lot": 10
-            },
             "00988A": {
               "weight_pct": 1.52,
               "shares": 30000,
               "shares_lot": 30
+            },
+            "00990A": {
+              "weight_pct": 0.54,
+              "shares": 10000,
+              "shares_lot": 10
             }
           }
         }
@@ -708,15 +710,15 @@
               "shares": 4151000,
               "shares_lot": 4151
             },
-            "00990A": {
-              "weight_pct": 1.18,
-              "shares": 268000,
-              "shares_lot": 268
-            },
             "00988A": {
               "weight_pct": 0.95,
               "shares": 230000,
               "shares_lot": 230
+            },
+            "00990A": {
+              "weight_pct": 1.18,
+              "shares": 268000,
+              "shares_lot": 268
             }
           }
         }
@@ -1315,27 +1317,6 @@
         }
       ]
     },
-    "5347": {
-      "stock_id": "5347",
-      "stock_name": "世界",
-      "stock_display": "世界(5347)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 1,
-          "avg_weight_pct": 1.32,
-          "total_shares": 2498000,
-          "total_lots": 2498,
-          "etfs": {
-            "00990A": {
-              "weight_pct": 1.32,
-              "shares": 2498000,
-              "shares_lot": 2498
-            }
-          }
-        }
-      ]
-    },
     "7769": {
       "stock_id": "7769",
       "stock_name": "鴻勁",
@@ -1352,6 +1333,27 @@
               "weight_pct": 0.76,
               "shares": 36000,
               "shares_lot": 36
+            }
+          }
+        }
+      ]
+    },
+    "5347": {
+      "stock_id": "5347",
+      "stock_name": "世界",
+      "stock_display": "世界(5347)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 1.32,
+          "total_shares": 2498000,
+          "total_lots": 2498,
+          "etfs": {
+            "00990A": {
+              "weight_pct": 1.32,
+              "shares": 2498000,
+              "shares_lot": 2498
             }
           }
         }
