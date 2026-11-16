@@ -132,7 +132,8 @@
       "2026-11-10",
       "2026-11-11",
       "2026-11-12",
-      "2026-11-13"
+      "2026-11-13",
+      "2026-11-16"
     ],
     "available_dates": [
       "2026-05-14",
@@ -263,7 +264,8 @@
       "2026-11-10",
       "2026-11-11",
       "2026-11-12",
-      "2026-11-13"
+      "2026-11-13",
+      "2026-11-16"
     ],
     "dates": [
       "2026-05-14"
@@ -290,15 +292,15 @@
               "shares": 628000,
               "shares_lot": 628
             },
-            "00981A": {
-              "weight_pct": 5.3,
-              "shares": 6572000,
-              "shares_lot": 6572
-            },
             "00988A": {
               "weight_pct": 1.89,
               "shares": 307000,
               "shares_lot": 307
+            },
+            "00981A": {
+              "weight_pct": 5.3,
+              "shares": 6572000,
+              "shares_lot": 6572
             }
           }
         }
@@ -321,15 +323,15 @@
               "shares": 531000,
               "shares_lot": 531
             },
-            "00981A": {
-              "weight_pct": 10.26,
-              "shares": 11657000,
-              "shares_lot": 11657
-            },
             "00988A": {
               "weight_pct": 1.7,
               "shares": 270000,
               "shares_lot": 270
+            },
+            "00981A": {
+              "weight_pct": 10.26,
+              "shares": 11657000,
+              "shares_lot": 11657
             }
           }
         }
@@ -352,15 +354,15 @@
               "shares": 144000,
               "shares_lot": 144
             },
-            "00981A": {
-              "weight_pct": 8.47,
-              "shares": 4723000,
-              "shares_lot": 4723
-            },
             "00988A": {
               "weight_pct": 3.03,
               "shares": 217000,
               "shares_lot": 217
+            },
+            "00981A": {
+              "weight_pct": 8.47,
+              "shares": 4723000,
+              "shares_lot": 4723
             }
           }
         }
@@ -383,15 +385,15 @@
               "shares": 634000,
               "shares_lot": 634
             },
-            "00981A": {
-              "weight_pct": 3.45,
-              "shares": 10822000,
-              "shares_lot": 10822
-            },
             "00988A": {
               "weight_pct": 2.27,
               "shares": 897000,
               "shares_lot": 897
+            },
+            "00981A": {
+              "weight_pct": 3.45,
+              "shares": 10822000,
+              "shares_lot": 10822
             }
           }
         }
@@ -435,15 +437,15 @@
               "shares": 268000,
               "shares_lot": 268
             },
-            "00981A": {
-              "weight_pct": 2.11,
-              "shares": 4151000,
-              "shares_lot": 4151
-            },
             "00988A": {
               "weight_pct": 0.95,
               "shares": 230000,
               "shares_lot": 230
+            },
+            "00981A": {
+              "weight_pct": 2.11,
+              "shares": 4151000,
+              "shares_lot": 4151
             }
           }
         }
@@ -492,15 +494,15 @@
               "shares": 130000,
               "shares_lot": 130
             },
-            "00981A": {
-              "weight_pct": 4.7,
-              "shares": 4925000,
-              "shares_lot": 4925
-            },
             "00988A": {
               "weight_pct": 1.58,
               "shares": 215000,
               "shares_lot": 215
+            },
+            "00981A": {
+              "weight_pct": 4.7,
+              "shares": 4925000,
+              "shares_lot": 4925
             }
           }
         }
@@ -523,15 +525,15 @@
               "shares": 10000,
               "shares_lot": 10
             },
-            "00981A": {
-              "weight_pct": 3.23,
-              "shares": 483000,
-              "shares_lot": 483
-            },
             "00988A": {
               "weight_pct": 1.52,
               "shares": 30000,
               "shares_lot": 30
+            },
+            "00981A": {
+              "weight_pct": 3.23,
+              "shares": 483000,
+              "shares_lot": 483
             }
           }
         }
@@ -554,15 +556,114 @@
               "shares": 50000,
               "shares_lot": 50
             },
-            "00981A": {
-              "weight_pct": 5.4,
-              "shares": 4263000,
-              "shares_lot": 4263
-            },
             "00988A": {
               "weight_pct": 3.12,
               "shares": 315000,
               "shares_lot": 315
+            },
+            "00981A": {
+              "weight_pct": 5.4,
+              "shares": 4263000,
+              "shares_lot": 4263
+            }
+          }
+        }
+      ]
+    },
+    "6515": {
+      "stock_id": "6515",
+      "stock_name": "穎崴",
+      "stock_display": "穎崴(6515)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 2,
+          "avg_weight_pct": 1.78,
+          "total_shares": 509000,
+          "total_lots": 509,
+          "etfs": {
+            "00988A": {
+              "weight_pct": 1.88,
+              "shares": 67000,
+              "shares_lot": 67
+            },
+            "00981A": {
+              "weight_pct": 1.68,
+              "shares": 442000,
+              "shares_lot": 442
+            }
+          }
+        }
+      ]
+    },
+    "3711": {
+      "stock_id": "3711",
+      "stock_name": "日月光投控",
+      "stock_display": "日月光投控(3711)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 2,
+          "avg_weight_pct": 2.45,
+          "total_shares": 16098000,
+          "total_lots": 16098,
+          "etfs": {
+            "00988A": {
+              "weight_pct": 1.71,
+              "shares": 1100000,
+              "shares_lot": 1100
+            },
+            "00981A": {
+              "weight_pct": 3.19,
+              "shares": 14998000,
+              "shares_lot": 14998
+            }
+          }
+        }
+      ]
+    },
+    "6223": {
+      "stock_id": "6223",
+      "stock_name": "旺矽",
+      "stock_display": "旺矽(6223)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 2,
+          "avg_weight_pct": 3.21,
+          "total_shares": 2259000,
+          "total_lots": 2259,
+          "etfs": {
+            "00988A": {
+              "weight_pct": 1.46,
+              "shares": 90000,
+              "shares_lot": 90
+            },
+            "00981A": {
+              "weight_pct": 4.97,
+              "shares": 2169000,
+              "shares_lot": 2169
+            }
+          }
+        }
+      ]
+    },
+    "7769": {
+      "stock_id": "7769",
+      "stock_name": "鴻勁",
+      "stock_display": "鴻勁(7769)",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "held_etf_count": 1,
+          "avg_weight_pct": 0.76,
+          "total_shares": 36000,
+          "total_lots": 36,
+          "etfs": {
+            "00988A": {
+              "weight_pct": 0.76,
+              "shares": 36000,
+              "shares_lot": 36
             }
           }
         }
@@ -584,32 +685,6 @@
               "weight_pct": 6.07,
               "shares": 6231000,
               "shares_lot": 6231
-            }
-          }
-        }
-      ]
-    },
-    "6223": {
-      "stock_id": "6223",
-      "stock_name": "旺矽",
-      "stock_display": "旺矽(6223)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 2,
-          "avg_weight_pct": 3.21,
-          "total_shares": 2259000,
-          "total_lots": 2259,
-          "etfs": {
-            "00981A": {
-              "weight_pct": 4.97,
-              "shares": 2169000,
-              "shares_lot": 2169
-            },
-            "00988A": {
-              "weight_pct": 1.46,
-              "shares": 90000,
-              "shares_lot": 90
             }
           }
         }
@@ -720,32 +795,6 @@
         }
       ]
     },
-    "3711": {
-      "stock_id": "3711",
-      "stock_name": "日月光投控",
-      "stock_display": "日月光投控(3711)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 2,
-          "avg_weight_pct": 2.45,
-          "total_shares": 16098000,
-          "total_lots": 16098,
-          "etfs": {
-            "00981A": {
-              "weight_pct": 3.19,
-              "shares": 14998000,
-              "shares_lot": 14998
-            },
-            "00988A": {
-              "weight_pct": 1.71,
-              "shares": 1100000,
-              "shares_lot": 1100
-            }
-          }
-        }
-      ]
-    },
     "2303": {
       "stock_id": "2303",
       "stock_name": "聯電",
@@ -762,32 +811,6 @@
               "weight_pct": 2.4,
               "shares": 56167000,
               "shares_lot": 56167
-            }
-          }
-        }
-      ]
-    },
-    "6515": {
-      "stock_id": "6515",
-      "stock_name": "穎崴",
-      "stock_display": "穎崴(6515)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 2,
-          "avg_weight_pct": 1.78,
-          "total_shares": 509000,
-          "total_lots": 509,
-          "etfs": {
-            "00981A": {
-              "weight_pct": 1.68,
-              "shares": 442000,
-              "shares_lot": 442
-            },
-            "00988A": {
-              "weight_pct": 1.88,
-              "shares": 67000,
-              "shares_lot": 67
             }
           }
         }
@@ -1355,27 +1378,6 @@
               "weight_pct": 0.0,
               "shares": 107000,
               "shares_lot": 107
-            }
-          }
-        }
-      ]
-    },
-    "7769": {
-      "stock_id": "7769",
-      "stock_name": "鴻勁",
-      "stock_display": "鴻勁(7769)",
-      "history": [
-        {
-          "date": "2026-05-14",
-          "held_etf_count": 1,
-          "avg_weight_pct": 0.76,
-          "total_shares": 36000,
-          "total_lots": 36,
-          "etfs": {
-            "00988A": {
-              "weight_pct": 0.76,
-              "shares": 36000,
-              "shares_lot": 36
             }
           }
         }
